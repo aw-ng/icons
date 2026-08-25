@@ -4,9 +4,7 @@ import { iconsMap } from './data/mappings';
 export interface IconProps {
 	name?: string;
 	color?: string;
-	width?: number;
-	height?: number;
-	style?: CSSProperties;
+	size?: number;
 	containerStyle?: CSSProperties;
 	weight?: number;
 }
@@ -23,8 +21,7 @@ export interface IconProps {
  * @param {IconProps}     props                Icon props.
  * @param {string}        props.name           Name of the Icon.
  * @param {string}        props.color          Color of the Icon.
- * @param {number}        props.width          Width of the Icon.
- * @param {number}        props.height         Height of the Icon.
+ * @param {number}        props.size           Size of the Icon (both width and height).
  * @param {CSSProperties} props.style          Styles specifically for the SVG Icon.
  * @param {CSSProperties} props.containerStyle Styles specifically for the Icon container.
  * @param {number}        props.weight         Stroke width of the Icon.
@@ -34,9 +31,7 @@ export interface IconProps {
 const Icon = ({
 	name = '',
 	color = '#000',
-	width = 24,
-	height = 24,
-	style = {},
+	size = 24,
 	containerStyle = {},
 	weight = 1,
 }: IconProps): JSX.Element | null => {
@@ -47,10 +42,6 @@ const Icon = ({
 		...containerStyle,
 	};
 
-	const resolvedWidth = (style.width as number) ?? width;
-	const resolvedHeight = (style.height as number) ?? height;
-	const resolvedColor = style.color ?? color;
-
   if (!name || !iconsMap[name]) {
     return null;
   }
@@ -59,14 +50,14 @@ const Icon = ({
 		<div style={customContainerStyle}>
 			<svg
 				viewBox="0 0 24 24"
-				width={resolvedWidth}
-				height={resolvedHeight}
+				width={size}
+				height={size}
 				fill="none"
 				xmlns="http://www.w3.org/2000/svg"
 			>
 				<path
 					d={iconsMap[name]}
-					stroke={resolvedColor}
+					stroke={color}
 					strokeWidth={weight}
 					strokeLinecap="round"
 					strokeLinejoin="round"
