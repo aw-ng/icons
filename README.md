@@ -1,6 +1,6 @@
 # icons
 
-A set of reusable React icon components useful for web and mobile applications.
+A set of reusable React icons useful for web and mobile applications.
 
 It ships with a reusable **Icon** component for rendering SVG icons consistently across the application. It accepts the `name`, `color`, `width`, `height`, `style`, `containerStyle`, and `weight` props to customize the icon's appearance and presentation.
 
