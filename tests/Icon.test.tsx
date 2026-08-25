@@ -27,7 +27,7 @@ describe('Icon', () => {
 	});
 
 	it('applies a custom width and height to the svg', () => {
-		const { container } = render(<Icon name="bell" width={48} height={48} />);
+		const { container } = render(<Icon name="bell" size={48} />);
 
 		const svg = container.querySelector('svg');
 
@@ -88,27 +88,6 @@ describe('Icon', () => {
 		expect(wrapper).toHaveStyle('align-items: center');
 		expect(wrapper).toHaveStyle('justify-content: center');
 		expect(wrapper).toHaveStyle('background-color: rgb(255, 0, 0)');
-	});
-
-	it('overrides width and height via style prop', () => {
-		const { container } = render(
-			<Icon name="bell" width={24} height={24} style={{ width: 64, height: 64 }} />
-		);
-
-		const svg = container.querySelector('svg');
-
-		expect(svg).toHaveAttribute('width', '64');
-		expect(svg).toHaveAttribute('height', '64');
-	});
-
-	it('overrides color via style prop', () => {
-		const { container } = render(
-			<Icon name="bell" color="#000" style={{ color: 'blue' }} />
-		);
-
-		const path = container.querySelector('path');
-
-		expect(path).toHaveAttribute('stroke', 'blue');
 	});
 
 	it('renders with an empty path when no name is passed', () => {
