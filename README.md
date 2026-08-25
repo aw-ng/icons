@@ -2,7 +2,7 @@
 
 A set of reusable icons useful for React applications..
 
-It ships with a reusable **Icon** component for rendering SVG icons consistently across the application. It accepts the `name`, `color`, `width`, `height`, `style`, `containerStyle`, and `weight` props to customize the icon's appearance and presentation.
+It ships with a reusable **Icon** component for rendering SVG icons consistently across the application. It accepts the `name`, `color`, `size`, `containerStyle`, and `weight` props to customize the icon's appearance and presentation.
 
 Internally, the component renders a native `<svg>` element containing one or more `<path>` elements. The `name` prop is used to resolve and render the corresponding icon from a predefined collection of imported SVG paths.
 
@@ -31,8 +31,7 @@ const Avatar = (): JSX.Element => {
       <Icon
         name="bell"
         color="#ff0000"
-        width={32}
-        height={32}
+        size={32}
         weight={2}
       />
       <span>John Doe</span>
@@ -47,9 +46,7 @@ export default Avatar;
 
 - name _`{string}`_ This represents the name of the icon to display. If the name doesn't match a known icon, no icon is rendered.
 - color _`{string}`_ This represents the stroke color of the icon. The default is `#000`.
-- width _`{number}`_ This represents the width of the icon's SVG. The default is `24`.
-- height _`{number}`_ This represents the height of the icon's SVG. The default is `24`.
-- style _`{Object}`_ This represents a style object that can override the current icon's resolved `width`, `height`, and `color`(Optional).
+- size _`{number}`_ This represents the width & height of the icon's SVG. The default is `24`.
 - containerStyle _`{Object}`_ This represents an object that overrides the current inline styles of the icon's wrapping container `div` (Optional).
 - weight _`{number}`_ This represents the stroke width of the icon. The default is `1`.
 
