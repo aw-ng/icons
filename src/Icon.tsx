@@ -22,7 +22,6 @@ export interface IconProps {
  * @param {string}        props.name           Name of the Icon.
  * @param {string}        props.color          Color of the Icon.
  * @param {number}        props.size           Size of the Icon (both width and height).
- * @param {CSSProperties} props.style          Styles specifically for the SVG Icon.
  * @param {CSSProperties} props.containerStyle Styles specifically for the Icon container.
  * @param {number}        props.weight         Stroke width of the Icon.
  *
