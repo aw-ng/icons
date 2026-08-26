@@ -20,12 +20,12 @@
   },
   "keywords": [
     "react",
-    "hooks",
-    "badasswp"
+    "icons",
+    "next-js"
   ],
   "files": [
     "index.js",
-    "hooks"
+    "src"
   ],
   "scripts": {
     "lint": "eslint .",
