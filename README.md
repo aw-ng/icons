@@ -1,6 +1,6 @@
 # icons
 
-A set of reusable icons useful for React applications..
+A set of reusable icons made for React applications..
 
 It ships with a reusable **Icon** component for rendering SVG icons consistently across the application. It accepts the `name`, `color`, `size`, `containerStyle`, and `weight` props to customize the icon's appearance and presentation.
 
@@ -29,7 +29,7 @@ const Avatar = (): JSX.Element => {
   return(
     <>
       <Icon
-        name="bell"
+        name="bell-outline"
         color="#ff0000"
         size={32}
         weight={2}
@@ -52,5 +52,4 @@ export default Avatar;
 
 ## Icons
 
-- [Icons](#icons)
-  - [Bell](#bell)
+- [bell-outline](./src/icons/BellOutline.tsx)

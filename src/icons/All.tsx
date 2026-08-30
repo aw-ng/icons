@@ -1,5 +1,5 @@
-import Bell from './Bell';
+import BellOutline from './BellOutline';
 
 export {
-  Bell,
+  BellOutline,
 };
