@@ -5,20 +5,20 @@ import Icon from '../src/Icon';
 
 describe('Icon', () => {
 	it('matches the snapshot', () => {
-		const container = render(<Icon name="bell" />);
+		const container = render(<Icon name="bell-outline" />);
 
 		expect(container).toMatchSnapshot();
 	});
 
 	it('renders svg & path elements', () => {
-		const { container } = render(<Icon name="bell" />);
+		const { container } = render(<Icon name="bell-outline" />);
 
 		expect(container.querySelector('svg')).toBeInTheDocument();
     expect(container.querySelector('path')).toBeInTheDocument();
 	});
 
 	it('applies the default width and height to the svg', () => {
-		const { container } = render(<Icon name="bell" />);
+		const { container } = render(<Icon name="bell-outline" />);
 
 		const svg = container.querySelector('svg');
 
@@ -27,7 +27,7 @@ describe('Icon', () => {
 	});
 
 	it('applies a custom width and height to the svg', () => {
-		const { container } = render(<Icon name="bell" size={48} />);
+		const { container } = render(<Icon name="bell-outline" size={48} />);
 
 		const svg = container.querySelector('svg');
 
@@ -36,7 +36,7 @@ describe('Icon', () => {
 	});
 
 	it('applies the default stroke color to the path', () => {
-		const { container } = render(<Icon name="bell" />);
+		const { container } = render(<Icon name="bell-outline" />);
 
 		const path = container.querySelector('path');
 
@@ -44,7 +44,7 @@ describe('Icon', () => {
 	});
 
 	it('applies a custom stroke color to the path', () => {
-		const { container } = render(<Icon name="bell" color="red" />);
+		const { container } = render(<Icon name="bell-outline" color="red" />);
 
 		const path = container.querySelector('path');
 
@@ -52,7 +52,7 @@ describe('Icon', () => {
 	});
 
 	it('applies the default stroke weight to the path', () => {
-		const { container } = render(<Icon name="bell" />);
+		const { container } = render(<Icon name="bell-outline" />);
 
 		const path = container.querySelector('path');
 
@@ -60,7 +60,7 @@ describe('Icon', () => {
 	});
 
 	it('applies a custom stroke weight to the path', () => {
-		const { container } = render(<Icon name="bell" weight={3} />);
+		const { container } = render(<Icon name="bell-outline" weight={3} />);
 
 		const path = container.querySelector('path');
 
@@ -68,7 +68,7 @@ describe('Icon', () => {
 	});
 
 	it('applies the default container styles', () => {
-		const { container } = render(<Icon name="bell" />);
+		const { container } = render(<Icon name="bell-outline" />);
 
 		const wrapper = container.firstChild;
 
@@ -79,7 +79,7 @@ describe('Icon', () => {
 
 	it('merges custom containerStyle with default container styles', () => {
 		const { container } = render(
-			<Icon name="bell" containerStyle={{ backgroundColor: '#ff0000' }} />
+			<Icon name="bell-outline" containerStyle={{ backgroundColor: '#ff0000' }} />
 		);
 
 		const wrapper = container.firstChild;
