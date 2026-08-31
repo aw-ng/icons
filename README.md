@@ -52,11 +52,13 @@ export default Avatar;
 
 ## Development
 
-- Clone repo to local desktop (you can use any other location of your choice): `git clone git@github.com:aw-ng/icons.git`
-- Setup local React test env (as before, you can use any location of your choice): `npm create vite@latest test-icons -- --template react-ts`.
+- Clone repo to local desktop (you can use any other location of your choice):
+  - `git clone git@github.com:aw-ng/icons.git`
+- Setup local React test env (as before, you can use any location of your choice):
+  - `npm create vite@latest test-icons -- --template react-ts`.
 - You should now have something like so:
-`~/Desktop/icons      ← aw-ng repo`
-`~/Desktop/test-icons ← React app to test it in`
+  - `~/Desktop/icons      ← aw-ng repo`
+  - `~/Desktop/test-icons ← React app to test it in`
 - Run `yarn link` inside `~/Desktop/icons` folder to link npm package globally.
 - You should see something similar to: `success Registered "@aw-ng/icons".`
 - Run `yarn link @aw-ng/icons` inside `~/Desktop/test-icons` folder to symlink this.
