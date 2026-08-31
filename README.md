@@ -50,6 +50,19 @@ export default Avatar;
 - containerStyle _`{Object}`_ This represents an object that overrides the current inline styles of the icon's wrapping container `div` (Optional).
 - weight _`{number}`_ This represents the stroke width of the icon. The default is `1`.
 
+## Development
+
+- Clone repo to local desktop (you can use any other location of your choice): `git clone git@github.com:aw-ng/icons.git`
+- Setup local React test env (as before, you can use any location of your choice): `npm create vite@latest test-icons -- --template react-ts`.
+- You should now have something like so:
+`~/Desktop/icons      ← aw-ng repo`
+`~/Desktop/test-icons ← React app to test it in`
+- Run `yarn link` inside `~/Desktop/icons` folder to link npm package globally.
+- You should see something similar to: `success Registered "@aw-ng/icons".`
+- Run `yarn link @aw-ng/icons` inside `~/Desktop/test-icons` folder to symlink this.
+- You can verify that this is linked correctly using: `ls -l node_modules/@aw-ng/icons`.
+- You should now be able to test `@aw-ng/icons` easily from your `test-icons` repo.
+
 ## Icons
 
 - [bell-outline](./src/icons/BellOutline.tsx)
