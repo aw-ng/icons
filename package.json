@@ -8,10 +8,10 @@
     "email": "badasswpdev@gmail.com",
     "url": "https://github.com/badasswp"
   },
-  "main": "./index.js",
+  "main": "./index.ts",
   "exports": {
     ".": {
-      "import": "./index.js"
+      "import": "./index.ts"
     }
   },
   "repository": {
@@ -24,7 +24,7 @@
     "next-js"
   ],
   "files": [
-    "index.js",
+    "index.ts",
     "src"
   ],
   "scripts": {

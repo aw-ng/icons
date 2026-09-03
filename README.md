@@ -54,6 +54,8 @@ export default Avatar;
 
 - Clone repo to local desktop (you can use any other location of your choice):
   - `git clone git@github.com:aw-ng/icons.git`
+- Install the repo you just cloned by running:
+  - `yarn install`
 - Setup local React test env (as before, you can use any location of your choice):
   - `npm create vite@latest test-icons -- --template react-ts`.
 - You should now have something like so:
