@@ -1,3 +1,4 @@
+import AppleSolid from './AppleSolid';
 import AnnotationSolid from './AnnotationSolid';
 import AngleUpOutline from './AngleUpOutline';
 import AngleLeftOutline from './AngleLeftOutline';
@@ -12,6 +13,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  AppleSolid,
   AnnotationSolid,
   AngleUpOutline,
   AngleLeftOutline,
