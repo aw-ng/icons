@@ -1,4 +1,5 @@
 import {
+  AlignCenterOutline,
   AdjustmentsVerticalOutline,
   AdjustmentsHorizontalOutline,
   AddressBookOutline,
@@ -8,6 +9,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
+  'align-center-outline': AlignCenterOutline,
   'adjustments-vertical-outline': AdjustmentsVerticalOutline,
   'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
   'address-book-outline': AddressBookOutline,
