@@ -1,3 +1,4 @@
+import AngleLeftOutline from './AngleLeftOutline';
 import AlignRightOutline from './AlignRightOutline';
 import AlignJustifyOutline from './AlignJustifyOutline';
 import AlignCenterOutline from './AlignCenterOutline';
@@ -9,6 +10,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  AngleLeftOutline,
   AlignRightOutline,
   AlignJustifyOutline,
   AlignCenterOutline,
