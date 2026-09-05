@@ -1,4 +1,5 @@
 import {
+  AnnotationSolid,
   AngleUpOutline,
   AngleLeftOutline,
   AlignRightOutline,
@@ -13,6 +14,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
+  'annotation-solid': AnnotationSolid,
   'angle-up-outline': AngleUpOutline,
   'angle-left-outline': AngleLeftOutline,
   'align-right-outline': AlignRightOutline,
