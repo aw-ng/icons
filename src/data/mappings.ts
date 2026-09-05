@@ -1,4 +1,5 @@
 import {
+  AdjustmentsHorizontalOutline,
   AddressBookOutline,
   ColumnAfterOutline,
   AppleFullOutline,
@@ -6,6 +7,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
+  'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
   'address-book-outline': AddressBookOutline,
   'column-after-outline': ColumnAfterOutline,
   'apple-full-outline': AppleFullOutline,
