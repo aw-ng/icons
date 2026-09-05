@@ -1,4 +1,5 @@
 import {
+  ArchiveArrowDownSolid,
   AppleSolid,
   AnnotationSolid,
   AngleUpOutline,
@@ -15,6 +16,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
+  'archive-arrow-down-solid': ArchiveArrowDownSolid,
   'apple-solid': AppleSolid,
   'annotation-solid': AnnotationSolid,
   'angle-up-outline': AngleUpOutline,

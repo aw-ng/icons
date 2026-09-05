@@ -1,3 +1,4 @@
+import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import AppleSolid from './AppleSolid';
 import AnnotationSolid from './AnnotationSolid';
 import AngleUpOutline from './AngleUpOutline';
@@ -13,6 +14,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  ArchiveArrowDownSolid,
   AppleSolid,
   AnnotationSolid,
   AngleUpOutline,
