@@ -12,6 +12,7 @@ import {
   AppleFullOutline,
   AppleSolid,
   BellOutline,
+  ColumnBeforeOutline
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -28,4 +29,5 @@ export const iconsMap: Record<string, string> = {
   'apple-full-outline': AppleFullOutline,
   'apple-solid': AppleSolid,
   'bell-outline': BellOutline,
+  'column-before-outline': ColumnBeforeOutline,
 };
