@@ -1,3 +1,4 @@
+import BookSolid from './BookSolid';
 import ClickSolid from './ClickSolid';
 import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
 import BookOpenSolid from './BookOpenSolid';
@@ -23,6 +24,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  BookSolid,
   ClickSolid,
   ArrowLeftToBracketOutline,
   BookOpenSolid,
