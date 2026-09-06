@@ -1,4 +1,5 @@
 import {
+  BookOpenSolid,
   ClipboardSolid,
   ArrowLeftOutline,
   ClipBoardCheckSolid,
@@ -22,6 +23,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string | string[]> = {
+  'book-open-solid': BookOpenSolid,
   'clipboard-solid': ClipboardSolid,
   'arrow-left-outline': ArrowLeftOutline,
   'clipboard-check-solid': ClipBoardCheckSolid,
