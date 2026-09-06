@@ -1,3 +1,4 @@
+import ClipBoardCheckSolid from './ClipBoardCheckSolid';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArchiveSolid from './ArchiveSolid';
 import BitcoinSolid from './BitcoinSolid';
@@ -17,6 +18,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  ClipBoardCheckSolid,
   ArrowDownToBracketOutline,
   ArchiveSolid,
   BitcoinSolid,
