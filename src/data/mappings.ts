@@ -1,4 +1,5 @@
 import {
+  ArrowLeftOutline,
   ClipBoardCheckSolid,
   ArrowDownToBracketOutline,
   ArchiveSolid,
@@ -20,6 +21,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string | string[]> = {
+  'arrow-left-outline': ArrowLeftOutline,
   'clipboard-check-solid': ClipBoardCheckSolid,
   'arrow-down-to-bracket-outline': ArrowDownToBracketOutline,
   'archive-solid': ArchiveSolid,
