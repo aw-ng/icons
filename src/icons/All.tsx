@@ -1,3 +1,4 @@
+import ArchiveSolid from './ArchiveSolid';
 import BitcoinSolid from './BitcoinSolid';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import AppleSolid from './AppleSolid';
@@ -15,6 +16,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  ArchiveSolid,
   BitcoinSolid,
   ArchiveArrowDownSolid,
   AppleSolid,
