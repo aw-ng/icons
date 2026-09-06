@@ -1,4 +1,5 @@
 import {
+  BitcoinSolid,
   ArchiveArrowDownSolid,
   AppleSolid,
   AnnotationSolid,
@@ -15,7 +16,8 @@ import {
   BellOutline,
 } from '../icons/All';
 
-export const iconsMap: Record<string, string> = {
+export const iconsMap: Record<string, string | string[]> = {
+  'bitcoin-solid': BitcoinSolid,
   'archive-arrow-down-solid': ArchiveArrowDownSolid,
   'apple-solid': AppleSolid,
   'annotation-solid': AnnotationSolid,
