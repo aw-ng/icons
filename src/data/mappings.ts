@@ -1,4 +1,5 @@
 import {
+  EggSolid,
   ArrowRightAltOutline,
   BookSolid,
   ClickSolid,
@@ -27,6 +28,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string | string[]> = {
+  'egg-solid': EggSolid,
   'arrow-right-alt-outline': ArrowRightAltOutline,
   'book-solid': BookSolid,
   'click-solid': ClickSolid,

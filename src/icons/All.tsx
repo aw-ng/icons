@@ -1,3 +1,4 @@
+import EggSolid from './EggSolid';
 import ArrowRightAltOutline from './ArrowRightAltOutline';
 import BookSolid from './BookSolid';
 import ClickSolid from './ClickSolid';
@@ -25,6 +26,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  EggSolid,
   ArrowRightAltOutline,
   BookSolid,
   ClickSolid,
