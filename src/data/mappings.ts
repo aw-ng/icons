@@ -1,4 +1,5 @@
 import {
+  ArrowLeftToBracketOutline,
   BookOpenSolid,
   ClipboardSolid,
   ArrowLeftOutline,
@@ -23,6 +24,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string | string[]> = {
+  'arrow-left-to-bracket-outline': ArrowLeftToBracketOutline,
   'book-open-solid': BookOpenSolid,
   'clipboard-solid': ClipboardSolid,
   'arrow-left-outline': ArrowLeftOutline,

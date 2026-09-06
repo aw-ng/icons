@@ -1,3 +1,4 @@
+import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
 import BookOpenSolid from './BookOpenSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ArrowLeftOutline from './ArrowLeftOutline';
@@ -21,6 +22,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  ArrowLeftToBracketOutline,
   BookOpenSolid,
   ClipboardSolid,
   ArrowLeftOutline,
