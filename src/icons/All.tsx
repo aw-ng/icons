@@ -1,3 +1,4 @@
+import ClipboardSolid from './ClipboardSolid';
 import ArrowLeftOutline from './ArrowLeftOutline';
 import ClipBoardCheckSolid from './ClipBoardCheckSolid';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
@@ -19,6 +20,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
+  ClipboardSolid,
   ArrowLeftOutline,
   ClipBoardCheckSolid,
   ArrowDownToBracketOutline,
