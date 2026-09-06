@@ -1,9 +1,35 @@
 import {
+  BitcoinSolid,
+  ArchiveArrowDownSolid,
+  AppleSolid,
+  AnnotationSolid,
+  AngleUpOutline,
+  AngleLeftOutline,
+  AlignRightOutline,
+  AlignJustifyOutline,
+  AlignCenterOutline,
+  AdjustmentsVerticalOutline,
+  AdjustmentsHorizontalOutline,
+  AddressBookOutline,
+  ColumnAfterOutline,
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
 
-export const iconsMap: Record<string, string> = {
+export const iconsMap: Record<string, string | string[]> = {
+  'bitcoin-solid': BitcoinSolid,
+  'archive-arrow-down-solid': ArchiveArrowDownSolid,
+  'apple-solid': AppleSolid,
+  'annotation-solid': AnnotationSolid,
+  'angle-up-outline': AngleUpOutline,
+  'angle-left-outline': AngleLeftOutline,
+  'align-right-outline': AlignRightOutline,
+  'align-justify-outline': AlignJustifyOutline,
+  'align-center-outline': AlignCenterOutline,
+  'adjustments-vertical-outline': AdjustmentsVerticalOutline,
+  'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
+  'address-book-outline': AddressBookOutline,
+  'column-after-outline': ColumnAfterOutline,
   'apple-full-outline': AppleFullOutline,
   'bell-outline': BellOutline,
 };
