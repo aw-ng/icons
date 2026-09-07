@@ -1,4 +1,4 @@
-import ColumnAfterOutline from './ColumnAfterOutline';
+import AddColumnAfterOutline from './AddColumnAfterOutline';
 import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
