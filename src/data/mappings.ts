@@ -1,5 +1,5 @@
 import {
-  ColumnAfterOutline,
+  AddColumnAfterOutline,
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
