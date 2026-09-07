@@ -5,7 +5,7 @@ import {
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
-  'column-after-outline': ColumnAfterOutline,
+  'add-column-after-outline': AddColumnAfterOutline,
   'apple-full-outline': AppleFullOutline,
   'bell-outline': BellOutline,
 };
