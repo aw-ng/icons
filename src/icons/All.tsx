@@ -3,7 +3,7 @@ import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
-  ColumnAfterOutline,
+  AddColumnAfterOutline,
   AppleFullOutline,
   BellOutline,
 };
