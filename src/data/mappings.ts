@@ -1,13 +1,13 @@
 import {
-  AddressBookOutline,
   AddColumnAfterOutline,
+  AddressBookOutline,
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
-  'address-book-outline': AddressBookOutline,
   'add-column-after-outline': AddColumnAfterOutline,
+  'address-book-outline': AddressBookOutline,
   'apple-full-outline': AppleFullOutline,
   'bell-outline': BellOutline,
 };
