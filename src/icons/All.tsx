@@ -1,17 +1,17 @@
-import AlignCenterOutline from './AlignCenterOutline';
-import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
-import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
+import AddColumnAfterOutline from './AddColumnAfterOutline';
 import AddressBookOutline from './AddressBookOutline';
-import ColumnAfterOutline from './ColumnAfterOutline';
+import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
+import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
+import AlignCenterOutline from './AlignCenterOutline';
 import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
 export {
-  AlignCenterOutline,
-  AdjustmentsVerticalOutline,
-  AdjustmentsHorizontalOutline,
+  AddColumnAfterOutline,
   AddressBookOutline,
-  ColumnAfterOutline,
+  AdjustmentsHorizontalOutline,
+  AdjustmentsVerticalOutline,
+  AlignCenterOutline,
   AppleFullOutline,
   BellOutline,
 };
