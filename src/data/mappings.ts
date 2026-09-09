@@ -1,17 +1,17 @@
 import {
-  AdjustmentsVerticalOutline,
-  AdjustmentsHorizontalOutline,
+  AddColumnAfterOutline,
   AddressBookOutline,
-  ColumnAfterOutline,
+  AdjustmentsHorizontalOutline,
+  AdjustmentsVerticalOutline,
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
-  'adjustments-vertical-outline': AdjustmentsVerticalOutline,
-  'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
+  'add-column-after-outline': AddColumnAfterOutline,
   'address-book-outline': AddressBookOutline,
-  'column-after-outline': ColumnAfterOutline,
+  'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
+  'adjustments-vertical-outline': AdjustmentsVerticalOutline,
   'apple-full-outline': AppleFullOutline,
   'bell-outline': BellOutline,
 };
