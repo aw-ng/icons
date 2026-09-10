@@ -2,4 +2,3 @@ const AdjustmentsHorizontalOutline = 'M20 6H10m0 0a2 2 0 1 0-4 0m4 0a2 2 0 1 1-4
 
 export default AdjustmentsHorizontalOutline;
 
-
