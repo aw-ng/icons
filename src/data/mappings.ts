@@ -4,6 +4,11 @@ import {
   AdjustmentsHorizontalOutline,
   AdjustmentsVerticalOutline,
   AlignCenterOutline,
+  AlignJustifyOutline,
+  AlignRightOutline,
+  AngleLeftOutline,
+  AngleUpOutline,
+  AnnotationSolid,
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
@@ -14,6 +19,11 @@ export const iconsMap: Record<string, string> = {
   'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
   'adjustments-vertical-outline': AdjustmentsVerticalOutline,
   'align-center-outline': AlignCenterOutline,
+  'align-justify-outline': AlignJustifyOutline,
+  'align-right-outline': AlignRightOutline,
+  'angle-left-outline': AngleLeftOutline,
+  'angle-up-outline': AngleUpOutline,
+  'annotation-solid': AnnotationSolid,
   'apple-full-outline': AppleFullOutline,
   'bell-outline': BellOutline,
 };
