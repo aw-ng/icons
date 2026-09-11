@@ -4,13 +4,10 @@ import {
   AdjustmentsHorizontalOutline,
   AdjustmentsVerticalOutline,
   AlignCenterOutline,
-<<<<<<< HEAD
   AlignJustifyOutline,
   AlignRightOutline,
   AngleLeftOutline,
   AngleUpOutline,
-=======
->>>>>>> staging
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
