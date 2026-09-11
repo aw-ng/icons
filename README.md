@@ -78,5 +78,6 @@ export default Avatar;
 | <img src="./src/raw/align-center-outline.svg" width="30" alt="align-center-outline"> | [align-center-outline](./src/icons/AlignCenterOutline.tsx) |
 | <img src="./src/raw/align-justify-outline.svg" width="30" alt="align-justify-outline"> | [align-justify-outline](./src/icons/AlignJustifyOutline.tsx) |
 | <img src="./src/raw/align-right-outline.svg" width="30" alt="align-right-outline"> | [align-right-outline](./src/icons/AlignRightOutline.tsx) |
+| <img src="./src/raw/angle-up-outline.svg" width="30" alt="angle-up-outline"> | [angle-up-outline](./src/icons/AngleUpOutline.tsx) |
 | <img src="./src/raw/apple-full-outline.svg" width="30" alt="apple-full-outline"> | [apple-full-outline](./src/icons/AppleFullOutline.tsx) |
 | <img src="./src/raw/bell-outline.svg" width="30" alt="bell-outline"> | [bell-outline](./src/icons/BellOutline.tsx) |
