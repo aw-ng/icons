@@ -17,7 +17,10 @@ export {
   AlignCenterOutline,
   AlignJustifyOutline,
   AlignRightOutline,
+<<<<<<< HEAD
   AngleLeftOutline,
+=======
+>>>>>>> staging
   AppleFullOutline,
   BellOutline,
 };

@@ -6,7 +6,10 @@ import {
   AlignCenterOutline,
   AlignJustifyOutline,
   AlignRightOutline,
+<<<<<<< HEAD
   AngleLeftOutline,
+=======
+>>>>>>> staging
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
