@@ -5,6 +5,7 @@ import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
 import AlignCenterOutline from './AlignCenterOutline';
 import AlignJustifyOutline from './AlignJustifyOutline';
 import AlignRightOutline from './AlignRightOutline';
+import AngleLeftOutline from './AngleLeftOutline';
 import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
@@ -16,6 +17,10 @@ export {
   AlignCenterOutline,
   AlignJustifyOutline,
   AlignRightOutline,
+<<<<<<< HEAD
+  AngleLeftOutline,
+=======
+>>>>>>> staging
   AppleFullOutline,
   BellOutline,
 };
