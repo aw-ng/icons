@@ -8,7 +8,7 @@ import AlignRightOutline from './AlignRightOutline';
 import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
-export {  
+export {
   AddColumnAfterOutline,
   AddressBookOutline,
   AdjustmentsHorizontalOutline,
