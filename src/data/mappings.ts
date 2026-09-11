@@ -4,6 +4,7 @@ import {
   AdjustmentsHorizontalOutline,
   AdjustmentsVerticalOutline,
   AlignCenterOutline,
+  AlignJustifyOutline,
   AppleFullOutline,
   BellOutline,
 } from '../icons/All';
@@ -14,6 +15,7 @@ export const iconsMap: Record<string, string> = {
   'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
   'adjustments-vertical-outline': AdjustmentsVerticalOutline,
   'align-center-outline': AlignCenterOutline,
+  'align-justify-outline': AlignJustifyOutline,
   'apple-full-outline': AppleFullOutline,
   'bell-outline': BellOutline,
 };
