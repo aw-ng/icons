@@ -10,6 +10,7 @@ import {
   AngleUpOutline,
   AnnotationSolid,
   AppleFullOutline,
+  AppleSolid,
   BellOutline,
 } from '../icons/All';
 
@@ -25,5 +26,6 @@ export const iconsMap: Record<string, string> = {
   'angle-up-outline': AngleUpOutline,
   'annotation-solid': AnnotationSolid,
   'apple-full-outline': AppleFullOutline,
+  'apple-solid': AppleSolid,
   'bell-outline': BellOutline,
 };
