@@ -7,6 +7,7 @@ import AlignJustifyOutline from './AlignJustifyOutline';
 import AlignRightOutline from './AlignRightOutline';
 import AngleLeftOutline from './AngleLeftOutline';
 import AngleUpOutline from './AngleUpOutline';
+import AnnotationSolid from './AnnotationSolid';
 import AppleFullOutline from './AppleFullOutline';
 import BellOutline from './BellOutline';
 
@@ -20,6 +21,8 @@ export {
   AlignRightOutline,
   AngleLeftOutline,
   AngleUpOutline,
+  AnnotationSolid,
   AppleFullOutline,
   BellOutline,
 };
+
