@@ -9,6 +9,8 @@ import AngleLeftOutline from './AngleLeftOutline';
 import AngleUpOutline from './AngleUpOutline';
 import AnnotationSolid from './AnnotationSolid';
 import AppleFullOutline from './AppleFullOutline';
+import AppleSolid from './AppleSolid';
+import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import BellOutline from './BellOutline';
 
 export {
@@ -23,6 +25,8 @@ export {
   AngleUpOutline,
   AnnotationSolid,
   AppleFullOutline,
+  AppleSolid,
+  ArchiveArrowDownSolid,
   BellOutline,
 };
 
