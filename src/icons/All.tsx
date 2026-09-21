@@ -1,3 +1,4 @@
+import AddColumnBeforeOutline from './AddColumnBeforeOutline'
 import AddColumnAfterOutline from './AddColumnAfterOutline';
 import AddressBookOutline from './AddressBookOutline';
 import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
@@ -11,9 +12,9 @@ import AnnotationSolid from './AnnotationSolid';
 import AppleFullOutline from './AppleFullOutline';
 import AppleSolid from './AppleSolid';
 import BellOutline from './BellOutline';
-import ColumnBeforeOutline from './ColumnBeforeOutline';
 
 export {
+  AddColumnBeforeOutline,
   AddColumnAfterOutline,
   AddressBookOutline,
   AdjustmentsHorizontalOutline,
@@ -27,6 +28,5 @@ export {
   AppleFullOutline,
   AppleSolid,
   BellOutline,
-  ColumnBeforeOutline
 };
 
