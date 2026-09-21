@@ -3,6 +3,7 @@ import AddColumnBeforeOutline from './AddColumnBeforeOutline'
 import AddressBookOutline from './AddressBookOutline';
 import AddressBookSolid from './AddressBookSolid';
 import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
+import AdjustmentsHorizontalSolid from './AdjustmentsHorizontalSolid';
 import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
 import AlignCenterOutline from './AlignCenterOutline';
 import AlignJustifyOutline from './AlignJustifyOutline';
@@ -23,6 +24,7 @@ export {
   AddressBookOutline,
   AddressBookSolid,
   AdjustmentsHorizontalOutline,
+  AdjustmentsHorizontalSolid,
   AdjustmentsVerticalOutline,
   AlignCenterOutline,
   AlignJustifyOutline,
