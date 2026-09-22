@@ -20,6 +20,7 @@ import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import ArchiveSolid from './ArchiveSolid';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
+import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookOpenSolid from './BookOpenSolid';
@@ -50,6 +51,7 @@ export {
   ArchiveSolid,
   ArrowDownToBracketOutline,
   ArrowLeftOutline,
+  ArrowLeftToBracketOutline,
   BellOutline,
   BitcoinSolid,
   BookOpenSolid,
