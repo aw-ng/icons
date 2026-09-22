@@ -76,6 +76,7 @@ export default Avatar;
 | <img src="./src/raw/address-book-outline.svg" width="30" alt="address-book-outline"> | [address-book-outline](./src/icons/AddressBookOutline.tsx) |
 | <img src="./src/raw/address-book-solid.svg" width="30" alt="address-book-solid"> | [address-book-solid](./src/icons/AddressBookSolid.tsx) |
 | <img src="./src/raw/adjustments-horizontal-outline.svg" width="30" alt="adjustments-horizontal-outline"> | [adjustments-horizontal-outline](./src/icons/AdjustmentsHorizontalOutline.tsx) |
+| <img src="./src/raw/adjustments-horizontal-solid.svg" width="30" alt="adjustments-horizontal-solid"> | [adjustments-horizontal-solid](./src/icons/AdjustmentsHorizontalSolid.tsx) |
 | <img src="./src/raw/adjustments-vertical-outline.svg" width="30" alt="adjustments-vertical-outline"> | [adjustments-vertical-outline](./src/icons/AdjustmentsVerticalOutline.tsx) |
 | <img src="./src/raw/align-center-outline.svg" width="30" alt="align-center-outline"> | [align-center-outline](./src/icons/AlignCenterOutline.tsx) |
 | <img src="./src/raw/align-justify-outline.svg" width="30" alt="align-justify-outline"> | [align-justify-outline](./src/icons/AlignJustifyOutline.tsx) |
@@ -88,6 +89,7 @@ export default Avatar;
 | <img src="./src/raw/archive-arrow-down-solid.svg" width="30" alt="archive-arrow-down-solid"> | [archive-arrow-down-solid](./src/icons/ArchiveArrowDownSolid.tsx) |
 | <img src="./src/raw/archive-solid.svg" width="30" alt="archive-solid"> | [archive-solid](./src/icons/ArchiveSolid.tsx) |
 | <img src="./src/raw/arrow-down-to-bracket-outline.svg" width="30" alt="arrow-down-to-bracket-outline"> | [arrow-down-to-bracket-outline](./src/icons/ArrowDownToBracketOutline.tsx) |
+| <img src="./src/raw/arrow-left-outline.svg" width="30" alt="arrow-left-outline"> | [arrow-left-outline](./src/icons/ArrowLeftOutline.tsx) |
 | <img src="./src/raw/bell-outline.svg" width="30" alt="bell-outline"> | [bell-outline](./src/icons/BellOutline.tsx) |
 | <img src="./src/raw/bitcoin-solid.svg" width="30" alt="bitcoin-solid"> | [bitcoin-solid](./src/icons/BitcoinSolid.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipBoardCheckSolid.tsx) |
