@@ -31,6 +31,7 @@ import {
   ClipboardCheckSolid,
   ClipboardSolid,
   ClockSolid,
+  CloudArrowUpSolid,
   EggSolid,
 } from '../icons/All';
 
@@ -67,5 +68,6 @@ export const iconsMap: Record<string, string> = {
   'clipboard-check-solid': ClipboardCheckSolid,
   'clipboard-solid': ClipboardSolid,
   'clock-solid': ClockSolid,
+  'cloud-arrow-up-solid': CloudArrowUpSolid,
   'egg-solid': EggSolid,
 };
