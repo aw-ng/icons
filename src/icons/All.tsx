@@ -32,6 +32,7 @@ import BookSolid from './BookSolid';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
+import CloudArrowUpSolid from './CloudArrowUpSolid'
 import EggSolid from './EggSolid';
 
 export {
@@ -69,6 +70,7 @@ export {
   ClipboardCheckSolid,
   ClipboardSolid,
   ClockSolid,
+  CloudArrowUpSolid,
   EggSolid,
 };
 
