@@ -23,7 +23,7 @@ import ArrowLeftOutline from './ArrowLeftOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookOpenSolid from './BookOpenSolid';
-import ClipBoardCheckSolid from './ClipBoardCheckSolid';
+import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 
 export {
@@ -52,7 +52,7 @@ export {
   BellOutline,
   BitcoinSolid,
   BookOpenSolid,
-  ClipBoardCheckSolid,
+  ClipboardCheckSolid,
   ClipboardSolid,
 };
 
