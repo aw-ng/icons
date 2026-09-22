@@ -89,6 +89,7 @@ export default Avatar;
 | <img src="./src/raw/angle-up-outline.svg" width="30" alt="angle-up-outline"> | [angle-up-outline](./src/icons/AngleUpOutline.tsx) |
 | <img src="./src/raw/annotation-outline.svg" width="30" alt="annotation-outline"> | [annotation-outline](./src/icons/AnnotationOutline.tsx) |
 | <img src="./src/raw/annotation-solid.svg" width="30" alt="annotation-solid"> | [annotation-solid](./src/icons/AnnotationSolid.tsx) |
+| <img src="./src/raw/api-key-outline.svg" width="30" alt="api-key-outline"> | [api-key-outline](./src/icons/ApiKeyOutline.tsx) |
 | <img src="./src/raw/apple-full-outline.svg" width="30" alt="apple-full-outline"> | [apple-full-outline](./src/icons/AppleFullOutline.tsx) |
 | <img src="./src/raw/apple-solid.svg" width="30" alt="apple-solid"> | [apple-solid](./src/icons/AppleSolid.tsx) |
 | <img src="./src/raw/archive-arrow-down-solid.svg" width="30" alt="archive-arrow-down-solid"> | [archive-arrow-down-solid](./src/icons/ArchiveArrowDownSolid.tsx) |
