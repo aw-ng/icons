@@ -25,6 +25,7 @@ import BitcoinSolid from './BitcoinSolid';
 import BookOpenSolid from './BookOpenSolid';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
+import ClockSolid from './ClockSolid';
 
 export {
   AddColumnAfterOutline,
@@ -54,5 +55,6 @@ export {
   BookOpenSolid,
   ClipboardCheckSolid,
   ClipboardSolid,
+  ClockSolid,
 };
 
