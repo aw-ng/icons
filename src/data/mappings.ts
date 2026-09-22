@@ -29,7 +29,6 @@ import {
   ClockSolid,
 } from '../icons/All';
 
-
 export const iconsMap: Record<string, string> = {
   'add-column-after-outline': AddColumnAfterOutline,
   'add-column-before-outline': AddColumnBeforeOutline,
