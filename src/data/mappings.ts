@@ -13,6 +13,7 @@ import {
   AppleFullOutline,
   AppleSolid,
   ArchiveArrowDownSolid,
+  ArchiveSolid,
   BellOutline,
 } from '../icons/All';
 
@@ -31,5 +32,6 @@ export const iconsMap: Record<string, string> = {
   'apple-full-outline': AppleFullOutline,
   'apple-solid': AppleSolid,
   'archive-arrow-down-solid': ArchiveArrowDownSolid,
+  'archive-solid': ArchiveSolid,
   'bell-outline': BellOutline,
 };
