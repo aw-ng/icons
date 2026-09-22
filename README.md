@@ -78,6 +78,7 @@ export default Avatar;
 | <img src="./src/raw/adjustments-horizontal-outline.svg" width="30" alt="adjustments-horizontal-outline"> | [adjustments-horizontal-outline](./src/icons/AdjustmentsHorizontalOutline.tsx) |
 | <img src="./src/raw/adjustments-horizontal-solid.svg" width="30" alt="adjustments-horizontal-solid"> | [adjustments-horizontal-solid](./src/icons/AdjustmentsHorizontalSolid.tsx) |
 | <img src="./src/raw/adjustments-vertical-outline.svg" width="30" alt="adjustments-vertical-outline"> | [adjustments-vertical-outline](./src/icons/AdjustmentsVerticalOutline.tsx) |
+| <img src="./src/raw/adjustments-vertical-solid.svg" width="30" alt="adjustments-vertical-solid"> | [adjustments-vertical-solid](./src/icons/AdjustmentsVerticalSolid.tsx) |
 | <img src="./src/raw/align-center-outline.svg" width="30" alt="align-center-outline"> | [align-center-outline](./src/icons/AlignCenterOutline.tsx) |
 | <img src="./src/raw/align-justify-outline.svg" width="30" alt="align-justify-outline"> | [align-justify-outline](./src/icons/AlignJustifyOutline.tsx) |
 | <img src="./src/raw/align-right-outline.svg" width="30" alt="align-right-outline"> | [align-right-outline](./src/icons/AlignRightOutline.tsx) |
