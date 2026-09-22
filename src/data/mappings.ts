@@ -22,6 +22,7 @@ import {
   ArrowLeftOutline,
   BellOutline,
   BitcoinSolid,
+  BookOpenSolid,
   ClipBoardCheckSolid,
 } from '../icons/All';
 
@@ -49,5 +50,6 @@ export const iconsMap: Record<string, string> = {
   'arrow-left-outline': ArrowLeftOutline,
   'bell-outline': BellOutline,
   'bitcoin-solid': BitcoinSolid,
+  'book-open-solid': BookOpenSolid,
   'clipboard-check-solid': ClipBoardCheckSolid,
 };

@@ -21,6 +21,7 @@ import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
+import BookOpenSolid from './BookOpenSolid';
 import ClipBoardCheckSolid from './ClipBoardCheckSolid';
 
 export {
@@ -47,6 +48,7 @@ export {
   ArrowLeftOutline,
   BellOutline,
   BitcoinSolid,
+  BookOpenSolid,
   ClipBoardCheckSolid,
 };
 
