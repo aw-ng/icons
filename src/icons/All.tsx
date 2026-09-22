@@ -14,6 +14,7 @@ import AppleSolid from './AppleSolid';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import ArchiveSolid from './ArchiveSolid';
 import BellOutline from './BellOutline';
+import BitcoinSolid from './BitcoinSolid';
 
 export {
   AddColumnAfterOutline,
@@ -32,5 +33,6 @@ export {
   ArchiveArrowDownSolid,
   ArchiveSolid,
   BellOutline,
+  BitcoinSolid,
 };
 
