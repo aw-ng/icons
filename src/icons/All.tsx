@@ -1,55 +1,70 @@
-import EggSolid from './EggSolid';
-import ArrowRightAltOutline from './ArrowRightAltOutline';
-import BookSolid from './BookSolid';
-import ClickSolid from './ClickSolid';
-import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
-import BookOpenSolid from './BookOpenSolid';
-import ClipboardSolid from './ClipboardSolid';
-import ArrowLeftOutline from './ArrowLeftOutline';
-import ClipBoardCheckSolid from './ClipBoardCheckSolid';
-import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
-import ArchiveSolid from './ArchiveSolid';
-import BitcoinSolid from './BitcoinSolid';
-import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
-import AppleSolid from './AppleSolid';
-import AnnotationSolid from './AnnotationSolid';
-import AngleUpOutline from './AngleUpOutline';
-import AngleLeftOutline from './AngleLeftOutline';
-import AlignRightOutline from './AlignRightOutline';
-import AlignJustifyOutline from './AlignJustifyOutline';
-import AlignCenterOutline from './AlignCenterOutline';
-import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
-import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
+import AddColumnAfterOutline from './AddColumnAfterOutline';
+import AddColumnBeforeOutline from './AddColumnBeforeOutline'
 import AddressBookOutline from './AddressBookOutline';
-import ColumnAfterOutline from './ColumnAfterOutline';
+import AddressBookSolid from './AddressBookSolid';
+import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
+import AdjustmentsHorizontalSolid from './AdjustmentsHorizontalSolid';
+import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
+import AdjustmentsVerticalSolid from './AdjustmentsVerticalSolid';
+import AlignCenterOutline from './AlignCenterOutline';
+import AlignJustifyOutline from './AlignJustifyOutline';
+import AlignLeftOutline from './AlignLeftOutline';
+import AlignRightOutline from './AlignRightOutline';
+import AngleDownOutline from './AngleDownOutline';
+import AngleLeftOutline from './AngleLeftOutline';
+import AngleRightOutline from './AngleRightOutline';
+import AngleUpOutline from './AngleUpOutline';
+import AnnotationSolid from './AnnotationSolid';
 import AppleFullOutline from './AppleFullOutline';
+import AppleSolid from './AppleSolid';
+import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
+import ArchiveSolid from './ArchiveSolid';
+import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
+import ArrowLeftOutline from './ArrowLeftOutline';
+import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
+import ArrowRightAltOutline from './ArrowRightAltOutline';
 import BellOutline from './BellOutline';
+import BitcoinSolid from './BitcoinSolid';
+import BookOpenSolid from './BookOpenSolid';
+import BookSolid from './BookSolid';
+import ClipboardCheckSolid from './ClipboardCheckSolid';
+import ClipboardSolid from './ClipboardSolid';
+import ClockSolid from './ClockSolid';
+import EggSolid from './EggSolid';
 
 export {
-  EggSolid,
-  ArrowRightAltOutline,
-  BookSolid,
-  ClickSolid,
-  ArrowLeftToBracketOutline,
-  BookOpenSolid,
-  ClipboardSolid,
-  ArrowLeftOutline,
-  ClipBoardCheckSolid,
-  ArrowDownToBracketOutline,
-  ArchiveSolid,
-  BitcoinSolid,
-  ArchiveArrowDownSolid,
-  AppleSolid,
-  AnnotationSolid,
-  AngleUpOutline,
-  AngleLeftOutline,
-  AlignRightOutline,
-  AlignJustifyOutline,
-  AlignCenterOutline,
-  AdjustmentsVerticalOutline,
-  AdjustmentsHorizontalOutline,
+  AddColumnAfterOutline,
+  AddColumnBeforeOutline,
   AddressBookOutline,
-  ColumnAfterOutline,
+  AddressBookSolid,
+  AdjustmentsHorizontalOutline,
+  AdjustmentsHorizontalSolid,
+  AdjustmentsVerticalOutline,
+  AdjustmentsVerticalSolid,
+  AlignCenterOutline,
+  AlignJustifyOutline,
+  AlignLeftOutline,
+  AlignRightOutline,
+  AngleDownOutline,
+  AngleLeftOutline,
+  AngleRightOutline,
+  AngleUpOutline,
+  AnnotationSolid,
   AppleFullOutline,
+  AppleSolid,
+  ArchiveArrowDownSolid,
+  ArchiveSolid,
+  ArrowDownToBracketOutline,
+  ArrowLeftOutline,
+  ArrowLeftToBracketOutline,
+  ArrowRightAltOutline,
   BellOutline,
+  BitcoinSolid,
+  BookOpenSolid,
+  BookSolid,
+  ClipboardCheckSolid,
+  ClipboardSolid,
+  ClockSolid,
+  EggSolid,
 };
+
