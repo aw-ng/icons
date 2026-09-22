@@ -31,6 +31,7 @@ import {
   ClipboardCheckSolid,
   ClipboardSolid,
   ClockSolid,
+  EggSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -66,4 +67,5 @@ export const iconsMap: Record<string, string> = {
   'clipboard-check-solid': ClipboardCheckSolid,
   'clipboard-solid': ClipboardSolid,
   'clock-solid': ClockSolid,
+  'egg-solid': EggSolid,
 };

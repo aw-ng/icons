@@ -103,3 +103,4 @@ export default Avatar;
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipboardCheckSolid.tsx) |
 | <img src="./src/raw/clipboard-solid.svg" width="30" alt="clipboard-solid"> | [clipboard-solid](./src/icons/ClipboardSolid.tsx) |
 | <img src="./src/raw/clock-solid.svg" width="30" alt="clock-solid"> | [clock-solid](./src/icons/ClockSolid.tsx) |
+| <img src="./src/raw/egg-solid.svg" width="30" alt="egg-solid"> | [egg-solid](./src/icons/EggSolid.tsx) |

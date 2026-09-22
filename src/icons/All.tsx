@@ -30,6 +30,7 @@ import BookSolid from './BookSolid';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
+import EggSolid from './EggSolid';
 
 export {
   AddColumnAfterOutline,
@@ -64,5 +65,6 @@ export {
   ClipboardCheckSolid,
   ClipboardSolid,
   ClockSolid,
+  EggSolid,
 };
 
