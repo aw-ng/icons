@@ -1,5 +1,6 @@
 import {
   AddColumnAfterOutline,
+  AddColumnBeforeOutline,
   AddressBookOutline,
   AdjustmentsHorizontalOutline,
   AdjustmentsVerticalOutline,
@@ -17,6 +18,7 @@ import {
 
 export const iconsMap: Record<string, string> = {
   'add-column-after-outline': AddColumnAfterOutline,
+  'add-column-before-outline': AddColumnBeforeOutline,
   'address-book-outline': AddressBookOutline,
   'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
   'adjustments-vertical-outline': AdjustmentsVerticalOutline,
