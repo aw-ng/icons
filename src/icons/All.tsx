@@ -15,6 +15,7 @@ import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import ArchiveSolid from './ArchiveSolid';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import BellOutline from './BellOutline';
+import BitcoinSolid from './BitcoinSolid';
 
 export {
   AddColumnAfterOutline,
@@ -34,5 +35,6 @@ export {
   ArchiveSolid,
   ArrowDownToBracketOutline,
   BellOutline,
+  BitcoinSolid,
 };
 

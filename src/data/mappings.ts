@@ -16,6 +16,7 @@ import {
   ArchiveSolid,
   ArrowDownToBracketOutline,
   BellOutline,
+  BitcoinSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -36,4 +37,5 @@ export const iconsMap: Record<string, string> = {
   'archive-solid': ArchiveSolid,
   'arrow-down-to-bracket-outline': ArrowDownToBracketOutline,
   'bell-outline': BellOutline,
+  'bitcoin-solid': BitcoinSolid,
 };
