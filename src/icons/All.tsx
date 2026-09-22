@@ -16,6 +16,7 @@ import AngleRightOutline from './AngleRightOutline';
 import AngleUpOutline from './AngleUpOutline';
 import AnnotationOutline from './AnnotationOutline';
 import AnnotationSolid from './AnnotationSolid';
+import ApiKeyOutline from './ApiKeyOutline';
 import AppleFullOutline from './AppleFullOutline';
 import AppleSolid from './AppleSolid';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
@@ -52,6 +53,7 @@ export {
   AngleUpOutline,
   AnnotationOutline,
   AnnotationSolid,
+  ApiKeyOutline,
   AppleFullOutline,
   AppleSolid,
   ArchiveArrowDownSolid,
