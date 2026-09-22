@@ -11,6 +11,7 @@ import {
   AnnotationSolid,
   AppleFullOutline,
   AppleSolid,
+  ArchiveArrowDownSolid,
   BellOutline,
 } from '../icons/All';
 
@@ -27,5 +28,6 @@ export const iconsMap: Record<string, string> = {
   'annotation-solid': AnnotationSolid,
   'apple-full-outline': AppleFullOutline,
   'apple-solid': AppleSolid,
+  'archive-arrow-down-solid': ArchiveArrowDownSolid,
   'bell-outline': BellOutline,
 };
