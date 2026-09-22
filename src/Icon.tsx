@@ -51,48 +51,16 @@ const Icon = ({
 				viewBox="0 0 24 24"
 				width={size}
 				height={size}
-				fill="none"
+				fill={name.endsWith('-solid') ? color : 'none'}
 				xmlns="http://www.w3.org/2000/svg"
 			>
-				{Array.isArray(iconsMap[name]) ? (
-  iconsMap[name].map((path, index) => (
-    <path
-      key={index}
-      d={path}
-      stroke={color}
-      strokeWidth={weight}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    />
-  ))
-) : (
-  <path
-    d={iconsMap[name]}
-    stroke={color}
-    strokeWidth={weight}
-    strokeLinecap="round"
-    strokeLinejoin="round"
-  />
-		)}{Array.isArray(iconsMap[name]) ? (
-		iconsMap[name].map((path, index) => (
-			<path
-			key={index}
-			d={path}
-			stroke={color}
-			strokeWidth={weight}
-			strokeLinecap="round"
-			strokeLinejoin="round"
-			/>
-		))
-		) : (
-		<path
-			d={iconsMap[name]}
-			stroke={color}
-			strokeWidth={weight}
-			strokeLinecap="round"
-			strokeLinejoin="round"
-		/>
-		)}
+				<path
+					d={iconsMap[name]}
+					stroke={color}
+					strokeWidth={weight}
+					strokeLinecap="round"
+					strokeLinejoin="round"
+				/>
 			</svg>
 		</div>
 	);
