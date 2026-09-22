@@ -11,6 +11,7 @@ import AnnotationSolid from './AnnotationSolid';
 import AppleFullOutline from './AppleFullOutline';
 import AppleSolid from './AppleSolid';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
+import ArchiveSolid from './ArchiveSolid';
 import BellOutline from './BellOutline';
 
 export {
@@ -27,6 +28,7 @@ export {
   AppleFullOutline,
   AppleSolid,
   ArchiveArrowDownSolid,
+  ArchiveSolid,
   BellOutline,
 };
 
