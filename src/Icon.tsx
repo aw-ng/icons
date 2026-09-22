@@ -60,6 +60,8 @@ const Icon = ({
 					strokeWidth={weight}
 					strokeLinecap="round"
 					strokeLinejoin="round"
+          fillRule="evenodd"
+          clipRule="evenodd"
 				/>
 			</svg>
 		</div>
