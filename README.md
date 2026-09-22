@@ -74,6 +74,7 @@ export default Avatar;
 | <img src="./src/raw/add-column-after-outline.svg" width="30" alt="add-column-after-outline"> | [add-column-after-outline](./src/icons/AddColumnAfterOutline.tsx) |
 | <img src="./src/raw/add-column-before-outline.svg" width="30" alt="add-column-before-outline"> | [add-column-before-outline](./src/icons/AddColumnBeforeOutline.tsx) |
 | <img src="./src/raw/address-book-outline.svg" width="30" alt="address-book-outline"> | [address-book-outline](./src/icons/AddressBookOutline.tsx) |
+| <img src="./src/raw/address-book-solid.svg" width="30" alt="address-book-solid"> | [address-book-solid](./src/icons/AddressBookSolid.tsx) |
 | <img src="./src/raw/adjustments-horizontal-outline.svg" width="30" alt="adjustments-horizontal-outline"> | [adjustments-horizontal-outline](./src/icons/AdjustmentsHorizontalOutline.tsx) |
 | <img src="./src/raw/adjustments-vertical-outline.svg" width="30" alt="adjustments-vertical-outline"> | [adjustments-vertical-outline](./src/icons/AdjustmentsVerticalOutline.tsx) |
 | <img src="./src/raw/align-center-outline.svg" width="30" alt="align-center-outline"> | [align-center-outline](./src/icons/AlignCenterOutline.tsx) |
