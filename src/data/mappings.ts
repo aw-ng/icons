@@ -1,5 +1,6 @@
 import {
   AddColumnAfterOutline,
+  AddColumnBeforeOutline,
   AddressBookOutline,
   AdjustmentsHorizontalOutline,
   AdjustmentsVerticalOutline,
@@ -12,12 +13,14 @@ import {
   AppleFullOutline,
   AppleSolid,
   ArchiveArrowDownSolid,
+  ArchiveSolid,
   BellOutline,
   BitcoinSolid,
 } from '../icons/All';
 
-export const iconsMap: Record<string, string | string[]> = {
+export const iconsMap: Record<string, string> = {
   'add-column-after-outline': AddColumnAfterOutline,
+  'add-column-before-outline': AddColumnBeforeOutline,
   'address-book-outline': AddressBookOutline,
   'adjustments-horizontal-outline': AdjustmentsHorizontalOutline,
   'adjustments-vertical-outline': AdjustmentsVerticalOutline,
@@ -30,6 +33,7 @@ export const iconsMap: Record<string, string | string[]> = {
   'apple-full-outline': AppleFullOutline,
   'apple-solid': AppleSolid,
   'archive-arrow-down-solid': ArchiveArrowDownSolid,
+  'archive-solid': ArchiveSolid,
   'bell-outline': BellOutline,
   'bitcoin-solid': BitcoinSolid,
 };

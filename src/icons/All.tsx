@@ -1,4 +1,5 @@
 import AddColumnAfterOutline from './AddColumnAfterOutline';
+import AddColumnBeforeOutline from './AddColumnBeforeOutline'
 import AddressBookOutline from './AddressBookOutline';
 import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
 import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
@@ -11,11 +12,13 @@ import AnnotationSolid from './AnnotationSolid';
 import AppleFullOutline from './AppleFullOutline';
 import AppleSolid from './AppleSolid';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
+import ArchiveSolid from './ArchiveSolid';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 
 export {
   AddColumnAfterOutline,
+  AddColumnBeforeOutline,
   AddressBookOutline,
   AdjustmentsHorizontalOutline,
   AdjustmentsVerticalOutline,
@@ -28,6 +31,7 @@ export {
   AppleFullOutline,
   AppleSolid,
   ArchiveArrowDownSolid,
+  ArchiveSolid,
   BellOutline,
   BitcoinSolid,
 };
