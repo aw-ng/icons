@@ -7,6 +7,7 @@ import AdjustmentsHorizontalSolid from './AdjustmentsHorizontalSolid';
 import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
 import AlignCenterOutline from './AlignCenterOutline';
 import AlignJustifyOutline from './AlignJustifyOutline';
+import AlignLeftOutline from './AlignLeftOutline';
 import AlignRightOutline from './AlignRightOutline';
 import AngleLeftOutline from './AngleLeftOutline';
 import AngleUpOutline from './AngleUpOutline';
@@ -30,6 +31,7 @@ export {
   AdjustmentsVerticalOutline,
   AlignCenterOutline,
   AlignJustifyOutline,
+  AlignLeftOutline,
   AlignRightOutline,
   AngleLeftOutline,
   AngleUpOutline,
