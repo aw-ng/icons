@@ -92,3 +92,4 @@ export default Avatar;
 | <img src="./src/raw/arrow-left-outline.svg" width="30" alt="arrow-left-outline"> | [arrow-left-outline](./src/icons/ArrowLeftOutline.tsx) |
 | <img src="./src/raw/bell-outline.svg" width="30" alt="bell-outline"> | [bell-outline](./src/icons/BellOutline.tsx) |
 | <img src="./src/raw/bitcoin-solid.svg" width="30" alt="bitcoin-solid"> | [bitcoin-solid](./src/icons/BitcoinSolid.tsx) |
+| <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipBoardCheckSolid.tsx) |

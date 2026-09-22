@@ -19,6 +19,7 @@ import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
+import ClipBoardCheckSolid from './ClipBoardCheckSolid';
 
 export {
   AddColumnAfterOutline,
@@ -42,5 +43,6 @@ export {
   ArrowLeftOutline,
   BellOutline,
   BitcoinSolid,
+  ClipBoardCheckSolid,
 };
 
