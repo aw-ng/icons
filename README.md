@@ -83,6 +83,7 @@ export default Avatar;
 | <img src="./src/raw/align-justify-outline.svg" width="30" alt="align-justify-outline"> | [align-justify-outline](./src/icons/AlignJustifyOutline.tsx) |
 | <img src="./src/raw/align-left-outline.svg" width="30" alt="align-left-outline"> | [align-left-outline](./src/icons/AlignLeftOutline.tsx) |
 | <img src="./src/raw/align-right-outline.svg" width="30" alt="align-right-outline"> | [align-right-outline](./src/icons/AlignRightOutline.tsx) |
+| <img src="./src/raw/angle-down-outline.svg" width="30" alt="angle-down-outline"> | [angle-down-outline](./src/icons/AngleDownOutline.tsx) |
 | <img src="./src/raw/angle-left-outline.svg" width="30" alt="angle-left-outline"> | [angle-left-outline](./src/icons/AngleLeftOutline.tsx) |
 | <img src="./src/raw/angle-up-outline.svg" width="30" alt="angle-up-outline"> | [angle-up-outline](./src/icons/AngleUpOutline.tsx) |
 | <img src="./src/raw/annotation-solid.svg" width="30" alt="annotation-solid"> | [annotation-solid](./src/icons/AnnotationSolid.tsx) |

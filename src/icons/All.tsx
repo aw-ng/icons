@@ -10,6 +10,7 @@ import AlignCenterOutline from './AlignCenterOutline';
 import AlignJustifyOutline from './AlignJustifyOutline';
 import AlignLeftOutline from './AlignLeftOutline';
 import AlignRightOutline from './AlignRightOutline';
+import AngleDownOutline from './AngleDownOutline';
 import AngleLeftOutline from './AngleLeftOutline';
 import AngleUpOutline from './AngleUpOutline';
 import AnnotationSolid from './AnnotationSolid';
@@ -38,6 +39,7 @@ export {
   AlignJustifyOutline,
   AlignLeftOutline,
   AlignRightOutline,
+  AngleDownOutline,
   AngleLeftOutline,
   AngleUpOutline,
   AnnotationSolid,
