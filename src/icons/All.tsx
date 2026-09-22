@@ -26,6 +26,7 @@ import ArrowRightAltOutline from './ArrowRightAltOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookOpenSolid from './BookOpenSolid';
+import BookSolid from './BookSolid';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
@@ -59,6 +60,7 @@ export {
   BellOutline,
   BitcoinSolid,
   BookOpenSolid,
+  BookSolid,
   ClipboardCheckSolid,
   ClipboardSolid,
   ClockSolid,
