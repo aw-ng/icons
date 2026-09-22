@@ -3,6 +3,7 @@ import AddColumnBeforeOutline from './AddColumnBeforeOutline'
 import AddressBookOutline from './AddressBookOutline';
 import AddressBookSolid from './AddressBookSolid';
 import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
+import AdjustmentsHorizontalSolid from './AdjustmentsHorizontalSolid';
 import AdjustmentsVerticalOutline from './AdjustmentsVerticalOutline';
 import AlignCenterOutline from './AlignCenterOutline';
 import AlignJustifyOutline from './AlignJustifyOutline';
@@ -15,6 +16,7 @@ import AppleSolid from './AppleSolid';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import ArchiveSolid from './ArchiveSolid';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
+import ArrowLeftOutline from './ArrowLeftOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import ClipBoardCheckSolid from './ClipBoardCheckSolid';
@@ -25,6 +27,7 @@ export {
   AddressBookOutline,
   AddressBookSolid,
   AdjustmentsHorizontalOutline,
+  AdjustmentsHorizontalSolid,
   AdjustmentsVerticalOutline,
   AlignCenterOutline,
   AlignJustifyOutline,
@@ -37,6 +40,7 @@ export {
   ArchiveArrowDownSolid,
   ArchiveSolid,
   ArrowDownToBracketOutline,
+  ArrowLeftOutline,
   BellOutline,
   BitcoinSolid,
   ClipBoardCheckSolid,
