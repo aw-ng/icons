@@ -31,6 +31,7 @@ import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
 import EggSolid from './EggSolid';
+import EnvelopeOpenSolid from './EnvelopeOpenSolid'
 
 export {
   AddColumnAfterOutline,
@@ -66,5 +67,6 @@ export {
   ClipboardSolid,
   ClockSolid,
   EggSolid,
+  EnvelopeOpenSolid
 };
 

@@ -32,6 +32,7 @@ import {
   ClipboardSolid,
   ClockSolid,
   EggSolid,
+  EnvelopeOpenSolid
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -68,4 +69,5 @@ export const iconsMap: Record<string, string> = {
   'clipboard-solid': ClipboardSolid,
   'clock-solid': ClockSolid,
   'egg-solid': EggSolid,
+  'envelope-open-solid': EnvelopeOpenSolid
 };
