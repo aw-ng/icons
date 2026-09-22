@@ -24,7 +24,9 @@ import {
   BitcoinSolid,
   BookOpenSolid,
   ClipBoardCheckSolid,
+  ClipboardSolid,
 } from '../icons/All';
+
 
 export const iconsMap: Record<string, string> = {
   'add-column-after-outline': AddColumnAfterOutline,
@@ -52,4 +54,5 @@ export const iconsMap: Record<string, string> = {
   'bitcoin-solid': BitcoinSolid,
   'book-open-solid': BookOpenSolid,
   'clipboard-check-solid': ClipBoardCheckSolid,
+  'clipboard-solid': ClipboardSolid,
 };

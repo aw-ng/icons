@@ -96,3 +96,4 @@ export default Avatar;
 | <img src="./src/raw/bitcoin-solid.svg" width="30" alt="bitcoin-solid"> | [bitcoin-solid](./src/icons/BitcoinSolid.tsx) |
 | <img src="./src/raw/book-open-solid.svg" width="30" alt="book-open-solid"> | [book-open-solid](./src/icons/BookOpenSolid.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipBoardCheckSolid.tsx) |
+| <img src="./src/raw/clipboard-solid.svg" width="30" alt="clipboard-solid"> | [clipboard-solid](./src/icons/ClipboardSolid.tsx) |
