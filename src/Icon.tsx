@@ -2,11 +2,11 @@ import { JSX, CSSProperties } from 'react';
 import { iconsMap } from './data/mappings';
 
 export interface IconProps {
-	name?: string;
-	color?: string;
-	size?: number;
-	containerStyle?: CSSProperties;
-	weight?: number;
+  name?: string;
+  color?: string;
+  size?: number;
+  containerStyle?: CSSProperties;
+  weight?: number;
 }
 
 /**
@@ -28,44 +28,44 @@ export interface IconProps {
  * @returns {JSX.Element} The Icon component.
  */
 const Icon = ({
-	name = '',
-	color = '#000',
-	size = 24,
-	containerStyle = {},
-	weight = 1,
+  name = '',
+  color = '#000',
+  size = 24,
+  containerStyle = {},
+  weight = 1,
 }: IconProps): JSX.Element | null => {
-	const customContainerStyle: CSSProperties = {
-		display: 'flex',
-		alignItems: 'center',
-		justifyContent: 'center',
-		...containerStyle,
-	};
+  const customContainerStyle: CSSProperties = {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    ...containerStyle,
+  };
 
   if (!name || !iconsMap[name]) {
     return null;
   }
 
-	return(
-		<div style={customContainerStyle}>
-			<svg
-				viewBox="0 0 24 24"
-				width={size}
-				height={size}
-				fill={name.endsWith('-solid') ? color : 'none'}
-				xmlns="http://www.w3.org/2000/svg"
-			>
-				<path
-					d={iconsMap[name]}
-					stroke={color}
-					strokeWidth={weight}
-					strokeLinecap="round"
-					strokeLinejoin="round"
+  return(
+    <div style={customContainerStyle}>
+      <svg
+        viewBox="0 0 24 24"
+        width={size}
+        height={size}
+        fill={name.endsWith('-solid') ? color : 'none'}
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d={iconsMap[name]}
+          stroke={color}
+          strokeWidth={weight}
+          strokeLinecap="round"
+          strokeLinejoin="round"
           fillRule="evenodd"
           clipRule="evenodd"
-				/>
-			</svg>
-		</div>
-	);
+        />
+      </svg>
+    </div>
+  );
 };
 
 export default Icon;
