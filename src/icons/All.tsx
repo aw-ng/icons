@@ -14,8 +14,8 @@ import AppleSolid from './AppleSolid';
 import BellOutline from './BellOutline';
 
 export {
-  AddColumnBeforeOutline,
   AddColumnAfterOutline,
+  AddColumnBeforeOutline,
   AddressBookOutline,
   AdjustmentsHorizontalOutline,
   AdjustmentsVerticalOutline,
