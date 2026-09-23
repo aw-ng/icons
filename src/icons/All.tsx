@@ -46,6 +46,7 @@ import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardOutline from './ClipboardOutline';
 import ClipboardSolid from './ClipboardSolid';
+import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
 import CloudArrowUpSolid from './CloudArrowUpSolid'
 import CodeBranchSolid from './CodeBranchSolid';
@@ -106,6 +107,7 @@ export {
   ClipboardCheckOutline,
   ClipboardOutline,
   ClipboardSolid,
+  ClockOutline,
   ClockSolid,
   CloudArrowUpSolid,
   CodeBranchSolid,
