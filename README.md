@@ -107,6 +107,7 @@ export default Avatar;
 | <img src="./src/raw/bookmark-solid.svg" width="30" alt="bookmark-solid"> | [bookmark-solid](./src/icons/BookmarkSolid.tsx) |
 | <img src="./src/raw/book-open-outline.svg" width="30" alt="book-open-outline"> | [book-open-outline](./src/icons/BookOpenOutline.tsx) |
 | <img src="./src/raw/book-open-solid.svg" width="30" alt="book-open-solid"> | [book-open-solid](./src/icons/BookOpenSolid.tsx) |
+| <img src="./src/raw/book-outline.svg" width="30" alt="book-outline"> | [book-outline](./src/icons/BookOutline.tsx) |
 | <img src="./src/raw/book-solid.svg" width="30" alt="book-solid"> | [book-solid](./src/icons/BookSolid.tsx) |
 | <img src="./src/raw/briefcase-outline.svg" width="30" alt="briefcase-outline"> | [briefcase-outline](./src/icons/BriefcaseOutline.tsx) |
 | <img src="./src/raw/briefcase-solid.svg" width="30" alt="briefcase-solid"> | [briefcase-solid](./src/icons/BriefcaseSolid.tsx) |
