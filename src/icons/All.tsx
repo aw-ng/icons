@@ -32,6 +32,7 @@ import ArrowRightAltOutline from './ArrowRightAltOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkSolid from './BookmarkSolid';
+import BookOpenOutline from './BookOpenOutline';
 import BookOpenSolid from './BookOpenSolid';
 import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
@@ -80,6 +81,7 @@ export {
   BellOutline,
   BitcoinSolid,
   BookmarkSolid,
+  BookOpenOutline,
   BookOpenSolid,
   BookSolid,
   BriefcaseOutline,
