@@ -22,6 +22,7 @@ import AppleFullSolid from './AppleFullSolid';
 import AppleSolid from './AppleSolid';
 import ArchiveArrowDownOutline from './ArchiveArrowDownOutline';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
+import ArchiveOutline from './ArchiveOutline';
 import ArchiveSolid from './ArchiveSolid';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
@@ -65,6 +66,7 @@ export {
   AppleSolid,
   ArchiveArrowDownOutline,
   ArchiveArrowDownSolid,
+  ArchiveOutline,
   ArchiveSolid,
   ArrowDownToBracketOutline,
   ArrowLeftOutline,
