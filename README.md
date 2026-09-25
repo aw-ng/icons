@@ -119,3 +119,4 @@ export default Avatar;
 | <img src="./src/raw/egg-solid.svg" width="30" alt="egg-solid"> | [egg-solid](./src/icons/EggSolid.tsx) |
 | <img src="./src/raw/envelope-open-solid.svg" width="30" alt="envelope-open-solid"> | [envelope-open-solid](./src/icons/EnvelopeOpenSolid.tsx) |
 | <img src="./src/raw/envelope-solid.svg" width="30" alt="envelope-solid"> | [envelope-solid](./src/icons/EnvelopeSolid.tsx) |
+| <img src="./src/raw/exclamation-circle-solid.svg" width="30" alt="exclamation-circle-solid"> | [exclamation-circle-solid](./src/icons/ExclamationCircleSolid.tsx) |
