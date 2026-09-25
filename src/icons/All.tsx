@@ -70,13 +70,14 @@ import EnvelopeOpenOutline from './EnvelopeOpenOutline';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeSolid from './EnvelopeSolid';
+import ExclamationCircleOutline from './ExclamationCircleOutline';
 import ExclamationCircleSolid from './ExclamationCircleSolid';
 import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
-import FileImageSolid from './FileImageSolid'
+import FileImageSolid from './FileImageSolid';
 
 export {
   AddColumnAfterOutline,
@@ -151,6 +152,7 @@ export {
   EnvelopeOpenSolid,
   EnvelopeOutline,
   EnvelopeSolid,
+  ExclamationCircleOutline,
   ExclamationCircleSolid,
   EyeSlashSolid,
   EyeSolid,
