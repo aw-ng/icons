@@ -33,6 +33,7 @@ import BitcoinSolid from './BitcoinSolid';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenSolid from './BookOpenSolid';
 import BookSolid from './BookSolid';
+import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
@@ -77,6 +78,7 @@ export {
   BookmarkSolid,
   BookOpenSolid,
   BookSolid,
+  ChevronDoubleUpOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
   ClipboardSolid,
