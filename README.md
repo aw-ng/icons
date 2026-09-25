@@ -97,6 +97,7 @@ export default Avatar;
 | <img src="./src/raw/archive-arrow-down-solid.svg" width="30" alt="archive-arrow-down-solid"> | [archive-arrow-down-solid](./src/icons/ArchiveArrowDownSolid.tsx) |
 | <img src="./src/raw/archive-outline.svg" width="30" alt="archive-outline"> | [archive-outline](./src/icons/ArchiveOutline.tsx) |
 | <img src="./src/raw/archive-solid.svg" width="30" alt="archive-solid"> | [archive-solid](./src/icons/ArchiveSolid.tsx) |
+| <img src="./src/raw/arrow-down-outline.svg" width="30" alt="arrow-down-outline"> | [arrow-down-outline](./src/icons/ArrowDownOutline.tsx) |
 | <img src="./src/raw/arrow-down-to-bracket-outline.svg" width="30" alt="arrow-down-to-bracket-outline"> | [arrow-down-to-bracket-outline](./src/icons/ArrowDownToBracketOutline.tsx) |
 | <img src="./src/raw/arrow-left-outline.svg" width="30" alt="arrow-left-outline"> | [arrow-left-outline](./src/icons/ArrowLeftOutline.tsx) |
 | <img src="./src/raw/arrow-left-to-bracket-outline.svg" width="30" alt="arrow-left-to-bracket-outline"> | [arrow-left-to-bracket-outline](./src/icons/ArrowLeftToBracketOutline.tsx) |

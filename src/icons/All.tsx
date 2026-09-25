@@ -24,6 +24,7 @@ import ArchiveArrowDownOutline from './ArchiveArrowDownOutline';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import ArchiveOutline from './ArchiveOutline';
 import ArchiveSolid from './ArchiveSolid';
+import ArrowDownOutline from './ArrowDownOutline';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
 import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
@@ -69,6 +70,7 @@ export {
   ArchiveArrowDownSolid,
   ArchiveOutline,
   ArchiveSolid,
+  ArrowDownOutline,
   ArrowDownToBracketOutline,
   ArrowLeftOutline,
   ArrowLeftToBracketOutline,
