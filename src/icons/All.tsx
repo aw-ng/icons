@@ -1,5 +1,5 @@
 import AddColumnAfterOutline from './AddColumnAfterOutline';
-import AddColumnBeforeOutline from './AddColumnBeforeOutline'
+import AddColumnBeforeOutline from './AddColumnBeforeOutline';
 import AddressBookOutline from './AddressBookOutline';
 import AddressBookSolid from './AddressBookSolid';
 import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
@@ -38,7 +38,7 @@ import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
-import CloudArrowUpSolid from './CloudArrowUpSolid'
+import CloudArrowUpSolid from './CloudArrowUpSolid';
 import EggSolid from './EggSolid';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeSolid from './EnvelopeSolid';
