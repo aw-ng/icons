@@ -1,5 +1,5 @@
 import AddColumnAfterOutline from './AddColumnAfterOutline';
-import AddColumnBeforeOutline from './AddColumnBeforeOutline'
+import AddColumnBeforeOutline from './AddColumnBeforeOutline';
 import AddressBookOutline from './AddressBookOutline';
 import AddressBookSolid from './AddressBookSolid';
 import AdjustmentsHorizontalOutline from './AdjustmentsHorizontalOutline';
@@ -24,6 +24,7 @@ import ArchiveArrowDownOutline from './ArchiveArrowDownOutline';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
 import ArchiveOutline from './ArchiveOutline';
 import ArchiveSolid from './ArchiveSolid';
+import ArrowDownOutline from './ArrowDownOutline';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
 import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
@@ -33,7 +34,9 @@ import BitcoinSolid from './BitcoinSolid';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenSolid from './BookOpenSolid';
 import BookSolid from './BookSolid';
+import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
+import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
@@ -41,7 +44,8 @@ import ClockSolid from './ClockSolid';
 import CloudArrowUpSolid from './CloudArrowUpSolid'
 import CodeBranchSolid from './CodeBranchSolid';
 import EggSolid from './EggSolid';
-import EnvelopeSolid from './EnvelopeSolid'
+import EnvelopeOpenSolid from './EnvelopeOpenSolid';
+import EnvelopeSolid from './EnvelopeSolid';
 
 export {
   AddColumnAfterOutline,
@@ -70,6 +74,7 @@ export {
   ArchiveArrowDownSolid,
   ArchiveOutline,
   ArchiveSolid,
+  ArrowDownOutline,
   ArrowDownToBracketOutline,
   ArrowLeftOutline,
   ArrowLeftToBracketOutline,
@@ -79,7 +84,9 @@ export {
   BookmarkSolid,
   BookOpenSolid,
   BookSolid,
+  BriefcaseOutline,
   BriefcaseSolid,
+  ChevronDoubleUpOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
   ClipboardSolid,
@@ -87,6 +94,7 @@ export {
   CloudArrowUpSolid,
   CodeBranchSolid,
   EggSolid,
+  EnvelopeOpenSolid,
   EnvelopeSolid,
 };
 
