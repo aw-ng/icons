@@ -20,7 +20,9 @@ import ApiKeyOutline from './ApiKeyOutline';
 import AppleFullOutline from './AppleFullOutline';
 import AppleFullSolid from './AppleFullSolid';
 import AppleSolid from './AppleSolid';
+import ArchiveArrowDownOutline from './ArchiveArrowDownOutline';
 import ArchiveArrowDownSolid from './ArchiveArrowDownSolid';
+import ArchiveOutline from './ArchiveOutline';
 import ArchiveSolid from './ArchiveSolid';
 import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
@@ -32,6 +34,7 @@ import BookmarkSolid from './BookmarkSolid';
 import BookOpenSolid from './BookOpenSolid';
 import BookSolid from './BookSolid';
 import BriefcaseSolid from './BriefcaseSolid';
+import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
@@ -62,7 +65,9 @@ export {
   AppleFullOutline,
   AppleFullSolid,
   AppleSolid,
+  ArchiveArrowDownOutline,
   ArchiveArrowDownSolid,
+  ArchiveOutline,
   ArchiveSolid,
   ArrowDownToBracketOutline,
   ArrowLeftOutline,
@@ -75,6 +80,7 @@ export {
   BookSolid,
   BriefcaseSolid,
   ClipboardCheckSolid,
+  ClipboardCheckOutline,
   ClipboardSolid,
   ClockSolid,
   CloudArrowUpSolid,
