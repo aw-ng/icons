@@ -32,6 +32,7 @@ import BitcoinSolid from './BitcoinSolid';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenSolid from './BookOpenSolid';
 import BookSolid from './BookSolid';
+import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
@@ -75,6 +76,7 @@ export {
   BookOpenSolid,
   BookSolid,
   ClipboardCheckSolid,
+  ClipboardCheckOutline,
   ClipboardSolid,
   ClockSolid,
   CloudArrowUpSolid,
