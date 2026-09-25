@@ -41,7 +41,8 @@ import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
-import CloudArrowUpSolid from './CloudArrowUpSolid';
+import CloudArrowUpSolid from './CloudArrowUpSolid'
+import CodeBranchSolid from './CodeBranchSolid';
 import EggSolid from './EggSolid';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeSolid from './EnvelopeSolid';
@@ -91,6 +92,7 @@ export {
   ClipboardSolid,
   ClockSolid,
   CloudArrowUpSolid,
+  CodeBranchSolid,
   EggSolid,
   EnvelopeOpenSolid,
   EnvelopeSolid,
