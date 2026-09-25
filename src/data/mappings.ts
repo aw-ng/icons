@@ -82,7 +82,7 @@ export const iconsMap: Record<string, string> = {
   'book-open-solid': BookOpenSolid,
   'book-solid': BookSolid,
   'briefcase-solid': BriefcaseSolid,
-  'chevron-double-up-outline':ChevronDoubleUpOutline,
+  'chevron-double-up-outline': ChevronDoubleUpOutline,
   'clipboard-check-outline': ClipboardCheckOutline,
   'clipboard-check-solid': ClipboardCheckSolid,
   'clipboard-solid': ClipboardSolid,
