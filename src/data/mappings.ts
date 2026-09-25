@@ -42,6 +42,7 @@ import {
   ClockSolid,
   CloudArrowUpSolid,
   EggSolid,
+  EnvelopeOpenSolid,
   EnvelopeSolid,
 } from '../icons/All';
 
@@ -89,5 +90,6 @@ export const iconsMap: Record<string, string> = {
   'clock-solid': ClockSolid,
   'cloud-arrow-up-solid': CloudArrowUpSolid,
   'egg-solid': EggSolid,
+  'envelope-open-solid': EnvelopeOpenSolid,
   'envelope-solid': EnvelopeSolid,
 };
