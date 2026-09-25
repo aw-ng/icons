@@ -103,6 +103,7 @@ export default Avatar;
 | <img src="./src/raw/bookmark-solid.svg" width="30" alt="bookmark-solid"> | [bookmark-solid](./src/icons/BookmarkSolid.tsx) |
 | <img src="./src/raw/book-open-solid.svg" width="30" alt="book-open-solid"> | [book-open-solid](./src/icons/BookOpenSolid.tsx) |
 | <img src="./src/raw/book-solid.svg" width="30" alt="book-solid"> | [book-solid](./src/icons/BookSolid.tsx) |
+| <img src="./src/raw/clipboard-check-outline.svg" width="30" alt="clipboard-check-outline"> | [clipboard-check-outline](./src/icons/ClipboardCheckOutline.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipboardCheckSolid.tsx) |
 | <img src="./src/raw/clipboard-solid.svg" width="30" alt="clipboard-solid"> | [clipboard-solid](./src/icons/ClipboardSolid.tsx) |
 | <img src="./src/raw/clock-solid.svg" width="30" alt="clock-solid"> | [clock-solid](./src/icons/ClockSolid.tsx) |
