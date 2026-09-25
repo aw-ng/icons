@@ -47,6 +47,7 @@ import {
   EggSolid,
   EnvelopeOpenSolid,
   EnvelopeSolid,
+  ExclamationCircleSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -98,4 +99,5 @@ export const iconsMap: Record<string, string> = {
   'egg-solid': EggSolid,
   'envelope-open-solid': EnvelopeOpenSolid,
   'envelope-solid': EnvelopeSolid,
+  'exclamation-circle-solid': ExclamationCircleSolid,
 };
