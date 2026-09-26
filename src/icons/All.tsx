@@ -36,6 +36,7 @@ import BookOpenSolid from './BookOpenSolid';
 import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
+import CheckCircleSolid from './CheckCircleSolid';
 import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
@@ -86,6 +87,7 @@ export {
   BookSolid,
   BriefcaseOutline,
   BriefcaseSolid,
+  CheckCircleSolid,
   ChevronDoubleUpOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
