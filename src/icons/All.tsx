@@ -46,6 +46,7 @@ import CodeBranchSolid from './CodeBranchSolid';
 import EggSolid from './EggSolid';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeSolid from './EnvelopeSolid';
+import ExclamationCircleSolid from './ExclamationCircleSolid'
 
 export {
   AddColumnAfterOutline,
@@ -96,5 +97,6 @@ export {
   EggSolid,
   EnvelopeOpenSolid,
   EnvelopeSolid,
+  ExclamationCircleSolid,
 };
 
