@@ -46,8 +46,8 @@ import CodeBranchSolid from './CodeBranchSolid';
 import EggSolid from './EggSolid';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeSolid from './EnvelopeSolid';
-import ExclamationCircleSolid from './ExclamationCircleSolid'
-import EyeSolid from './EyeSolid'
+import ExclamationCircleSolid from './ExclamationCircleSolid';
+import EyeSolid from './EyeSolid';
 
 export {
   AddColumnAfterOutline,
