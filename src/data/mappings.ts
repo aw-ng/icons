@@ -51,6 +51,7 @@ import {
   CodeBranchSolid,
   EggSolid,
   EnvelopeOpenSolid,
+  EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
 } from '../icons/All';
@@ -108,6 +109,7 @@ export const iconsMap: Record<string, string> = {
   'code-branch-solid': CodeBranchSolid,
   'egg-solid': EggSolid,
   'envelope-open-solid': EnvelopeOpenSolid,
+  'envelope-outline': EnvelopeOutline,
   'envelope-solid': EnvelopeSolid,
   'exclamation-circle-solid': ExclamationCircleSolid,
 };

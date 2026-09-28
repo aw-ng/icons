@@ -50,6 +50,7 @@ import CloudArrowUpSolid from './CloudArrowUpSolid'
 import CodeBranchSolid from './CodeBranchSolid';
 import EggSolid from './EggSolid';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
+import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeSolid from './EnvelopeSolid';
 import ExclamationCircleSolid from './ExclamationCircleSolid'
 
@@ -106,6 +107,7 @@ export {
   CodeBranchSolid,
   EggSolid,
   EnvelopeOpenSolid,
+  EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
 };
