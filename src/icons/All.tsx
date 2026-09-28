@@ -32,11 +32,13 @@ import ArrowRightAltOutline from './ArrowRightAltOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkSolid from './BookmarkSolid';
+import BookOpenOutline from './BookOpenOutline';
 import BookOpenSolid from './BookOpenSolid';
 import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
 import CalendarPlusSolid from './CalendarPlusSolid';
+import CheckCircleSolid from './CheckCircleSolid';
 import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
@@ -84,11 +86,13 @@ export {
   BellOutline,
   BitcoinSolid,
   BookmarkSolid,
+  BookOpenOutline,
   BookOpenSolid,
   BookSolid,
   BriefcaseOutline,
   BriefcaseSolid,
   CalendarPlusSolid,
+  CheckCircleSolid,
   ChevronDoubleUpOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
