@@ -102,8 +102,8 @@ export const iconsMap: Record<string, string> = {
   'cloud-arrow-up-solid': CloudArrowUpSolid,
   'code-branch-solid': CodeBranchSolid,
   'egg-solid': EggSolid,
-  'envelope-outline': EnvelopeOutline,
   'envelope-open-solid': EnvelopeOpenSolid,
+  'envelope-outline': EnvelopeOutline,
   'envelope-solid': EnvelopeSolid,
   'exclamation-circle-solid': ExclamationCircleSolid,
 };

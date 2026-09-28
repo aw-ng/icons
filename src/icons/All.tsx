@@ -46,8 +46,8 @@ import ClockSolid from './ClockSolid';
 import CloudArrowUpSolid from './CloudArrowUpSolid'
 import CodeBranchSolid from './CodeBranchSolid';
 import EggSolid from './EggSolid';
-import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
+import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeSolid from './EnvelopeSolid';
 import ExclamationCircleSolid from './ExclamationCircleSolid'
 
