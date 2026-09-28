@@ -40,6 +40,7 @@ import BriefcaseSolid from './BriefcaseSolid';
 import CalendarPlusSolid from './CalendarPlusSolid';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
+import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
 import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
@@ -95,6 +96,7 @@ export {
   CalendarPlusSolid,
   CheckCircleSolid,
   CheckOutline,
+  ChevronDoubleDownOutline,
   ChevronDoubleUpOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
