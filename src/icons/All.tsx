@@ -100,8 +100,8 @@ export {
   CloudArrowUpSolid,
   CodeBranchSolid,
   EggSolid,
-  EnvelopeOutline,
   EnvelopeOpenSolid,
+  EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
 };

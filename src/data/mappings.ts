@@ -47,8 +47,8 @@ import {
   CloudArrowUpSolid,
   CodeBranchSolid,
   EggSolid,
-  EnvelopeOutline,
   EnvelopeOpenSolid,
+  EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
 } from '../icons/All';
