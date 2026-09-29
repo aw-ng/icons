@@ -53,7 +53,8 @@ import EnvelopeOpenOutline from './EnvelopeOpenOutline';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeSolid from './EnvelopeSolid';
-import ExclamationCircleSolid from './ExclamationCircleSolid'
+import ExclamationCircleSolid from './ExclamationCircleSolid';
+import EyeSolid from './EyeSolid';
 
 export {
   AddColumnAfterOutline,
@@ -112,5 +113,6 @@ export {
   EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
+  EyeSolid,
 };
 

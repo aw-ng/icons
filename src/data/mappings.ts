@@ -55,6 +55,7 @@ import {
   EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
+  EyeSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -114,4 +115,5 @@ export const iconsMap: Record<string, string> = {
   'envelope-outline': EnvelopeOutline,
   'envelope-solid': EnvelopeSolid,
   'exclamation-circle-solid': ExclamationCircleSolid,
+  'eye-solid': EyeSolid,
 };
