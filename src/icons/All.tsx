@@ -44,6 +44,7 @@ import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
 import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
+import ClipboardOutline from './ClipboardOutline';
 import ClipboardSolid from './ClipboardSolid';
 import ClockSolid from './ClockSolid';
 import CloudArrowUpSolid from './CloudArrowUpSolid'
@@ -103,6 +104,7 @@ export {
   ChevronDoubleUpOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
+  ClipboardOutline,
   ClipboardSolid,
   ClockSolid,
   CloudArrowUpSolid,
