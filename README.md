@@ -50,6 +50,10 @@ export default Avatar;
 - containerStyle _`{Object}`_ This represents an object that overrides the current inline styles of the icon's wrapping container `div` (Optional).
 - weight _`{number}`_ This represents the stroke width of the icon. The default is `1`.
 
+## Contributors
+
+[badasswp](https://github.com/badasswp), [chibuzorihueze](https://github.com/chibuzorihueze), [kelechiorunta](https://github.com/kelechiorunta), [activist507](https://github.com/activist507), [tegaguru](https://github.com/tegaguru)
+
 ## Development
 
 - Clone repo to local desktop (you can use any other location of your choice):
@@ -119,7 +123,7 @@ export default Avatar;
 | <img src="./src/raw/calendar-week-outline.svg" width="30" alt="calendar-week-outline"> | [calendar-week-outline](./src/icons/CalendarWeekOutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
 | <img src="./src/raw/check-outline.svg" width="30" alt="check-outline"> | [check-outline](./src/icons/CheckOutline.tsx) |
-| <img src="./src/raw/chevron-double-down-outline.svg" width="30" alt="chevron-double-down-outline"> | [chevron-double-down-outline](./src/icons/ChrevonDoubleDownOutline.tsx) |
+| <img src="./src/raw/chevron-double-down-outline.svg" width="30" alt="chevron-double-down-outline"> | [chevron-double-down-outline](./src/icons/ChevronDoubleDownOutline.tsx) |
 | <img src="./src/raw/chevron-double-up-outline.svg" width="30" alt="chevron-double-up-outline"> | [chevron-double-up-outline](./src/icons/ChrevonDoubleUpOutline.tsx) |
 | <img src="./src/raw/clipboard-check-outline.svg" width="30" alt="clipboard-check-outline"> | [clipboard-check-outline](./src/icons/ClipboardCheckOutline.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipboardCheckSolid.tsx) |
@@ -129,6 +133,7 @@ export default Avatar;
 | <img src="./src/raw/clock-solid.svg" width="30" alt="clock-solid"> | [clock-solid](./src/icons/ClockSolid.tsx) |
 | <img src="./src/raw/cloud-arrow-up-solid.svg" width="30" alt="cloud-arrow-up-solid"> | [cloud-arrow-up-solid](./src/icons/CloudArrowUpSolid.tsx) |
 | <img src="./src/raw/code-branch-solid.svg" width="30" alt="code-branch-solid"> | [code-branch-solid](./src/icons/CodeBranchSolid.tsx) |
+| <img src="./src/raw/code-merge-solid.svg" width="30" alt="code-merge-solid"> | [code-merge-solid](./src/icons/CodeMergeSolid.tsx) |
 | <img src="./src/raw/egg-outline.svg" width="30" alt="egg-outline"> | [egg-outline](./src/icons/EggOutline.tsx) |
 | <img src="./src/raw/egg-solid.svg" width="30" alt="egg-solid"> | [egg-solid](./src/icons/EggSolid.tsx) |
 | <img src="./src/raw/envelope-open-outline.svg" width="30" alt="envelope-open-outline"> | [envelope-open-outline](./src/icons/EnvelopeOpenOutline.tsx) |
