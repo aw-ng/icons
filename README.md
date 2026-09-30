@@ -50,6 +50,10 @@ export default Avatar;
 - containerStyle _`{Object}`_ This represents an object that overrides the current inline styles of the icon's wrapping container `div` (Optional).
 - weight _`{number}`_ This represents the stroke width of the icon. The default is `1`.
 
+## Contributors
+
+[badasswp](https://github.com/badasswp), [chibuzorihueze](https://github.com/chibuzorihueze), [kelechiorunta](https://github.com/kelechiorunta), [activist507](https://github.com/activist507), [tegaguru](https://github.com/tegaguru)
+
 ## Development
 
 - Clone repo to local desktop (you can use any other location of your choice):
