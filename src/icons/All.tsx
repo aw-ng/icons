@@ -30,6 +30,7 @@ import ArrowLeftOutline from './ArrowLeftOutline';
 import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
 import ArrowRightAltOutline from './ArrowRightAltOutline';
 import ArrowUpOutline from './ArrowUpOutline';
+import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkSolid from './BookmarkSolid';
@@ -99,6 +100,7 @@ export {
   ArrowLeftToBracketOutline,
   ArrowRightAltOutline,
   ArrowUpOutline,
+  ArrowUpRightFromSquareSolid,
   BellOutline,
   BitcoinSolid,
   BookmarkSolid,
