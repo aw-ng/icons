@@ -129,7 +129,7 @@ export default Avatar;
 | <img src="./src/raw/clock-solid.svg" width="30" alt="clock-solid"> | [clock-solid](./src/icons/ClockSolid.tsx) |
 | <img src="./src/raw/cloud-arrow-up-solid.svg" width="30" alt="cloud-arrow-up-solid"> | [cloud-arrow-up-solid](./src/icons/CloudArrowUpSolid.tsx) |
 | <img src="./src/raw/code-branch-solid.svg" width="30" alt="code-branch-solid"> | [code-branch-solid](./src/icons/CodeBranchSolid.tsx) |
-| <img src="./src/raw/egg-outline.svg" width="30" alt="egg-solid"> | [egg-outline](./src/icons/EggOutline.tsx) |
+| <img src="./src/raw/egg-outline.svg" width="30" alt="egg-outline"> | [egg-outline](./src/icons/EggOutline.tsx) |
 | <img src="./src/raw/egg-solid.svg" width="30" alt="egg-solid"> | [egg-solid](./src/icons/EggSolid.tsx) |
 | <img src="./src/raw/envelope-open-outline.svg" width="30" alt="envelope-open-outline"> | [envelope-open-outline](./src/icons/EnvelopeOpenOutline.tsx) |
 | <img src="./src/raw/envelope-open-solid.svg" width="30" alt="envelope-open-solid"> | [envelope-open-solid](./src/icons/EnvelopeOpenSolid.tsx) |
