@@ -38,6 +38,7 @@ import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
 import CalendarPlusSolid from './CalendarPlusSolid';
+import CalendarWeekOutline from './CalendarWeekOutline';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
 import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
@@ -98,6 +99,7 @@ export {
   BriefcaseOutline,
   BriefcaseSolid,
   CalendarPlusSolid,
+  CalendarWeekOutline,
   CheckCircleSolid,
   CheckOutline,
   ChevronDoubleDownOutline,

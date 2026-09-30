@@ -111,6 +111,7 @@ export default Avatar;
 | <img src="./src/raw/briefcase-outline.svg" width="30" alt="briefcase-outline"> | [briefcase-outline](./src/icons/BriefcaseOutline.tsx) |
 | <img src="./src/raw/briefcase-solid.svg" width="30" alt="briefcase-solid"> | [briefcase-solid](./src/icons/BriefcaseSolid.tsx) |
 | <img src="./src/raw/calendar-plus-solid.svg" width="30" alt="calendar-plus-solid"> | [calendar-plus-solid](./src/icons/CalendarPlusSolid.tsx) |
+| <img src="./src/raw/calendar-week-outline.svg" width="30" alt="calendar-week-outline"> | [calendar-week-outline](./src/icons/CalendarWeekOutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
 | <img src="./src/raw/check-outline.svg" width="30" alt="check-outline"> | [check-outline](./src/icons/CheckOutline.tsx) |
 | <img src="./src/raw/chevron-double-down-outline.svg" width="30" alt="chevron-double-down-outline"> | [chevron-double-down-outline](./src/icons/ChrevonDoubleDownOutline.tsx) |
