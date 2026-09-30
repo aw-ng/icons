@@ -29,16 +29,20 @@ import ArrowDownToBracketOutline from './ArrowDownToBracketOutline';
 import ArrowLeftOutline from './ArrowLeftOutline';
 import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
 import ArrowRightAltOutline from './ArrowRightAltOutline';
+import ArrowUpOutline from './ArrowUpOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenOutline from './BookOpenOutline';
 import BookOpenSolid from './BookOpenSolid';
+import BookOutline from './BookOutline';
 import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
+import CalendarPlusOutline from './CalendarPlusOutline';
 import CalendarPlusSolid from './CalendarPlusSolid';
 import CalendarWeekSolid from './CalendarWeekSolid';
+import CalendarWeekOutline from './CalendarWeekOutline';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
 import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
@@ -47,6 +51,7 @@ import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardOutline from './ClipboardOutline';
 import ClipboardSolid from './ClipboardSolid';
+import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
 import CloudArrowUpSolid from './CloudArrowUpSolid'
 import CodeBranchSolid from './CodeBranchSolid';
@@ -56,7 +61,9 @@ import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeSolid from './EnvelopeSolid';
 import ExclamationCircleSolid from './ExclamationCircleSolid';
+import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
+import FacebookSolid from './FacebookSolid';
 
 export {
   AddColumnAfterOutline,
@@ -90,16 +97,20 @@ export {
   ArrowLeftOutline,
   ArrowLeftToBracketOutline,
   ArrowRightAltOutline,
+  ArrowUpOutline,
   BellOutline,
   BitcoinSolid,
   BookmarkSolid,
   BookOpenOutline,
   BookOpenSolid,
+  BookOutline,
   BookSolid,
   BriefcaseOutline,
   BriefcaseSolid,
+  CalendarPlusOutline,
   CalendarPlusSolid,
   CalendarWeekSolid,
+  CalendarWeekOutline,
   CheckCircleSolid,
   CheckOutline,
   ChevronDoubleDownOutline,
@@ -108,6 +119,7 @@ export {
   ClipboardCheckOutline,
   ClipboardOutline,
   ClipboardSolid,
+  ClockOutline,
   ClockSolid,
   CloudArrowUpSolid,
   CodeBranchSolid,
@@ -117,6 +129,8 @@ export {
   EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
+  EyeSlashSolid,
   EyeSolid,
+  FacebookSolid,
 };
 
