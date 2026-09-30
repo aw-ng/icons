@@ -61,6 +61,7 @@ import EnvelopeSolid from './EnvelopeSolid';
 import ExclamationCircleSolid from './ExclamationCircleSolid';
 import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
+import FacebookSolid from './FacebookSolid';
 
 export {
   AddColumnAfterOutline,
@@ -126,5 +127,6 @@ export {
   ExclamationCircleSolid,
   EyeSlashSolid,
   EyeSolid,
+  FacebookSolid,
 };
 
