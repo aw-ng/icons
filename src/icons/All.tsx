@@ -55,6 +55,7 @@ import EnvelopeOpenSolid from './EnvelopeOpenSolid';
 import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeSolid from './EnvelopeSolid';
 import ExclamationCircleSolid from './ExclamationCircleSolid';
+import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
 
 export {
@@ -115,6 +116,7 @@ export {
   EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
+  EyeSlashSolid,
   EyeSolid,
 };
 

@@ -56,6 +56,7 @@ import {
   EnvelopeOutline,
   EnvelopeSolid,
   ExclamationCircleSolid,
+  EyeSlashSolid,
   EyeSolid,
 } from '../icons/All';
 
@@ -117,5 +118,6 @@ export const iconsMap: Record<string, string> = {
   'envelope-outline': EnvelopeOutline,
   'envelope-solid': EnvelopeSolid,
   'exclamation-circle-solid': ExclamationCircleSolid,
+  'eye-slash-solid': EyeSlashSolid,
   'eye-solid': EyeSolid,
 };
