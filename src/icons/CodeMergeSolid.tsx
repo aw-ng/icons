@@ -2,4 +2,3 @@ const CodeMergeSolid = 'M5 6a3 3 0 1 1 4 2.83V9a4 4 0 0 0 4 4h.17a3.001 3.001 0 
 
 export default CodeMergeSolid;
 
-
