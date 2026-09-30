@@ -1,0 +1,3 @@
+const ClockOutline = 'M12 8v4l3 3m6-3a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z';
+
+export default ClockOutline;
