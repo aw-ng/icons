@@ -57,6 +57,7 @@ import {
   EnvelopeSolid,
   ExclamationCircleSolid,
   EyeSolid,
+  FacebookSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -118,4 +119,5 @@ export const iconsMap: Record<string, string> = {
   'envelope-solid': EnvelopeSolid,
   'exclamation-circle-solid': ExclamationCircleSolid,
   'eye-solid': EyeSolid,
+  'facebook-solid': FacebookSolid,
 };
