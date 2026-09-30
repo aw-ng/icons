@@ -56,6 +56,7 @@ import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
 import CloudArrowUpSolid from './CloudArrowUpSolid'
 import CodeBranchSolid from './CodeBranchSolid';
+import EggOutline from './EggOutline';
 import EggSolid from './EggSolid';
 import EnvelopeOpenOutline from './EnvelopeOpenOutline';
 import EnvelopeOpenSolid from './EnvelopeOpenSolid';
@@ -126,6 +127,7 @@ export {
   ClockSolid,
   CloudArrowUpSolid,
   CodeBranchSolid,
+  EggOutline,
   EggSolid,
   EnvelopeOpenOutline,
   EnvelopeOpenSolid,
