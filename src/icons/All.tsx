@@ -57,7 +57,8 @@ import ClipboardOutline from './ClipboardOutline';
 import ClipboardSolid from './ClipboardSolid';
 import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
-import CloudArrowUpSolid from './CloudArrowUpSolid'
+import CloudArrowUpOutline from './CloudArrowUpOutline';
+import CloudArrowUpSolid from './CloudArrowUpSolid';
 import CodeBranchSolid from './CodeBranchSolid';
 import CodeMergeSolid from './CodeMergeSolid';
 import CogSolid from './CogSolid';
@@ -134,6 +135,7 @@ export {
   ClipboardSolid,
   ClockOutline,
   ClockSolid,
+  CloudArrowUpOutline,
   CloudArrowUpSolid,
   CodeBranchSolid,
   CodeMergeSolid,
