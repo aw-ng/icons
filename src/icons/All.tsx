@@ -73,6 +73,7 @@ import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
+import FileImportSolid from './FileImportSolid';
 
 export {
   AddColumnAfterOutline,
@@ -150,5 +151,6 @@ export {
   FacebookSolid,
   FileCodeSolid,
   FileCopySolid,
+  FileImportSolid,
 };
 
