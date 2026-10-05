@@ -134,6 +134,7 @@ export default Avatar;
 | <img src="./src/raw/clipboard-solid.svg" width="30" alt="clipboard-solid"> | [clipboard-solid](./src/icons/ClipboardSolid.tsx) |
 | <img src="./src/raw/clock-outline.svg" width="30" alt="clock-outline"> | [clock-outline](./src/icons/ClockOutline.tsx) |
 | <img src="./src/raw/clock-solid.svg" width="30" alt="clock-solid"> | [clock-solid](./src/icons/ClockSolid.tsx) |
+| <img src="./src/raw/cloud-arrow-up-outline.svg" width="30" alt="cloud-arrow-up-outline"> | [cloud-arrow-up-outline](./src/icons/CloudArrowUpOutline.tsx) |
 | <img src="./src/raw/cloud-arrow-up-solid.svg" width="30" alt="cloud-arrow-up-solid"> | [cloud-arrow-up-solid](./src/icons/CloudArrowUpSolid.tsx) |
 | <img src="./src/raw/code-branch-solid.svg" width="30" alt="code-branch-solid"> | [code-branch-solid](./src/icons/CodeBranchSolid.tsx) |
 | <img src="./src/raw/code-merge-solid.svg" width="30" alt="code-merge-solid"> | [code-merge-solid](./src/icons/CodeMergeSolid.tsx) |
@@ -150,4 +151,6 @@ export default Avatar;
 | <img src="./src/raw/facebook-solid.svg" width="30" alt="facebook-solid"> | [facebook-solid](./src/icons/FacebookSolid.tsx) |
 | <img src="./src/raw/file-code-solid.svg" width="30" alt="file-code-solid"> | [file-code-solid](./src/icons/FileCodeSolid.tsx) |
 | <img src="./src/raw/file-copy-solid.svg" width="30" alt="file-copy-solid"> | [file-copy-solid](./src/icons/FileCopySolid.tsx) |
+| <img src="./src/raw/file-image-solid.svg" width="30" alt="file-image-solid"> | [file-image-solid](./src/icons/FileImageSolid.tsx) |
 | <img src="./src/raw/file-import-solid.svg" width="30" alt="file-import-solid"> | [file-import-solid](./src/icons/FileImportSolid.tsx) |
+

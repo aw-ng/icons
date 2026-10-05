@@ -58,6 +58,7 @@ import {
   ClipboardSolid,
   ClockOutline,
   ClockSolid,
+  CloudArrowUpOutline,
   CloudArrowUpSolid,
   CodeBranchSolid,
   CodeMergeSolid,
@@ -74,7 +75,11 @@ import {
   FacebookSolid,
   FileCodeSolid,
   FileCopySolid,
+<<<<<<< HEAD
   FileImportSolid,
+=======
+  FileImageSolid,
+>>>>>>> staging
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -137,6 +142,7 @@ export const iconsMap: Record<string, string> = {
   'clipboard-solid': ClipboardSolid,
   'clock-outline': ClockOutline,
   'clock-solid': ClockSolid,
+  'cloud-arrow-up-outline': CloudArrowUpOutline,
   'cloud-arrow-up-solid': CloudArrowUpSolid,
   'code-branch-solid': CodeBranchSolid,
   'code-merge-solid': CodeMergeSolid,
@@ -153,5 +159,7 @@ export const iconsMap: Record<string, string> = {
   'facebook-solid': FacebookSolid,
   'file-code-solid': FileCodeSolid,
   'file-copy-solid': FileCopySolid,
+  'file-image-solid': FileImageSolid,
   'file-import-solid': FileImportSolid,
+
 };

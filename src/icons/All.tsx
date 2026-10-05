@@ -57,7 +57,8 @@ import ClipboardOutline from './ClipboardOutline';
 import ClipboardSolid from './ClipboardSolid';
 import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
-import CloudArrowUpSolid from './CloudArrowUpSolid'
+import CloudArrowUpOutline from './CloudArrowUpOutline';
+import CloudArrowUpSolid from './CloudArrowUpSolid';
 import CodeBranchSolid from './CodeBranchSolid';
 import CodeMergeSolid from './CodeMergeSolid';
 import CogSolid from './CogSolid';
@@ -73,7 +74,10 @@ import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
+import FileImageSolid from './FileImageSolid';
 import FileImportSolid from './FileImportSolid';
+
+
 
 export {
   AddColumnAfterOutline,
@@ -135,6 +139,7 @@ export {
   ClipboardSolid,
   ClockOutline,
   ClockSolid,
+  CloudArrowUpOutline,
   CloudArrowUpSolid,
   CodeBranchSolid,
   CodeMergeSolid,
@@ -151,6 +156,7 @@ export {
   FacebookSolid,
   FileCodeSolid,
   FileCopySolid,
+  FileImageSolid,
   FileImportSolid,
 };
 
