@@ -126,6 +126,7 @@ export default Avatar;
 | <img src="./src/raw/check-outline.svg" width="30" alt="check-outline"> | [check-outline](./src/icons/CheckOutline.tsx) |
 | <img src="./src/raw/chevron-double-down-outline.svg" width="30" alt="chevron-double-down-outline"> | [chevron-double-down-outline](./src/icons/ChevronDoubleDownOutline.tsx) |
 | <img src="./src/raw/chevron-double-left-outline.svg" width="30" alt="chevron-double-left-outline"> | [chevron-double-left-outline](./src/icons/ChevronDoubleLeftOutline.tsx) |
+| <img src="./src/raw/chevron-double-right-outline.svg" width="30" alt="chevron-double-right-outline"> | [chevron-double-right-outline](./src/icons/ChevronDoubleRightOutline.tsx) |
 | <img src="./src/raw/chevron-double-up-outline.svg" width="30" alt="chevron-double-up-outline"> | [chevron-double-up-outline](./src/icons/ChevronDoubleUpOutline.tsx) |
 | <img src="./src/raw/clipboard-check-outline.svg" width="30" alt="clipboard-check-outline"> | [clipboard-check-outline](./src/icons/ClipboardCheckOutline.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipboardCheckSolid.tsx) |
