@@ -70,6 +70,7 @@ import {
   EyeSolid,
   FacebookSolid,
   FileCodeSolid,
+  FileCopySolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -144,4 +145,5 @@ export const iconsMap: Record<string, string> = {
   'eye-solid': EyeSolid,
   'facebook-solid': FacebookSolid,
   'file-code-solid': FileCodeSolid,
+  'file-copy-solid': FileCopySolid,
 };
