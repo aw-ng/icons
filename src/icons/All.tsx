@@ -50,6 +50,7 @@ import CheckOutline from './CheckOutline';
 import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
 import ChevronDoubleLeftOutline from './ChevronDoubleLeftOutline';
 import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
+import ChevronDownOutline from './ChevronDownOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardOutline from './ClipboardOutline';
@@ -126,6 +127,7 @@ export {
   ChevronDoubleDownOutline,
   ChevronDoubleLeftOutline,
   ChevronDoubleUpOutline,
+  ChevronDownOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
   ClipboardOutline,
