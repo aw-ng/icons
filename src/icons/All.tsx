@@ -79,6 +79,7 @@ import FacebookSolid from './FacebookSolid';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
+import FileImportSolid from './FileImportSolid';
 import FileMusicSolid from './FileMusicSolid';
 
 export {
@@ -163,6 +164,7 @@ export {
   FileCodeSolid,
   FileCopySolid,
   FileImageSolid,
+  FileImportSolid,
   FileMusicSolid,
 };
 

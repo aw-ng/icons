@@ -80,6 +80,7 @@ import {
   FileCodeSolid,
   FileCopySolid,
   FileImageSolid,
+  FileImportSolid,
   FileMusicSolid,
 } from '../icons/All';
 
@@ -165,5 +166,6 @@ export const iconsMap: Record<string, string> = {
   'file-code-solid': FileCodeSolid,
   'file-copy-solid': FileCopySolid,
   'file-image-solid': FileImageSolid,
+  'file-import-solid': FileImportSolid,
   'file-music-solid': FileMusicSolid,
 };
