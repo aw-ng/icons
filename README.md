@@ -107,10 +107,12 @@ export default Avatar;
 | <img src="./src/raw/arrow-left-to-bracket-outline.svg" width="30" alt="arrow-left-to-bracket-outline"> | [arrow-left-to-bracket-outline](./src/icons/ArrowLeftToBracketOutline.tsx) |
 | <img src="./src/raw/arrow-right-alt-outline.svg" width="30" alt="arrow-right-alt-outline"> | [arrow-right-alt-outline](./src/icons/ArrowRightAltOutline.tsx) |
 | <img src="./src/raw/arrow-right-alt-solid.svg" width="30" alt="arrow-right-alt-solid"> | [arrow-right-alt-solid](./src/icons/ArrowRightAltSolid.tsx) |
+| <img src="./src/raw/arrow-right-outline.svg" width="30" alt="arrow-right-outline"> | [arrow-right-outline](./src/icons/ArrowRightOutline.tsx) |
 | <img src="./src/raw/arrow-up-outline.svg" width="30" alt="arrow-up-outline"> | [arrow-up-outline](./src/icons/ArrowUpOutline.tsx) |
 | <img src="./src/raw/arrow-up-right-from-square-solid.svg" width="30" alt="arrow-up-right-from-square-solid"> | [arrow-up-right-from-square-solid](./src/icons/ArrowUpRightFromSquareSolid.tsx) |
 | <img src="./src/raw/bell-outline.svg" width="30" alt="bell-outline"> | [bell-outline](./src/icons/BellOutline.tsx) |
 | <img src="./src/raw/bitcoin-solid.svg" width="30" alt="bitcoin-solid"> | [bitcoin-solid](./src/icons/BitcoinSolid.tsx) |
+| <img src="./src/raw/bookmark-outline.svg" width="30" alt="bookmark-outline"> | [bookmark-outline](./src/icons/BookmarkOutline.tsx) |
 | <img src="./src/raw/bookmark-solid.svg" width="30" alt="bookmark-solid"> | [bookmark-solid](./src/icons/BookmarkSolid.tsx) |
 | <img src="./src/raw/book-open-outline.svg" width="30" alt="book-open-outline"> | [book-open-outline](./src/icons/BookOpenOutline.tsx) |
 | <img src="./src/raw/book-open-solid.svg" width="30" alt="book-open-solid"> | [book-open-solid](./src/icons/BookOpenSolid.tsx) |
@@ -129,6 +131,9 @@ export default Avatar;
 | <img src="./src/raw/chevron-double-left-outline.svg" width="30" alt="chevron-double-left-outline"> | [chevron-double-left-outline](./src/icons/ChevronDoubleLeftOutline.tsx) |
 | <img src="./src/raw/chevron-double-right-outline.svg" width="30" alt="chevron-double-right-outline"> | [chevron-double-right-outline](./src/icons/ChevronDoubleRightOutline.tsx) |
 | <img src="./src/raw/chevron-double-up-outline.svg" width="30" alt="chevron-double-up-outline"> | [chevron-double-up-outline](./src/icons/ChevronDoubleUpOutline.tsx) |
+| <img src="./src/raw/chevron-down-outline.svg" width="30" alt="chevron-down-outline"> | [chevron-down-outline](./src/icons/ChevronDownOutline.tsx) |
+| <img src="./src/raw/chevron-left-outline.svg" width="30" alt="chevron-left-outline"> | [chevron-left-outline](./src/icons/ChevronLeftOutline.tsx) |
+| <img src="./src/raw/chevron-right-outline.svg" width="30" alt="chevron-right-outline"> | [chevron-right-outline](./src/icons/ChevronRightOutline.tsx) |
 | <img src="./src/raw/clipboard-check-outline.svg" width="30" alt="clipboard-check-outline"> | [clipboard-check-outline](./src/icons/ClipboardCheckOutline.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipboardCheckSolid.tsx) |
 | <img src="./src/raw/clipboard-outline.svg" width="30" alt="clipboard-outline"> | [clipboard-outline](./src/icons/ClipboardOutline.tsx) |
@@ -146,6 +151,7 @@ export default Avatar;
 | <img src="./src/raw/envelope-open-solid.svg" width="30" alt="envelope-open-solid"> | [envelope-open-solid](./src/icons/EnvelopeOpenSolid.tsx) |
 | <img src="./src/raw/envelope-outline.svg" width="30" alt="envelope-outline"> | [envelope-outline](./src/icons/EnvelopeOutline.tsx) |
 | <img src="./src/raw/envelope-solid.svg" width="30" alt="envelope-solid"> | [envelope-solid](./src/icons/EnvelopeSolid.tsx) |
+| <img src="./src/raw/exclamation-circle-outline.svg" width="30" alt="exclamation-circle-outline"> | [exclamation-circle-outline](./src/icons/ExclamationCircleOutline.tsx) |
 | <img src="./src/raw/exclamation-circle-solid.svg" width="30" alt="exclamation-circle-solid"> | [exclamation-circle-solid](./src/icons/ExclamationCircleSolid.tsx) |
 | <img src="./src/raw/eye-slash-solid.svg" width="30" alt="eye-slash-solid"> | [eye-slash-solid](./src/icons/EyeSlashSolid.tsx) |
 | <img src="./src/raw/eye-solid.svg" width="30" alt="eye-solid"> | [eye-solid](./src/icons/EyeSolid.tsx) |
@@ -153,3 +159,5 @@ export default Avatar;
 | <img src="./src/raw/file-code-solid.svg" width="30" alt="file-code-solid"> | [file-code-solid](./src/icons/FileCodeSolid.tsx) |
 | <img src="./src/raw/file-copy-solid.svg" width="30" alt="file-copy-solid"> | [file-copy-solid](./src/icons/FileCopySolid.tsx) |
 | <img src="./src/raw/file-image-solid.svg" width="30" alt="file-image-solid"> | [file-image-solid](./src/icons/FileImageSolid.tsx) |
+| <img src="./src/raw/file-import-solid.svg" width="30" alt="file-import-solid"> | [file-import-solid](./src/icons/FileImportSolid.tsx) |
+| <img src="./src/raw/file-music-solid.svg" width="30" alt="file-music-solid"> | [file-music-solid](./src/icons/FileMusicSolid.tsx) |
