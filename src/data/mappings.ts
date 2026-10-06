@@ -75,11 +75,8 @@ import {
   FacebookSolid,
   FileCodeSolid,
   FileCopySolid,
-<<<<<<< HEAD
-  FileImportSolid,
-=======
   FileImageSolid,
->>>>>>> staging
+  FileImportSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
