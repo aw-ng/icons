@@ -82,6 +82,7 @@ import EnvelopeSolid from './EnvelopeSolid';
 import ExclamationCircleOutline from './ExclamationCircleOutline';
 import ExclamationCircleSolid from './ExclamationCircleSolid';
 import EyeOutline from './EyeOutline';
+import EyeSlashOutline from './EyeSlashOutline';
 import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
@@ -177,6 +178,7 @@ export {
   ExclamationCircleOutline,
   ExclamationCircleSolid,
   EyeOutline,
+  EyeSlashOutline,
   EyeSlashSolid,
   EyeSolid,
   FacebookSolid,
