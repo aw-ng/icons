@@ -53,6 +53,7 @@ import ChevronDoubleLeftOutline from './ChevronDoubleLeftOutline';
 import ChevronDoubleRightOutline from './ChevronDoubleRightOutline';
 import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
 import ChevronDownOutline from './ChevronDownOutline';
+import ChevronLeftOutline from './ChevronLeftOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardOutline from './ClipboardOutline';
@@ -78,6 +79,7 @@ import FacebookSolid from './FacebookSolid';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
+import FileMusicSolid from './FileMusicSolid';
 
 export {
   AddColumnAfterOutline,
@@ -135,6 +137,7 @@ export {
   ChevronDoubleRightOutline,
   ChevronDoubleUpOutline,
   ChevronDownOutline,
+  ChevronLeftOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
   ClipboardOutline,
@@ -160,5 +163,6 @@ export {
   FileCodeSolid,
   FileCopySolid,
   FileImageSolid,
+  FileMusicSolid,
 };
 

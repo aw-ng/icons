@@ -54,6 +54,7 @@ import {
   ChevronDoubleRightOutline,
   ChevronDoubleUpOutline,
   ChevronDownOutline,
+  ChevronLeftOutline,
   ClipboardCheckOutline,
   ClipboardCheckSolid,
   ClipboardOutline,
@@ -79,6 +80,7 @@ import {
   FileCodeSolid,
   FileCopySolid,
   FileImageSolid,
+  FileMusicSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -137,6 +139,7 @@ export const iconsMap: Record<string, string> = {
   'chevron-double-right-outline':ChevronDoubleRightOutline,
   'chevron-double-up-outline': ChevronDoubleUpOutline,
   'chevron-down-outline': ChevronDownOutline,
+  'chevron-left-outline': ChevronLeftOutline,
   'clipboard-check-outline': ClipboardCheckOutline,
   'clipboard-check-solid': ClipboardCheckSolid,
   'clipboard-outline': ClipboardOutline,
@@ -162,4 +165,5 @@ export const iconsMap: Record<string, string> = {
   'file-code-solid': FileCodeSolid,
   'file-copy-solid': FileCopySolid,
   'file-image-solid': FileImageSolid,
+  'file-music-solid': FileMusicSolid,
 };
