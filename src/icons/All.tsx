@@ -30,6 +30,7 @@ import ArrowLeftOutline from './ArrowLeftOutline';
 import ArrowLeftToBracketOutline from './ArrowLeftToBracketOutline';
 import ArrowRightAltOutline from './ArrowRightAltOutline';
 import ArrowRightAltSolid from './ArrowRightAltSolid';
+import ArrowRightOutline from './ArrowRightOutline';
 import ArrowUpOutline from './ArrowUpOutline';
 import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import BellOutline from './BellOutline';
@@ -116,6 +117,7 @@ export {
   ArrowLeftToBracketOutline,
   ArrowRightAltOutline,
   ArrowRightAltSolid,
+  ArrowRightOutline,
   ArrowUpOutline,
   ArrowUpRightFromSquareSolid,
   BellOutline,
