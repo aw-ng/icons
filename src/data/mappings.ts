@@ -35,6 +35,7 @@ import {
   ArrowUpRightFromSquareSolid,
   BellOutline,
   BitcoinSolid,
+  BookmarkOutline,
   BookmarkSolid,
   BookOpenOutline,
   BookOpenSolid,
@@ -52,6 +53,8 @@ import {
   ChevronDoubleLeftOutline,
   ChevronDoubleRightOutline,
   ChevronDoubleUpOutline,
+  ChevronDownOutline,
+  ChevronLeftOutline,
   ClipboardCheckOutline,
   ClipboardCheckSolid,
   ClipboardOutline,
@@ -77,6 +80,7 @@ import {
   FileCopySolid,
   FileImageSolid,
   FileImportSolid,
+  FileMusicSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -116,6 +120,7 @@ export const iconsMap: Record<string, string> = {
   'arrow-up-right-from-square-solid': ArrowUpRightFromSquareSolid,
   'bell-outline': BellOutline,
   'bitcoin-solid': BitcoinSolid,
+  'bookmark-outline': BookmarkOutline,
   'bookmark-solid': BookmarkSolid,
   'book-open-outline': BookOpenOutline,
   'book-open-solid': BookOpenSolid,
@@ -133,6 +138,8 @@ export const iconsMap: Record<string, string> = {
   'chevron-double-left-outline': ChevronDoubleLeftOutline,
   'chevron-double-right-outline':ChevronDoubleRightOutline,
   'chevron-double-up-outline': ChevronDoubleUpOutline,
+  'chevron-down-outline': ChevronDownOutline,
+  'chevron-left-outline': ChevronLeftOutline,
   'clipboard-check-outline': ClipboardCheckOutline,
   'clipboard-check-solid': ClipboardCheckSolid,
   'clipboard-outline': ClipboardOutline,
@@ -158,5 +165,5 @@ export const iconsMap: Record<string, string> = {
   'file-copy-solid': FileCopySolid,
   'file-image-solid': FileImageSolid,
   'file-import-solid': FileImportSolid,
-
+  'file-music-solid': FileMusicSolid,
 };

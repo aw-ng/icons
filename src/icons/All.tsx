@@ -34,6 +34,7 @@ import ArrowUpOutline from './ArrowUpOutline';
 import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
+import BookmarkOutline from './BookmarkOutline';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenOutline from './BookOpenOutline';
 import BookOpenSolid from './BookOpenSolid';
@@ -51,6 +52,8 @@ import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
 import ChevronDoubleLeftOutline from './ChevronDoubleLeftOutline';
 import ChevronDoubleRightOutline from './ChevronDoubleRightOutline';
 import ChevronDoubleUpOutline from './ChevronDoubleUpOutline';
+import ChevronDownOutline from './ChevronDownOutline';
+import ChevronLeftOutline from './ChevronLeftOutline';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardOutline from './ClipboardOutline';
@@ -76,7 +79,7 @@ import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
 import FileImportSolid from './FileImportSolid';
-
+import FileMusicSolid from './FileMusicSolid';
 
 export {
   AddColumnAfterOutline,
@@ -115,6 +118,7 @@ export {
   ArrowUpRightFromSquareSolid,
   BellOutline,
   BitcoinSolid,
+  BookmarkOutline,
   BookmarkSolid,
   BookOpenOutline,
   BookOpenSolid,
@@ -132,6 +136,8 @@ export {
   ChevronDoubleLeftOutline,
   ChevronDoubleRightOutline,
   ChevronDoubleUpOutline,
+  ChevronDownOutline,
+  ChevronLeftOutline,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
   ClipboardOutline,
@@ -157,5 +163,6 @@ export {
   FileCopySolid,
   FileImageSolid,
   FileImportSolid,
+  FileMusicSolid,
 };
 
