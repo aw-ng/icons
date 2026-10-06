@@ -47,6 +47,7 @@ import CalendarPlusOutline from './CalendarPlusOutline';
 import CalendarPlusSolid from './CalendarPlusSolid';
 import CalendarWeekSolid from './CalendarWeekSolid';
 import CalendarWeekOutline from './CalendarWeekOutline';
+import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
 import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
@@ -134,6 +135,7 @@ export {
   CalendarPlusSolid,
   CalendarWeekSolid,
   CalendarWeekOutline,
+  CheckCircleOutline,
   CheckCircleSolid,
   CheckOutline,
   ChevronDoubleDownOutline,

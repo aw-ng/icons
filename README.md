@@ -124,6 +124,7 @@ export default Avatar;
 | <img src="./src/raw/calendar-plus-solid.svg" width="30" alt="calendar-plus-solid"> | [calendar-plus-solid](./src/icons/CalendarPlusSolid.tsx) |
 | <img src="./src/raw/calendar-week-solid.svg" width="30" alt="calendar-week-solid"> | [calendar-week-solid](./src/icons/CalendarWeekSolid.tsx) |
 | <img src="./src/raw/calendar-week-outline.svg" width="30" alt="calendar-week-outline"> | [calendar-week-outline](./src/icons/CalendarWeekOutline.tsx) |
+| <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
 | <img src="./src/raw/check-outline.svg" width="30" alt="check-outline"> | [check-outline](./src/icons/CheckOutline.tsx) |
 | <img src="./src/raw/chevron-double-down-outline.svg" width="30" alt="chevron-double-down-outline"> | [chevron-double-down-outline](./src/icons/ChevronDoubleDownOutline.tsx) |
