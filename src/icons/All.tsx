@@ -47,6 +47,7 @@ import CalendarPlusOutline from './CalendarPlusOutline';
 import CalendarPlusSolid from './CalendarPlusSolid';
 import CalendarWeekSolid from './CalendarWeekSolid';
 import CalendarWeekOutline from './CalendarWeekOutline';
+import ChartBarOutline from './ChartBarOutline';
 import ChartPieOutline from './ChartPieOutline';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
@@ -140,6 +141,7 @@ export {
   CalendarPlusSolid,
   CalendarWeekSolid,
   CalendarWeekOutline,
+  ChartBarOutline,
   ChartPieOutline,
   CheckCircleOutline,
   CheckCircleSolid,
