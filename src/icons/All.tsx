@@ -88,6 +88,7 @@ import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
 import FileImportSolid from './FileImportSolid';
 import FileMusicSolid from './FileMusicSolid';
+import FilePdfSolid from './FilePdfSolid';
 
 export {
   AddColumnAfterOutline,
@@ -180,5 +181,6 @@ export {
   FileImageSolid,
   FileImportSolid,
   FileMusicSolid,
+  FilePdfSolid,
 };
 
