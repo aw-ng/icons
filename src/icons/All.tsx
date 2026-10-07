@@ -34,6 +34,7 @@ import ArrowRightOutline from './ArrowRightOutline';
 import ArrowRightToBracketOutline from './ArrowRightToBracketOutline';
 import ArrowSortLettersOutline from './ArrowSortLettersOutline';
 import ArrowUpDownOutline from './ArrowUpDownOutline';
+import ArrowUpFromBracketOutline from './ArrowUpFromBracketOutline';
 import ArrowUpOutline from './ArrowUpOutline';
 import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import AwardSolid from './AwardSolid';
@@ -146,6 +147,7 @@ export {
   ArrowRightToBracketOutline,
   ArrowSortLettersOutline,
   ArrowUpDownOutline,
+  ArrowUpFromBracketOutline,
   ArrowUpOutline,
   ArrowUpRightFromSquareSolid,
   AwardSolid,
