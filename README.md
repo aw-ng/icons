@@ -110,6 +110,7 @@ export default Avatar;
 | <img src="./src/raw/arrow-right-outline.svg" width="30" alt="arrow-right-outline"> | [arrow-right-outline](./src/icons/ArrowRightOutline.tsx) |
 | <img src="./src/raw/arrow-right-to-bracket-outline.svg" width="30" alt="arrow-right-to-bracket-outline"> | [arrow-right-to-bracket-outline](./src/icons/ArrowRightToBracketOutline.tsx) |
 | <img src="./src/raw/arrow-sort-letters-outline.svg" width="30" alt="arrow-sort-letters-outline"> | [arrow-sort-letters-outline](./src/icons/ArrowSortLettersOutline.tsx) |
+| <img src="./src/raw/arrow-up-down-outline.svg" width="30" alt="arrow-up-down-outline"> | [arrow-up-down-outline](./src/icons/ArrowUpDownOutline.tsx) |
 | <img src="./src/raw/arrow-up-outline.svg" width="30" alt="arrow-up-outline"> | [arrow-up-outline](./src/icons/ArrowUpOutline.tsx) |
 | <img src="./src/raw/arrow-up-right-from-square-solid.svg" width="30" alt="arrow-up-right-from-square-solid"> | [arrow-up-right-from-square-solid](./src/icons/ArrowUpRightFromSquareSolid.tsx) |
 | <img src="./src/raw/award-solid.svg" width="30" alt="award-solid"> | [award-solid](./src/icons/AwardSolid.tsx) |
