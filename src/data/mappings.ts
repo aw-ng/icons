@@ -48,7 +48,7 @@ import {
   CalendarPlusSolid,
   CalendarWeekSolid,
   CalendarWeekOutline,
-  ChartBarOutline,
+FileChartBarOutline,
   ChartPieOutline,
   CheckCircleOutline,
   CheckCircleSolid,
