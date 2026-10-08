@@ -100,6 +100,7 @@ import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
 import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
+import FileCodeOutline from './FileCodeOutline';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
@@ -217,6 +218,7 @@ export {
   FacebookSolid,
   FileChartOutline,
   FileChartBarOutline,
+  FileCodeOutline,
   FileCodeSolid,
   FileCopySolid,
   FileImageSolid,
