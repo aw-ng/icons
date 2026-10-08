@@ -95,6 +95,7 @@ import {
   FileImportSolid,
   FileMusicSolid,
   FilePdfSolid,
+  FileVideoSolid,
   GiftBoxSolid,
   GlobeSolid,
 } from '../icons/All';
@@ -196,6 +197,7 @@ export const iconsMap: Record<string, string> = {
   'file-import-solid': FileImportSolid,
   'file-music-solid': FileMusicSolid,
   'file-pdf-solid': FilePdfSolid,
+  'file-video-solid': FileVideoSolid,
   'gift-box-solid': GiftBoxSolid,
   'globe-solid': GlobeSolid,
 };
