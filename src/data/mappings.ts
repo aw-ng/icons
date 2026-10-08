@@ -90,6 +90,7 @@ import {
   FileImportSolid,
   FileMusicSolid,
   FilePdfSolid,
+  GiftBoxSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -184,4 +185,5 @@ export const iconsMap: Record<string, string> = {
   'file-import-solid': FileImportSolid,
   'file-music-solid': FileMusicSolid,
   'file-pdf-solid': FilePdfSolid,
+  'gift-box-solid': GiftBoxSolid,
 };
