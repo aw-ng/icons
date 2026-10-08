@@ -72,6 +72,7 @@ import CloudArrowUpOutline from './CloudArrowUpOutline';
 import CloudArrowUpSolid from './CloudArrowUpSolid';
 import CodeBranchOutline from './CodeBranchOutline';
 import CodeBranchSolid from './CodeBranchSolid';
+import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
 import CogSolid from './CogSolid';
 import DocumentAddSolid from './DocumentAddSolid';
@@ -172,6 +173,7 @@ export {
   CloudArrowUpSolid,
   CodeBranchOutline,
   CodeBranchSolid,
+  CodeMergeOutline,
   CodeMergeSolid,
   CogSolid,
   DocumentAddSolid,
