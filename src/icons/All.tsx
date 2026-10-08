@@ -91,6 +91,7 @@ import FileImageSolid from './FileImageSolid';
 import FileImportSolid from './FileImportSolid';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfSolid from './FilePdfSolid';
+import GiftBoxSolid from './GiftBoxSolid';
 
 export {
   AddColumnAfterOutline,
@@ -186,5 +187,6 @@ export {
   FileImportSolid,
   FileMusicSolid,
   FilePdfSolid,
+  GiftBoxSolid,
 };
 
