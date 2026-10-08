@@ -47,7 +47,6 @@ import CalendarPlusOutline from './CalendarPlusOutline';
 import CalendarPlusSolid from './CalendarPlusSolid';
 import CalendarWeekSolid from './CalendarWeekSolid';
 import CalendarWeekOutline from './CalendarWeekOutline';
-import ChartBarOutline from './ChartBarOutline';
 import ChartPieOutline from './ChartPieOutline';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
@@ -84,6 +83,7 @@ import EyeOutline from './EyeOutline';
 import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
+import FileChartBarOutline from './FileChartBarOutline';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
@@ -141,7 +141,6 @@ export {
   CalendarPlusSolid,
   CalendarWeekSolid,
   CalendarWeekOutline,
-  ChartBarOutline,
   ChartPieOutline,
   CheckCircleOutline,
   CheckCircleSolid,
@@ -178,6 +177,7 @@ export {
   EyeSlashSolid,
   EyeSolid,
   FacebookSolid,
+  FileChartBarOutline,
   FileCodeSolid,
   FileCopySolid,
   FileImageSolid,
