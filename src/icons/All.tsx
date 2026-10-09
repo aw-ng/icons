@@ -37,6 +37,7 @@ import ArrowUpDownOutline from './ArrowUpDownOutline';
 import ArrowUpOutline from './ArrowUpOutline';
 import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import AwardSolid from './AwardSolid';
+import BadgeCheckSolid from './BadgeCheckSolid';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkOutline from './BookmarkOutline';
@@ -147,6 +148,7 @@ export {
   ArrowUpOutline,
   ArrowUpRightFromSquareSolid,
   AwardSolid,
+  BadgeCheckSolid,
   BellOutline,
   BitcoinSolid,
   BookmarkOutline,
