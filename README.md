@@ -156,6 +156,7 @@ export default Avatar;
 | <img src="./src/raw/document-add-solid.svg" width="30" alt="document-add-solid"> | [document-add-solid](./src/icons/DocumentAddSolid.tsx) |
 | <img src="./src/raw/document-check-solid.svg" width="30" alt="document-check-solid"> | [document-check-solid](./src/icons/DocumentCheckSolid.tsx) |
 | <img src="./src/raw/document-solid.svg" width="30" alt="document-solid"> | [document-solid](./src/icons/DocumentSolid.tsx) |
+| <img src="./src/raw/document-text-solid.svg" width="30" alt="document-text-solid"> | [document-text-solid](./src/icons/DocumentTextSolid.tsx) |
 | <img src="./src/raw/egg-outline.svg" width="30" alt="egg-outline"> | [egg-outline](./src/icons/EggOutline.tsx) |
 | <img src="./src/raw/egg-solid.svg" width="30" alt="egg-solid"> | [egg-solid](./src/icons/EggSolid.tsx) |
 | <img src="./src/raw/envelope-open-outline.svg" width="30" alt="envelope-open-outline"> | [envelope-open-outline](./src/icons/EnvelopeOpenOutline.tsx) |
