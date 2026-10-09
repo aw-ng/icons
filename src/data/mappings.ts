@@ -101,6 +101,7 @@ import {
   FileVideoSolid,
   GiftBoxSolid,
   GlobeSolid,
+  GoogleSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -206,4 +207,5 @@ export const iconsMap: Record<string, string> = {
   'file-video-solid': FileVideoSolid,
   'gift-box-solid': GiftBoxSolid,
   'globe-solid': GlobeSolid,
+  'google-solid': GoogleSolid,
 };

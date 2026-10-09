@@ -100,6 +100,7 @@ import FilePdfSolid from './FilePdfSolid';
 import FileVideoSolid from './FileVideoSolid';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
+import GoogleSolid from './GoogleSolid';
 
 export {
   AddColumnAfterOutline,
@@ -204,5 +205,6 @@ export {
   FileVideoSolid,
   GiftBoxSolid,
   GlobeSolid,
+  GoogleSolid,
 };
 
