@@ -179,7 +179,7 @@ export const iconsMap: Record<string, string> = {
   'eye-slash-solid': EyeSlashSolid,
   'eye-solid': EyeSolid,
   'facebook-solid': FacebookSolid,
-   'file-chart-bar-outline': FileChartBarOutline,
+  'file-chart-bar-outline': FileChartBarOutline,
   'file-code-solid': FileCodeSolid,
   'file-copy-solid': FileCopySolid,
   'file-image-solid': FileImageSolid,
