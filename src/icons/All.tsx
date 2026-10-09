@@ -76,6 +76,7 @@ import CodeBranchSolid from './CodeBranchSolid';
 import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
 import CogSolid from './CogSolid';
+import CreditCardSolid from './CreditCardSolid';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
@@ -184,6 +185,7 @@ export {
   CodeMergeOutline,
   CodeMergeSolid,
   CogSolid,
+  CreditCardSolid,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
