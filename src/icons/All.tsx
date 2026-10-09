@@ -78,6 +78,7 @@ import CodeMergeSolid from './CodeMergeSolid';
 import CogSolid from './CogSolid';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
+import DocumentSolid from './DocumentSolid';
 import EggOutline from './EggOutline';
 import EggSolid from './EggSolid';
 import EnvelopeOpenOutline from './EnvelopeOpenOutline';
@@ -183,6 +184,7 @@ export {
   CogSolid,
   DocumentAddSolid,
   DocumentCheckSolid,
+  DocumentSolid,
   EggOutline,
   EggSolid,
   EnvelopeOpenOutline,
