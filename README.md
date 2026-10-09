@@ -124,6 +124,7 @@ export default Avatar;
 | <img src="./src/raw/book-solid.svg" width="30" alt="book-solid"> | [book-solid](./src/icons/BookSolid.tsx) |
 | <img src="./src/raw/briefcase-outline.svg" width="30" alt="briefcase-outline"> | [briefcase-outline](./src/icons/BriefcaseOutline.tsx) |
 | <img src="./src/raw/briefcase-solid.svg" width="30" alt="briefcase-solid"> | [briefcase-solid](./src/icons/BriefcaseSolid.tsx) |
+| <img src="./src/raw/calendar-edit-outline.svg" width="30" alt="calendar-edit-outline"> | [calendar-Edit-outline](./src/icons/CalendarEditOutline.tsx) |
 | <img src="./src/raw/calendar-plus-outline.svg" width="30" alt="calendar-plus-outline"> | [calendar-plus-outline](./src/icons/CalendarPlusOutline.tsx) |
 | <img src="./src/raw/calendar-plus-solid.svg" width="30" alt="calendar-plus-solid"> | [calendar-plus-solid](./src/icons/CalendarPlusSolid.tsx) |
 | <img src="./src/raw/calendar-week-solid.svg" width="30" alt="calendar-week-solid"> | [calendar-week-solid](./src/icons/CalendarWeekSolid.tsx) |
