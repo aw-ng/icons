@@ -179,3 +179,4 @@ export default Avatar;
 | <img src="./src/raw/gift-box-solid.svg" width="30" alt="gift-box-solid"> | [gift-box-solid](./src/icons/GiftBoxSolid.tsx) |
 | <img src="./src/raw/globe-solid.svg" width="30" alt="globe-solid"> | [globe-solid](./src/icons/GlobeSolid.tsx) |
 | <img src="./src/raw/google-solid.svg" width="30" alt="google-solid"> | [google-solid](./src/icons/GoogleSolid.tsx) |
+| <img src="./src/raw/graduation-cap-solid.svg" width="30" alt="graduation-cap-solid"> | [graduation-cap-solid](./src/icons/GraduationCapSolid.tsx) |
