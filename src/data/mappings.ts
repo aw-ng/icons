@@ -103,6 +103,7 @@ import {
   GiftBoxSolid,
   GlobeSolid,
   GoogleSolid,
+  GraduationCapSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -210,4 +211,5 @@ export const iconsMap: Record<string, string> = {
   'gift-box-solid': GiftBoxSolid,
   'globe-solid': GlobeSolid,
   'google-solid': GoogleSolid,
+  'graduation-cap-solid': GraduationCapSolid,
 };

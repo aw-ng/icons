@@ -102,6 +102,7 @@ import FileVideoSolid from './FileVideoSolid';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
+import GraduationCapSolid from './GraduationCapSolid';
 
 export {
   AddColumnAfterOutline,
@@ -208,5 +209,6 @@ export {
   GiftBoxSolid,
   GlobeSolid,
   GoogleSolid,
+  GraduationCapSolid,
 };
 
