@@ -80,6 +80,7 @@ import CreditCardSolid from './CreditCardSolid';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
+import DocumentTextSolid from './DocumentTextSolid';
 import EggOutline from './EggOutline';
 import EggSolid from './EggSolid';
 import EnvelopeOpenOutline from './EnvelopeOpenOutline';
@@ -189,6 +190,7 @@ export {
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
+  DocumentTextSolid,
   EggOutline,
   EggSolid,
   EnvelopeOpenOutline,
