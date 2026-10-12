@@ -126,6 +126,7 @@ export default Avatar;
 | <img src="./src/raw/book-solid.svg" width="30" alt="book-solid"> | [book-solid](./src/icons/BookSolid.tsx) |
 | <img src="./src/raw/briefcase-outline.svg" width="30" alt="briefcase-outline"> | [briefcase-outline](./src/icons/BriefcaseOutline.tsx) |
 | <img src="./src/raw/briefcase-solid.svg" width="30" alt="briefcase-solid"> | [briefcase-solid](./src/icons/BriefcaseSolid.tsx) |
+| <img src="./src/raw/bug-solid.svg" width="30" alt="bug-solid"> | [bug-solid](./src/icons/BugSolid.tsx) |
 | <img src="./src/raw/calendar-edit-outline.svg" width="30" alt="calendar-edit-outline"> | [calendar-edit-outline](./src/icons/CalendarEditOutline.tsx) |
 | <img src="./src/raw/calendar-edit-solid.svg" width="30" alt="calendar-edit-solid"> | [calendar-edit-solid](./src/icons/CalendarEditSolid.tsx) |
 | <img src="./src/raw/calendar-month-solid.svg" width="30" alt="calendar-month-solid"> | [calendar-month-solid](./src/icons/CalendarMonthSolid.tsx) |
