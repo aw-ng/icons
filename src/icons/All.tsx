@@ -52,6 +52,7 @@ import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
 import BugSolid from './BugSolid';
+import BuildingSolid from './BuildingSolid';
 import CalendarEditOutline from './CalendarEditOutline';
 import CalendarEditSolid from './CalendarEditSolid';
 import CalendarMonthOutline from './CalendarMonthOutline';
@@ -181,6 +182,7 @@ export {
   BriefcaseOutline,
   BriefcaseSolid,
   BugSolid,
+  BuildingSolid,
   CalendarEditOutline,
   CalendarEditSolid,
   CalendarMonthOutline,
