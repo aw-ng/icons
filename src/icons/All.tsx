@@ -117,6 +117,7 @@ import FileCodeOutline from './FileCodeOutline';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopyOutline from './FileCopyOutline';
 import FileCopySolid from './FileCopySolid';
+import FileImageOutline from './FileImageOutline';
 import FileImageSolid from './FileImageSolid';
 import FileImportSolid from './FileImportSolid';
 import FileMusicSolid from './FileMusicSolid';
@@ -250,6 +251,7 @@ export {
   FileCodeSolid,
   FileCopyOutline,
   FileCopySolid,
+  FileImageOutline,
   FileImageSolid,
   FileImportSolid,
   FileMusicSolid,
