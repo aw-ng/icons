@@ -119,6 +119,7 @@ import FileMusicSolid from './FileMusicSolid';
 import FilePdfSolid from './FilePdfSolid';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordSolid from './FileWordSolid';
+import FilterSolid from './FilterSolid';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
@@ -247,6 +248,7 @@ export {
   FilePdfSolid,
   FileVideoSolid,
   FileWordSolid,
+  FilterSolid,
   GiftBoxSolid,
   GlobeSolid,
   GoogleSolid,
