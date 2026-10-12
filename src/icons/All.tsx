@@ -51,6 +51,7 @@ import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
 import CalendarEditOutline from './CalendarEditOutline';
 import CalendarEditSolid from './CalendarEditSolid';
+import CalendarMonthOutline from './CalendarMonthOutline';
 import CalendarMonthSolid from './CalendarMonthSolid';
 import CalendarPlusOutline from './CalendarPlusOutline';
 import CalendarPlusSolid from './CalendarPlusSolid';
@@ -171,6 +172,7 @@ export {
   BriefcaseSolid,
   CalendarEditOutline,
   CalendarEditSolid,
+  CalendarMonthOutline,
   CalendarMonthSolid,
   CalendarPlusOutline,
   CalendarPlusSolid,
