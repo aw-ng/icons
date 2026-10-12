@@ -114,6 +114,7 @@ export default Avatar;
 | <img src="./src/raw/arrow-up-from-bracket-outline.svg" width="30" alt="arrow-up-from-bracket-outline"> | [arrow-up-from-bracket-outline](./src/icons/ArrowUpFromBracketOutline.tsx) |
 | <img src="./src/raw/arrow-up-outline.svg" width="30" alt="arrow-up-outline"> | [arrow-up-outline](./src/icons/ArrowUpOutline.tsx) |
 | <img src="./src/raw/arrow-up-right-down-left-outline.svg" width="30" alt="arrow-up-right-down-left-outline"> | [arrow-up-right-down-left-outline](./src/icons/ArrowUpRightDownLeftOutline.tsx) |
+| <img src="./src/raw/arrow-up-right-from-square-outline.svg" width="30" alt="arrow-up-right-from-square-outline"> | [arrow-up-right-from-square-outline](./src/icons/ArrowUpRightFromSquareOutline.tsx) |
 | <img src="./src/raw/arrow-up-right-from-square-solid.svg" width="30" alt="arrow-up-right-from-square-solid"> | [arrow-up-right-from-square-solid](./src/icons/ArrowUpRightFromSquareSolid.tsx) |
 | <img src="./src/raw/award-solid.svg" width="30" alt="award-solid"> | [award-solid](./src/icons/AwardSolid.tsx) |
 | <img src="./src/raw/bell-outline.svg" width="30" alt="bell-outline"> | [bell-outline](./src/icons/BellOutline.tsx) |
