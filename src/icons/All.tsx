@@ -37,6 +37,7 @@ import ArrowUpDownOutline from './ArrowUpDownOutline';
 import ArrowUpFromBracketOutline from './ArrowUpFromBracketOutline';
 import ArrowUpOutline from './ArrowUpOutline';
 import ArrowUpRightDownLeftOutline from './ArrowUpRightDownLeftOutline';
+import ArrowUpRightFromSquareOutline from './ArrowUpRightFromSquareOutline';
 import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import AwardSolid from './AwardSolid';
 import BadgeCheckSolid from './BadgeCheckSolid';
@@ -161,6 +162,7 @@ export {
   ArrowUpFromBracketOutline,
   ArrowUpOutline,
   ArrowUpRightDownLeftOutline,
+  ArrowUpRightFromSquareOutline,
   ArrowUpRightFromSquareSolid,
   AwardSolid,
   BadgeCheckSolid,
