@@ -111,6 +111,7 @@ import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
 import GraduationCapSolid from './GraduationCapSolid';
+import GridPlusOutline from './GridPlusOutline';
 
 export {
   AddColumnAfterOutline,
@@ -226,5 +227,6 @@ export {
   GlobeSolid,
   GoogleSolid,
   GraduationCapSolid,
+  GridPlusOutline,
 };
 
