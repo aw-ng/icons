@@ -94,6 +94,7 @@ import EyeSlashOutline from './EyeSlashOutline';
 import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
+import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
@@ -205,6 +206,7 @@ export {
   EyeSlashSolid,
   EyeSolid,
   FacebookSolid,
+  FileChartOutline,
   FileChartBarOutline,
   FileCodeSolid,
   FileCopySolid,
