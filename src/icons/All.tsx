@@ -76,9 +76,11 @@ import CodeBranchSolid from './CodeBranchSolid';
 import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
 import CogSolid from './CogSolid';
+import CreditCardSolid from './CreditCardSolid';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
+import DocumentTextSolid from './DocumentTextSolid';
 import EggOutline from './EggOutline';
 import EggSolid from './EggSolid';
 import EnvelopeOpenOutline from './EnvelopeOpenOutline';
@@ -93,6 +95,7 @@ import EyeSlashSolid from './EyeSlashSolid';
 import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
 import FileChartOutline from './FileChartOutline';
+import FileChartBarOutline from './FileChartBarOutline';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
@@ -100,9 +103,11 @@ import FileImportSolid from './FileImportSolid';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfSolid from './FilePdfSolid';
 import FileVideoSolid from './FileVideoSolid';
+import FileWordSolid from './FileWordSolid';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
+import GraduationCapSolid from './GraduationCapSolid';
 
 export {
   AddColumnAfterOutline,
@@ -183,9 +188,11 @@ export {
   CodeMergeOutline,
   CodeMergeSolid,
   CogSolid,
+  CreditCardSolid,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
+  DocumentTextSolid,
   EggOutline,
   EggSolid,
   EnvelopeOpenOutline,
@@ -200,6 +207,7 @@ export {
   EyeSolid,
   FacebookSolid,
   FileChartOutline,
+  FileChartBarOutline,
   FileCodeSolid,
   FileCopySolid,
   FileImageSolid,
@@ -207,8 +215,10 @@ export {
   FileMusicSolid,
   FilePdfSolid,
   FileVideoSolid,
+  FileWordSolid,
   GiftBoxSolid,
   GlobeSolid,
   GoogleSolid,
+  GraduationCapSolid,
 };
 
