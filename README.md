@@ -165,6 +165,7 @@ export default Avatar;
 | <img src="./src/raw/code-merge-outline.svg" width="30" alt="code-merge-outline"> | [code-merge-outline](./src/icons/CodeMergeOutline.tsx) |
 | <img src="./src/raw/code-merge-solid.svg" width="30" alt="code-merge-solid"> | [code-merge-solid](./src/icons/CodeMergeSolid.tsx) |
 | <img src="./src/raw/code-outline.svg" width="30" alt="code-outline"> | [code-outline](./src/icons/CodeOutline.tsx) |
+| <img src="./src/raw/cog-outline.svg" width="30" alt="cog-outline"> | [cog-outline](./src/icons/CogOutline.tsx) |
 | <img src="./src/raw/cog-solid.svg" width="30" alt="cog-solid"> | [cog-solid](./src/icons/CogSolid.tsx) |
 | <img src="./src/raw/credit-card-solid.svg" width="30" alt="credit-card-solid"> | [credit-card-solid](./src/icons/CreditCardSolid.tsx) |
 | <img src="./src/raw/document-add-solid.svg" width="30" alt="document-add-solid"> | [document-add-solid](./src/icons/DocumentAddSolid.tsx) |
