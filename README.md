@@ -128,6 +128,7 @@ export default Avatar;
 | <img src="./src/raw/briefcase-solid.svg" width="30" alt="briefcase-solid"> | [briefcase-solid](./src/icons/BriefcaseSolid.tsx) |
 | <img src="./src/raw/calendar-edit-outline.svg" width="30" alt="calendar-edit-outline"> | [calendar-edit-outline](./src/icons/CalendarEditOutline.tsx) |
 | <img src="./src/raw/calendar-edit-solid.svg" width="30" alt="calendar-edit-solid"> | [calendar-edit-solid](./src/icons/CalendarEditSolid.tsx) |
+| <img src="./src/raw/calendar-month-outline.svg" width="30" alt="calendar-month-outline"> | [calendar-month-Outline](./src/icons/CalendarMonthOutline.tsx) |
 | <img src="./src/raw/calendar-month-solid.svg" width="30" alt="calendar-month-solid"> | [calendar-month-solid](./src/icons/CalendarMonthSolid.tsx) |
 | <img src="./src/raw/calendar-plus-outline.svg" width="30" alt="calendar-plus-outline"> | [calendar-plus-outline](./src/icons/CalendarPlusOutline.tsx) |
 | <img src="./src/raw/calendar-plus-solid.svg" width="30" alt="calendar-plus-solid"> | [calendar-plus-solid](./src/icons/CalendarPlusSolid.tsx) |
