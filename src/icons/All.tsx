@@ -109,6 +109,7 @@ import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
 import FileCodeOutline from './FileCodeOutline';
 import FileCodeSolid from './FileCodeSolid';
+import FileCopyOutline from './FileCopyOutline';
 import FileCopySolid from './FileCopySolid';
 import FileImageSolid from './FileImageSolid';
 import FileImportSolid from './FileImportSolid';
@@ -234,6 +235,7 @@ export {
   FileChartBarOutline,
   FileCodeOutline,
   FileCodeSolid,
+  FileCopyOutline,
   FileCopySolid,
   FileImageSolid,
   FileImportSolid,
