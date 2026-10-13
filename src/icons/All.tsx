@@ -92,6 +92,7 @@ import CodeOutline from './CodeOutline';
 import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
+import CubeSolid from './CubeSolid';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
@@ -126,6 +127,7 @@ import FilePdfSolid from './FilePdfSolid';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordSolid from './FileWordSolid';
 import FilterSolid from './FilterSolid';
+import FireSolid from './FireSolid';
 import FolderOutline from './FolderOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
@@ -228,6 +230,7 @@ export {
   CogOutline,
   CogSolid,
   CreditCardSolid,
+  CubeSolid,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
@@ -262,6 +265,7 @@ export {
   FileVideoSolid,
   FileWordSolid,
   FilterSolid,
+  FireSolid,
   FolderOutline,
   GiftBoxSolid,
   GlobeSolid,
