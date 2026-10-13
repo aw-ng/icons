@@ -92,6 +92,7 @@ import CodeOutline from './CodeOutline';
 import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
+import CubeSolid from './CubeSolid';
 import DeviceMobileOutline from './DeviceMobileOutline';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
@@ -120,12 +121,15 @@ import FileCopyOutline from './FileCopyOutline';
 import FileCopySolid from './FileCopySolid';
 import FileImageOutline from './FileImageOutline';
 import FileImageSolid from './FileImageSolid';
+import FileImportOutline from './FileImportOutline';
 import FileImportSolid from './FileImportSolid';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfSolid from './FilePdfSolid';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordSolid from './FileWordSolid';
 import FilterSolid from './FilterSolid';
+import FireSolid from './FireSolid';
+import FlagSolid from './FlagSolid';
 import FolderOutline from './FolderOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
@@ -228,6 +232,7 @@ export {
   CogOutline,
   CogSolid,
   CreditCardSolid,
+  CubeSolid,
   DeviceMobileOutline,
   DocumentAddSolid,
   DocumentCheckSolid,
@@ -256,12 +261,15 @@ export {
   FileCopySolid,
   FileImageOutline,
   FileImageSolid,
+  FileImportOutline,
   FileImportSolid,
   FileMusicSolid,
   FilePdfSolid,
   FileVideoSolid,
   FileWordSolid,
   FilterSolid,
+  FireSolid,
+  FlagSolid,
   FolderOutline,
   GiftBoxSolid,
   GlobeSolid,
@@ -269,4 +277,3 @@ export {
   GraduationCapSolid,
   GridPlusOutline,
 };
-
