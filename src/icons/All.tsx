@@ -95,6 +95,7 @@ import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
 import DeviceMobileOutline from './DeviceMobileOutline';
+import DeviceTabletOutline from './DeviceTabletOutline';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
@@ -238,6 +239,7 @@ export {
   CreditCardSolid,
   CubeSolid,
   DeviceMobileOutline,
+  DeviceTabletOutline,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
