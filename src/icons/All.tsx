@@ -93,6 +93,7 @@ import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
+import DatabaseSolid from './DatabaseSolid'
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
@@ -230,6 +231,7 @@ export {
   CogSolid,
   CreditCardSolid,
   CubeSolid,
+  DatabaseSolid,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
