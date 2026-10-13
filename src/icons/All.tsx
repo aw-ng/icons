@@ -93,6 +93,7 @@ import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
+import DeviceMobileOutline from './DeviceMobileOutline';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
@@ -232,6 +233,7 @@ export {
   CogSolid,
   CreditCardSolid,
   CubeSolid,
+  DeviceMobileOutline,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
@@ -275,4 +277,3 @@ export {
   GraduationCapSolid,
   GridPlusOutline,
 };
-
