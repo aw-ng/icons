@@ -209,6 +209,7 @@ export default Avatar;
 | <img src="./src/raw/file-music-solid.svg" width="30" alt="file-music-solid"> | [file-music-solid](./src/icons/FileMusicSolid.tsx) |
 | <img src="./src/raw/file-pdf-outline.svg" width="30" alt="file-pdf-outline"> | [file-pdf-outline](./src/icons/FilePdfOutline.tsx) |
 | <img src="./src/raw/file-pdf-solid.svg" width="30" alt="file-pdf-solid"> | [file-pdf-solid](./src/icons/FilePdfSolid.tsx) |
+| <img src="./src/raw/file-video-outline.svg" width="30" alt="file-video-outline"> | [file-video-outline](./src/icons/FileVideoOutline.tsx) |
 | <img src="./src/raw/file-video-solid.svg" width="30" alt="file-video-solid"> | [file-video-solid](./src/icons/FileVideoSolid.tsx) |
 | <img src="./src/raw/file-word-solid.svg" width="30" alt="file-word-solid"> | [file-word-solid](./src/icons/FileWordSolid.tsx) |
 | <img src="./src/raw/filter-solid.svg" width="30" alt="filter-solid"> | [filter-solid](./src/icons/FilterSolid.tsx) |
