@@ -216,6 +216,7 @@ export default Avatar;
 | <img src="./src/raw/flag-solid.svg" width="30" alt="flag-solid"> | [flag-solid](./src/icons/FlagSolid.tsx) |
 | <img src="./src/raw/folder-open-outline.svg" width="30" alt="folder-open-outline"> | [folder-open-outline](./src/icons/FolderOpenOutline.tsx) |
 | <img src="./src/raw/folder-outline.svg" width="30" alt="folder-outline"> | [folder-outline](./src/icons/FolderOutline.tsx) |
+| <img src="./src/raw/forward-outline.svg" width="30" alt="forward-outline"> | [forward-outline](./src/icons/ForwardOutline.tsx) |
 | <img src="./src/raw/gift-box-solid.svg" width="30" alt="gift-box-solid"> | [gift-box-solid](./src/icons/GiftBoxSolid.tsx) |
 | <img src="./src/raw/globe-solid.svg" width="30" alt="globe-solid"> | [globe-solid](./src/icons/GlobeSolid.tsx) |
 | <img src="./src/raw/google-solid.svg" width="30" alt="google-solid"> | [google-solid](./src/icons/GoogleSolid.tsx) |
