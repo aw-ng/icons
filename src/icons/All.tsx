@@ -40,6 +40,7 @@ import ArrowUpRightDownLeftOutline from './ArrowUpRightDownLeftOutline';
 import ArrowUpRightFromSquareOutline from './ArrowUpRightFromSquareOutline';
 import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import AtomOutline from './AtomOutline';
+import AwardOutline from './AwardOutline';
 import AwardSolid from './AwardSolid';
 import BadgeCheckSolid from './BadgeCheckSolid';
 import BatteryFullOutline from './BatteryFullOutline';
@@ -185,6 +186,7 @@ export {
   ArrowUpRightFromSquareOutline,
   ArrowUpRightFromSquareSolid,
   AtomOutline,
+  AwardOutline,
   AwardSolid,
   BadgeCheckSolid,
   BatteryFullOutline,
