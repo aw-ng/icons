@@ -52,6 +52,8 @@ import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
 import BugSolid from './BugSolid';
+import BuildingSolid from './BuildingSolid';
+import BullhornSolid from './BullhornSolid';
 import CalendarEditOutline from './CalendarEditOutline';
 import CalendarEditSolid from './CalendarEditSolid';
 import CalendarMonthOutline from './CalendarMonthOutline';
@@ -86,6 +88,8 @@ import CodeBranchOutline from './CodeBranchOutline';
 import CodeBranchSolid from './CodeBranchSolid';
 import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
+import CodeOutline from './CodeOutline';
+import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
 import DocumentAddSolid from './DocumentAddSolid';
@@ -111,14 +115,18 @@ import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
 import FileCodeOutline from './FileCodeOutline';
 import FileCodeSolid from './FileCodeSolid';
+import FileCopyOutline from './FileCopyOutline';
 import FileCopySolid from './FileCopySolid';
+import FileImageOutline from './FileImageOutline';
 import FileImageSolid from './FileImageSolid';
 import FileImportSolid from './FileImportSolid';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfSolid from './FilePdfSolid';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordSolid from './FileWordSolid';
+import FilterSolid from './FilterSolid';
 import FireSolid from './FireSolid';
+import FolderOutline from './FolderOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
@@ -180,6 +188,8 @@ export {
   BriefcaseOutline,
   BriefcaseSolid,
   BugSolid,
+  BuildingSolid,
+  BullhornSolid,
   CalendarEditOutline,
   CalendarEditSolid,
   CalendarMonthOutline,
@@ -214,6 +224,8 @@ export {
   CodeBranchSolid,
   CodeMergeOutline,
   CodeMergeSolid,
+  CodeOutline,
+  CogOutline,
   CogSolid,
   CreditCardSolid,
   DocumentAddSolid,
@@ -239,14 +251,18 @@ export {
   FileChartBarOutline,
   FileCodeOutline,
   FileCodeSolid,
+  FileCopyOutline,
   FileCopySolid,
+  FileImageOutline,
   FileImageSolid,
   FileImportSolid,
   FileMusicSolid,
   FilePdfSolid,
   FileVideoSolid,
   FileWordSolid,
+  FilterSolid,
   FireSolid,
+  FolderOutline,
   GiftBoxSolid,
   GlobeSolid,
   GoogleSolid,
