@@ -205,6 +205,7 @@ export default Avatar;
 | <img src="./src/raw/file-word-solid.svg" width="30" alt="file-word-solid"> | [file-word-solid](./src/icons/FileWordSolid.tsx) |
 | <img src="./src/raw/filter-solid.svg" width="30" alt="filter-solid"> | [filter-solid](./src/icons/FilterSolid.tsx) |
 | <img src="./src/raw/fire-solid.svg" width="30" alt="fire-solid"> | [fire-solid](./src/icons/FireSolid.tsx) |
+| <img src="./src/raw/flag-solid.svg" width="30" alt="flag-solid"> | [flag-solid](./src/icons/FlagSolid.tsx) |
 | <img src="./src/raw/folder-outline.svg" width="30" alt="folder-outline"> | [folder-outline](./src/icons/FolderOutline.tsx) |
 | <img src="./src/raw/gift-box-solid.svg" width="30" alt="gift-box-solid"> | [gift-box-solid](./src/icons/GiftBoxSolid.tsx) |
 | <img src="./src/raw/globe-solid.svg" width="30" alt="globe-solid"> | [globe-solid](./src/icons/GlobeSolid.tsx) |
