@@ -117,6 +117,7 @@ export default Avatar;
 | <img src="./src/raw/arrow-up-right-from-square-outline.svg" width="30" alt="arrow-up-right-from-square-outline"> | [arrow-up-right-from-square-outline](./src/icons/ArrowUpRightFromSquareOutline.tsx) |
 | <img src="./src/raw/arrow-up-right-from-square-solid.svg" width="30" alt="arrow-up-right-from-square-solid"> | [arrow-up-right-from-square-solid](./src/icons/ArrowUpRightFromSquareSolid.tsx) |
 | <img src="./src/raw/atom-outline.svg" width="30" alt="atom-outline"> | [atom-outline](./src/icons/AtomOutline.tsx) |
+| <img src="./src/raw/award-outline.svg" width="30" alt="award-outline"> | [award-outline](./src/icons/AwardOutline.tsx) |
 | <img src="./src/raw/award-solid.svg" width="30" alt="award-solid"> | [award-solid](./src/icons/AwardSolid.tsx) |
 | <img src="./src/raw/badge-check-solid.svg" width="30" alt="badge-check-solid"> | [badge-check-solid](./src/icons/BadgeCheckSolid.tsx) |
 | <img src="./src/raw/battery-full-outline.svg" width="30" alt="battery-full-outline"> | [battery-full-outline](./src/icons/BatteryFullOutline.tsx) |
