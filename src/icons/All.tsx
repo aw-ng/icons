@@ -42,6 +42,7 @@ import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import AtomOutline from './AtomOutline';
 import AwardOutline from './AwardOutline';
 import AwardSolid from './AwardSolid';
+import BadgeCheckOutline from './BadgeCheckOutline';
 import BadgeCheckSolid from './BadgeCheckSolid';
 import BatteryFullOutline from './BatteryFullOutline';
 import BellActiveOutline from './BellActiveOutline';
@@ -194,6 +195,7 @@ export {
   AtomOutline,
   AwardOutline,
   AwardSolid,
+  BadgeCheckOutline,
   BadgeCheckSolid,
   BatteryFullOutline,
   BellActiveOutline,
