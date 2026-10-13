@@ -125,6 +125,7 @@ import FilePdfSolid from './FilePdfSolid';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordSolid from './FileWordSolid';
 import FilterSolid from './FilterSolid';
+import FireSolid from './FireSolid';
 import FolderOutline from './FolderOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
@@ -260,6 +261,7 @@ export {
   FileVideoSolid,
   FileWordSolid,
   FilterSolid,
+  FireSolid,
   FolderOutline,
   GiftBoxSolid,
   GlobeSolid,
