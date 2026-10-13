@@ -43,6 +43,7 @@ import AtomOutline from './AtomOutline';
 import AwardSolid from './AwardSolid';
 import BadgeCheckSolid from './BadgeCheckSolid';
 import BatteryFullOutline from './BatteryFullOutline';
+import BellActiveOutline from './BellActiveOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkOutline from './BookmarkOutline';
@@ -188,6 +189,7 @@ export {
   AwardSolid,
   BadgeCheckSolid,
   BatteryFullOutline,
+  BellActiveOutline,
   BellOutline,
   BitcoinSolid,
   BookmarkOutline,
