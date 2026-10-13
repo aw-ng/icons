@@ -88,6 +88,7 @@ import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
 import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
+import CubeSolid from './CubeSolid';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
@@ -217,6 +218,7 @@ export {
   CodeMergeSolid,
   CogSolid,
   CreditCardSolid,
+  CubeSolid,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
