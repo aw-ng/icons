@@ -200,6 +200,7 @@ export default Avatar;
 | <img src="./src/raw/file-image-solid.svg" width="30" alt="file-image-solid"> | [file-image-solid](./src/icons/FileImageSolid.tsx) |
 | <img src="./src/raw/file-import-outline.svg" width="30" alt="file-import-outline"> | [file-import-outline](./src/icons/FileImportOutline.tsx) |
 | <img src="./src/raw/file-import-solid.svg" width="30" alt="file-import-solid"> | [file-import-solid](./src/icons/FileImportSolid.tsx) |
+| <img src="./src/raw/file-music-outline.svg" width="30" alt="file-music-outline"> | [file-music-outline](./src/icons/FileMusicOutline.tsx) |
 | <img src="./src/raw/file-music-solid.svg" width="30" alt="file-music-solid"> | [file-music-solid](./src/icons/FileMusicSolid.tsx) |
 | <img src="./src/raw/file-pdf-solid.svg" width="30" alt="file-pdf-solid"> | [file-pdf-solid](./src/icons/FilePdfSolid.tsx) |
 | <img src="./src/raw/file-video-solid.svg" width="30" alt="file-video-solid"> | [file-video-solid](./src/icons/FileVideoSolid.tsx) |
