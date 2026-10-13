@@ -92,6 +92,7 @@ import CodeOutline from './CodeOutline';
 import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardSolid from './CreditCardSolid';
+import DeviceMobileOutline from './DeviceMobileOutline';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
@@ -227,6 +228,7 @@ export {
   CogOutline,
   CogSolid,
   CreditCardSolid,
+  DeviceMobileOutline,
   DocumentAddSolid,
   DocumentCheckSolid,
   DocumentSolid,
