@@ -227,3 +227,4 @@ export default Avatar;
 | <img src="./src/raw/graduation-cap-solid.svg" width="30" alt="graduation-cap-solid"> | [graduation-cap-solid](./src/icons/GraduationCapSolid.tsx) |
 | <img src="./src/raw/grid-outline.svg" width="30" alt="grid-outline"> | [grid-outline](./src/icons/GridOutline.tsx) |
 | <img src="./src/raw/grid-plus-outline.svg" width="30" alt="grid-plus-outline"> | [grid-plus-outline](./src/icons/GridPlusOutline.tsx) |
+| <img src="./src/raw/grid-plus-solid.svg" width="30" alt="grid-plus-solid"> | [grid-plus-solid](./src/icons/GridPlusSolid.tsx) |

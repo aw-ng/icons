@@ -151,6 +151,7 @@ import {
   GraduationCapSolid,
   GridOutline,
   GridPlusOutline,
+  GridPlusSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {

@@ -150,6 +150,7 @@ import GoogleSolid from './GoogleSolid';
 import GraduationCapSolid from './GraduationCapSolid';
 import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
+import GridPlusSolid from './GridPlusSolid';
 
 export {
   AddColumnAfterOutline,
@@ -304,4 +305,5 @@ export {
   GraduationCapSolid,
   GridOutline,
   GridPlusOutline,
+  GridPlusSolid,
 };
