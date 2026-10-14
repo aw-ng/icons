@@ -146,6 +146,7 @@ import FileWordOutline from './FileWordOutline';
 import FileWordSolid from './FileWordSolid';
 import FilterOutline from './FilterOutline';
 import FilterSolid from './FilterSolid';
+import FireOutline from './FireOutline';
 import FireSolid from './FireSolid';
 import FlagSolid from './FlagSolid';
 import FolderOpenOutline from './FolderOpenOutline';
@@ -310,6 +311,7 @@ export {
   FileWordSolid,
   FilterOutline,
   FilterSolid,
+  FireOutline,
   FireSolid,
   FlagSolid,
   FolderOpenOutline,
