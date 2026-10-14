@@ -182,6 +182,7 @@ export default Avatar;
 | <img src="./src/raw/document-check-solid.svg" width="30" alt="document-check-solid"> | [document-check-solid](./src/icons/DocumentCheckSolid.tsx) |
 | <img src="./src/raw/document-solid.svg" width="30" alt="document-solid"> | [document-solid](./src/icons/DocumentSolid.tsx) |
 | <img src="./src/raw/document-text-solid.svg" width="30" alt="document-text-solid"> | [document-text-solid](./src/icons/DocumentTextSolid.tsx) |
+| <img src="./src/raw/download-outline.svg" width="30" alt="download-outline"> | [download-outline](./src/icons/DownloadOutline.tsx) |
 | <img src="./src/raw/download-solid.svg" width="30" alt="download-solid"> | [download-solid](./src/icons/DownloadSolid.tsx) |
 | <img src="./src/raw/edit-solid.svg" width="30" alt="edit-solid"> | [edit-solid](./src/icons/EditSolid.tsx) |
 | <img src="./src/raw/egg-outline.svg" width="30" alt="egg-outline"> | [egg-outline](./src/icons/EggOutline.tsx) |
