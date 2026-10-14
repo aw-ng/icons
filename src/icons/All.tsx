@@ -140,6 +140,7 @@ import FireSolid from './FireSolid';
 import FlagSolid from './FlagSolid';
 import FolderOpenOutline from './FolderOpenOutline';
 import FolderOutline from './FolderOutline';
+import ForwardOutline from './ForwardOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
@@ -289,6 +290,7 @@ export {
   FlagSolid,
   FolderOpenOutline,
   FolderOutline,
+  ForwardOutline,
   GiftBoxSolid,
   GlobeSolid,
   GoogleSolid,
