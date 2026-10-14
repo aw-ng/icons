@@ -229,6 +229,7 @@ export default Avatar;
 | <img src="./src/raw/filter-solid.svg" width="30" alt="filter-solid"> | [filter-solid](./src/icons/FilterSolid.tsx) |
 | <img src="./src/raw/fire-outline.svg" width="30" alt="fire-outline"> | [fire-outline](./src/icons/FireOutline.tsx) |
 | <img src="./src/raw/fire-solid.svg" width="30" alt="fire-solid"> | [fire-solid](./src/icons/FireSolid.tsx) |
+| <img src="./src/raw/flag-outline.svg" width="30" alt="flag-outline"> | [flag-outline](./src/icons/FlagOutline.tsx) |
 | <img src="./src/raw/flag-solid.svg" width="30" alt="flag-solid"> | [flag-solid](./src/icons/FlagSolid.tsx) |
 | <img src="./src/raw/flask-solid.svg" width="30" alt="flask-solid"> | [flask-solid](./src/icons/FlaskSolid.tsx) |
 | <img src="./src/raw/folder-open-outline.svg" width="30" alt="folder-open-outline"> | [folder-open-outline](./src/icons/FolderOpenOutline.tsx) |

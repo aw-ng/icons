@@ -152,6 +152,7 @@ import FilterOutline from './FilterOutline';
 import FilterSolid from './FilterSolid';
 import FireOutline from './FireOutline';
 import FireSolid from './FireSolid';
+import FlagOutline from './FlagOutline';
 import FlagSolid from './FlagSolid';
 import FlaskSolid from './FlaskSolid';
 import FolderOpenOutline from './FolderOpenOutline';
@@ -324,6 +325,7 @@ export {
   FilterSolid,
   FireOutline,
   FireSolid,
+  FlagOutline,
   FlagSolid,
   FlaskSolid,
   FolderOpenOutline,
