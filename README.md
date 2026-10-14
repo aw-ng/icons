@@ -178,6 +178,7 @@ export default Avatar;
 | <img src="./src/raw/credit-card-outline.svg" width="30" alt="credit-card-outline"> | [credit-card-outline](./src/icons/CreditCardOutline.tsx) |
 | <img src="./src/raw/credit-card-solid.svg" width="30" alt="credit-card-solid"> | [credit-card-solid](./src/icons/CreditCardSolid.tsx) |
 | <img src="./src/raw/cube-solid.svg" width="30" alt="cube-solid"> | [cube-solid](./src/icons/CubeSolid.tsx) |
+| <img src="./src/raw/database-outline.svg" width="30" alt="database-outline"> | [database-outline](./src/icons/DatabaseOutline.tsx) |
 | <img src="./src/raw/database-solid.svg" width="30" alt="database-solid"> | [database-solid](./src/icons/DatabaseSolid.tsx) |
 | <img src="./src/raw/device-mobile-outline.svg" width="30" alt="device-mobile-outline"> | [device-mobile-outline](./src/icons/DeviceMobileOutline.tsx) |
 | <img src="./src/raw/device-tablet-outline.svg" width="30" alt="device-tablet-outline"> | [device-tablet-outline](./src/icons/DeviceTabletOutline.tsx) |
