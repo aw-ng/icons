@@ -96,6 +96,7 @@ import CodeMergeSolid from './CodeMergeSolid';
 import CodeOutline from './CodeOutline';
 import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
+import CreditCardOutline from './CreditCardOutline';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
 import DeviceMobileOutline from './DeviceMobileOutline';
@@ -253,6 +254,7 @@ export {
   CodeOutline,
   CogOutline,
   CogSolid,
+  CreditCardOutline,
   CreditCardSolid,
   CubeSolid,
   DeviceMobileOutline,
