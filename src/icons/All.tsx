@@ -39,8 +39,14 @@ import ArrowUpOutline from './ArrowUpOutline';
 import ArrowUpRightDownLeftOutline from './ArrowUpRightDownLeftOutline';
 import ArrowUpRightFromSquareOutline from './ArrowUpRightFromSquareOutline';
 import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
+import AtomOutline from './AtomOutline';
+import AwardOutline from './AwardOutline';
 import AwardSolid from './AwardSolid';
+import BadgeCheckOutline from './BadgeCheckOutline';
 import BadgeCheckSolid from './BadgeCheckSolid';
+import BanOutline from './BanOutline';
+import BatteryFullOutline from './BatteryFullOutline';
+import BellActiveOutline from './BellActiveOutline';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkOutline from './BookmarkOutline';
@@ -91,14 +97,21 @@ import CodeMergeSolid from './CodeMergeSolid';
 import CodeOutline from './CodeOutline';
 import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
+import CreditCardOutline from './CreditCardOutline';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
-import DatabaseSolid from './DatabaseSolid'
+import DatabaseSolid from './DatabaseSolid';
+import DeviceMobileOutline from './DeviceMobileOutline';
+import DeviceTabletOutline from './DeviceTabletOutline';
+import DocumentAddOutline from './DocumentAddOutline';
 import DocumentAddSolid from './DocumentAddSolid';
+import DocumentCheckOutline from './DocumentCheckOutline';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
 import DocumentTextSolid from './DocumentTextSolid';
+import DownloadOutline from './DownloadOutline';
 import DownloadSolid from './DownloadSolid';
+import EditOutline from './EditOutline';
 import EditSolid from './EditSolid';
 import EggOutline from './EggOutline';
 import EggSolid from './EggSolid';
@@ -121,19 +134,32 @@ import FileCopyOutline from './FileCopyOutline';
 import FileCopySolid from './FileCopySolid';
 import FileImageOutline from './FileImageOutline';
 import FileImageSolid from './FileImageSolid';
+import FileImportOutline from './FileImportOutline';
 import FileImportSolid from './FileImportSolid';
+import FileMusicOutline from './FileMusicOutline';
 import FileMusicSolid from './FileMusicSolid';
+import FilePdfOutline from './FilePdfOutline';
 import FilePdfSolid from './FilePdfSolid';
+import FileVideoOutline from './FileVideoOutline';
 import FileVideoSolid from './FileVideoSolid';
+import FileWordOutline from './FileWordOutline';
 import FileWordSolid from './FileWordSolid';
+import FilterOutline from './FilterOutline';
 import FilterSolid from './FilterSolid';
 import FireSolid from './FireSolid';
+import FlagSolid from './FlagSolid';
+import FolderOpenOutline from './FolderOpenOutline';
 import FolderOutline from './FolderOutline';
+import ForwardOutline from './ForwardOutline';
+import GiftBoxOutline from './GiftBoxOutline';
 import GiftBoxSolid from './GiftBoxSolid';
+import GlobeOutline from './GlobeOutline';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
 import GraduationCapSolid from './GraduationCapSolid';
+import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
+import GridPlusSolid from './GridPlusSolid';
 
 export {
   AddColumnAfterOutline,
@@ -177,8 +203,14 @@ export {
   ArrowUpRightDownLeftOutline,
   ArrowUpRightFromSquareOutline,
   ArrowUpRightFromSquareSolid,
+  AtomOutline,
+  AwardOutline,
   AwardSolid,
+  BadgeCheckOutline,
   BadgeCheckSolid,
+  BanOutline,
+  BatteryFullOutline,
+  BellActiveOutline,
   BellOutline,
   BitcoinSolid,
   BookmarkOutline,
@@ -229,14 +261,21 @@ export {
   CodeOutline,
   CogOutline,
   CogSolid,
+  CreditCardOutline,
   CreditCardSolid,
   CubeSolid,
   DatabaseSolid,
+  DeviceMobileOutline,
+  DeviceTabletOutline,
+  DocumentAddOutline,
   DocumentAddSolid,
+  DocumentCheckOutline,
   DocumentCheckSolid,
   DocumentSolid,
   DocumentTextSolid,
+  DownloadOutline,
   DownloadSolid,
+  EditOutline,
   EditSolid,
   EggOutline,
   EggSolid,
@@ -259,18 +298,30 @@ export {
   FileCopySolid,
   FileImageOutline,
   FileImageSolid,
+  FileImportOutline,
   FileImportSolid,
+  FileMusicOutline,
   FileMusicSolid,
+  FilePdfOutline,
   FilePdfSolid,
+  FileVideoOutline,
   FileVideoSolid,
+  FileWordOutline,
   FileWordSolid,
+  FilterOutline,
   FilterSolid,
   FireSolid,
+  FlagSolid,
+  FolderOpenOutline,
   FolderOutline,
+  ForwardOutline,
+  GiftBoxOutline,
   GiftBoxSolid,
+  GlobeOutline,
   GlobeSolid,
   GoogleSolid,
   GraduationCapSolid,
+  GridOutline,
   GridPlusOutline,
+  GridPlusSolid,
 };
-
