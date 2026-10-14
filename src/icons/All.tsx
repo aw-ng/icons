@@ -136,6 +136,7 @@ import FilePdfOutline from './FilePdfOutline';
 import FilePdfSolid from './FilePdfSolid';
 import FileVideoOutline from './FileVideoOutline';
 import FileVideoSolid from './FileVideoSolid';
+import FileWordOutline from './FileWordOutline';
 import FileWordSolid from './FileWordSolid';
 import FilterSolid from './FilterSolid';
 import FireSolid from './FireSolid';
@@ -289,6 +290,7 @@ export {
   FilePdfSolid,
   FileVideoOutline,
   FileVideoSolid,
+  FileWordOutline,
   FileWordSolid,
   FilterSolid,
   FireSolid,
