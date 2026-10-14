@@ -60,6 +60,7 @@ import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
 import BugSolid from './BugSolid';
 import BuildingSolid from './BuildingSolid';
+import BullhornOutline from './BullhornOutline';
 import BullhornSolid from './BullhornSolid';
 import CalendarEditOutline from './CalendarEditOutline';
 import CalendarEditSolid from './CalendarEditSolid';
@@ -231,6 +232,7 @@ export {
   BriefcaseSolid,
   BugSolid,
   BuildingSolid,
+  BullhornOutline,
   BullhornSolid,
   CalendarEditOutline,
   CalendarEditSolid,
