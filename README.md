@@ -173,6 +173,7 @@ export default Avatar;
 | <img src="./src/raw/code-outline.svg" width="30" alt="code-outline"> | [code-outline](./src/icons/CodeOutline.tsx) |
 | <img src="./src/raw/cog-outline.svg" width="30" alt="cog-outline"> | [cog-outline](./src/icons/CogOutline.tsx) |
 | <img src="./src/raw/cog-solid.svg" width="30" alt="cog-solid"> | [cog-solid](./src/icons/CogSolid.tsx) |
+| <img src="./src/raw/credit-card-outline.svg" width="30" alt="credit-card-outline"> | [credit-card-outline](./src/icons/CreditCardOutline.tsx) |
 | <img src="./src/raw/credit-card-solid.svg" width="30" alt="credit-card-solid"> | [credit-card-solid](./src/icons/CreditCardSolid.tsx) |
 | <img src="./src/raw/cube-solid.svg" width="30" alt="cube-solid"> | [cube-solid](./src/icons/CubeSolid.tsx) |
 | <img src="./src/raw/device-mobile-outline.svg" width="30" alt="device-mobile-outline"> | [device-mobile-outline](./src/icons/DeviceMobileOutline.tsx) |
