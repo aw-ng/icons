@@ -218,6 +218,7 @@ export default Avatar;
 | <img src="./src/raw/file-video-solid.svg" width="30" alt="file-video-solid"> | [file-video-solid](./src/icons/FileVideoSolid.tsx) |
 | <img src="./src/raw/file-word-outline.svg" width="30" alt="file-word-outline"> | [file-word-outline](./src/icons/FileWordOutline.tsx) |
 | <img src="./src/raw/file-word-solid.svg" width="30" alt="file-word-solid"> | [file-word-solid](./src/icons/FileWordSolid.tsx) |
+| <img src="./src/raw/filter-outline.svg" width="30" alt="filter-outline"> | [filter-outline](./src/icons/FilterOutline.tsx) |
 | <img src="./src/raw/filter-solid.svg" width="30" alt="filter-solid"> | [filter-solid](./src/icons/FilterSolid.tsx) |
 | <img src="./src/raw/fire-solid.svg" width="30" alt="fire-solid"> | [fire-solid](./src/icons/FireSolid.tsx) |
 | <img src="./src/raw/flag-solid.svg" width="30" alt="flag-solid"> | [flag-solid](./src/icons/FlagSolid.tsx) |
