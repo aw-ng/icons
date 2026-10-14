@@ -148,6 +148,7 @@ import FolderOutline from './FolderOutline';
 import ForwardOutline from './ForwardOutline';
 import GiftBoxOutline from './GiftBoxOutline';
 import GiftBoxSolid from './GiftBoxSolid';
+import GlobeOutline from './GlobeOutline';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
 import GraduationCapSolid from './GraduationCapSolid';
@@ -306,6 +307,7 @@ export {
   ForwardOutline,
   GiftBoxOutline,
   GiftBoxSolid,
+  GlobeOutline,
   GlobeSolid,
   GoogleSolid,
   GraduationCapSolid,
