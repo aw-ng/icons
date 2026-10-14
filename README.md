@@ -121,6 +121,7 @@ export default Avatar;
 | <img src="./src/raw/award-solid.svg" width="30" alt="award-solid"> | [award-solid](./src/icons/AwardSolid.tsx) |
 | <img src="./src/raw/badge-check-outline.svg" width="30" alt="badge-check-outline"> | [badge-check-outline](./src/icons/BadgeCheckOutline.tsx) |
 | <img src="./src/raw/badge-check-solid.svg" width="30" alt="badge-check-solid"> | [badge-check-solid](./src/icons/BadgeCheckSolid.tsx) |
+| <img src="./src/raw/ban-outline.svg" width="30" alt="ban-outline"> | [ban-outline](./src/icons/BanOutline.tsx) |
 | <img src="./src/raw/battery-full-outline.svg" width="30" alt="battery-full-outline"> | [battery-full-outline](./src/icons/BatteryFullOutline.tsx) |
 | <img src="./src/raw/bell-active-outline.svg" width="30" alt="bell-active-outline"> | [bell-active-outline](./src/icons/BellActiveOutline.tsx) |
 | <img src="./src/raw/bell-outline.svg" width="30" alt="bell-outline"> | [bell-outline](./src/icons/BellOutline.tsx) |
