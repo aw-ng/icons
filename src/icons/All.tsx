@@ -105,6 +105,7 @@ import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentSolid from './DocumentSolid';
 import DocumentTextSolid from './DocumentTextSolid';
+import DownloadOutline from './DownloadOutline';
 import DownloadSolid from './DownloadSolid';
 import EditSolid from './EditSolid';
 import EggOutline from './EggOutline';
@@ -258,6 +259,7 @@ export {
   DocumentCheckSolid,
   DocumentSolid,
   DocumentTextSolid,
+  DownloadOutline,
   DownloadSolid,
   EditSolid,
   EggOutline,
