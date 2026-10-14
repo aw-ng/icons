@@ -161,6 +161,7 @@ import GiftBoxSolid from './GiftBoxSolid';
 import GlobeOutline from './GlobeOutline';
 import GlobeSolid from './GlobeSolid';
 import GoogleSolid from './GoogleSolid';
+import GraduationCapOutline from './GraduationCapOutline';
 import GraduationCapSolid from './GraduationCapSolid';
 import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
@@ -330,6 +331,7 @@ export {
   GlobeOutline,
   GlobeSolid,
   GoogleSolid,
+  GraduationCapOutline,
   GraduationCapSolid,
   GridOutline,
   GridPlusOutline,
