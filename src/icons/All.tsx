@@ -141,6 +141,7 @@ import FileVideoOutline from './FileVideoOutline';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordOutline from './FileWordOutline';
 import FileWordSolid from './FileWordSolid';
+import FilterOutline from './FilterOutline';
 import FilterSolid from './FilterSolid';
 import FireSolid from './FireSolid';
 import FlagSolid from './FlagSolid';
@@ -300,6 +301,7 @@ export {
   FileVideoSolid,
   FileWordOutline,
   FileWordSolid,
+  FilterOutline,
   FilterSolid,
   FireSolid,
   FlagSolid,
