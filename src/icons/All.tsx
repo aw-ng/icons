@@ -107,6 +107,7 @@ import DocumentAddOutline from './DocumentAddOutline';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckOutline from './DocumentCheckOutline';
 import DocumentCheckSolid from './DocumentCheckSolid';
+import DocumentOutline from './DocumentOutline';
 import DocumentSolid from './DocumentSolid';
 import DocumentTextSolid from './DocumentTextSolid';
 import DownloadOutline from './DownloadOutline';
@@ -272,6 +273,7 @@ export {
   DocumentAddSolid,
   DocumentCheckOutline,
   DocumentCheckSolid,
+  DocumentOutline,
   DocumentSolid,
   DocumentTextSolid,
   DownloadOutline,
