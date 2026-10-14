@@ -152,6 +152,7 @@ import {
   GraduationCapSolid,
   GridOutline,
   GridPlusOutline,
+  GridPlusSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -308,4 +309,5 @@ export const iconsMap: Record<string, string> = {
   'graduation-cap-solid': GraduationCapSolid,
   'grid-outline': GridOutline,
   'grid-plus-outline': GridPlusOutline,
+  'grid-plus-solid': GridPlusSolid,
 };
