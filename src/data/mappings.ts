@@ -307,4 +307,5 @@ export const iconsMap: Record<string, string> = {
   'graduation-cap-solid': GraduationCapSolid,
   'grid-outline': GridOutline,
   'grid-plus-outline': GridPlusOutline,
+  'grid-plus-solid': GridPlusSolid,
 };
