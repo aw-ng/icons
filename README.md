@@ -232,6 +232,7 @@ export default Avatar;
 | <img src="./src/raw/flask-solid.svg" width="30" alt="flask-solid"> | [flask-solid](./src/icons/FlaskSolid.tsx) |
 | <img src="./src/raw/folder-open-outline.svg" width="30" alt="folder-open-outline"> | [folder-open-outline](./src/icons/FolderOpenOutline.tsx) |
 | <img src="./src/raw/folder-outline.svg" width="30" alt="folder-outline"> | [folder-outline](./src/icons/FolderOutline.tsx) |
+| <img src="./src/raw/folder-solid.svg" width="30" alt="folder-solid"> | [folder-solid](./src/icons/FolderSolid.tsx) |
 | <img src="./src/raw/forward-outline.svg" width="30" alt="forward-outline"> | [forward-outline](./src/icons/ForwardOutline.tsx) |
 | <img src="./src/raw/gift-box-outline.svg" width="30" alt="gift-box-outline"> | [gift-box-outline](./src/icons/GiftBoxOutline.tsx) |
 | <img src="./src/raw/gift-box-solid.svg" width="30" alt="gift-box-solid"> | [gift-box-solid](./src/icons/GiftBoxSolid.tsx) |
