@@ -101,6 +101,7 @@ import CogSolid from './CogSolid';
 import CreditCardOutline from './CreditCardOutline';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
+import DatabaseOutline from './DatabaseOutline';
 import DatabaseSolid from './DatabaseSolid';
 import DeviceMobileOutline from './DeviceMobileOutline';
 import DeviceTabletOutline from './DeviceTabletOutline';
@@ -269,6 +270,7 @@ export {
   CreditCardOutline,
   CreditCardSolid,
   CubeSolid,
+  DatabaseOutline,
   DatabaseSolid,
   DeviceMobileOutline,
   DeviceTabletOutline,
