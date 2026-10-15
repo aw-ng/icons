@@ -180,6 +180,7 @@ import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
 import HomeSolid from './HomeSolid';
 import ImageSolid from './ImageSolid';
+import IndentSolid from './indentSolid';
 import PenSolid from './PenSolid';
 import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
@@ -368,6 +369,7 @@ export {
   GridSolid,
   HomeSolid,
   ImageSolid,
+  IndentSolid,
   PenSolid,
   PlaySolid,
   QuestionCircleSolid,
