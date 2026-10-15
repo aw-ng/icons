@@ -169,6 +169,7 @@ import {
   GridOutline,
   GridPlusOutline,
   GridPlusSolid,
+  BugOutline,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -232,6 +233,7 @@ export const iconsMap: Record<string, string> = {
   'book-solid': BookSolid,
   'briefcase-outline': BriefcaseOutline,
   'briefcase-solid': BriefcaseSolid,
+  'bug-outline': BugOutline,
   'bug-solid': BugSolid,
   'building-solid': BuildingSolid,
   'bullhorn-outline': BullhornOutline,
