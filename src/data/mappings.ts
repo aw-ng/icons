@@ -180,6 +180,7 @@ import {
   ImageSolid,
   PenSolid,
   PlaySolid,
+  QuestionCircleSolid
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -364,4 +365,5 @@ export const iconsMap: Record<string, string> = {
   'image-solid': ImageSolid,
   'pen-solid': PenSolid,
   'play-solid': PlaySolid,
+  'question-circle-solid': QuestionCircleSolid,
 };
