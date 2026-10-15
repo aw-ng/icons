@@ -238,6 +238,7 @@ export default Avatar;
 | <img src="./src/raw/flask-outline.svg" width="30" alt="flask-outline"> | [flask-outline](./src/icons/FlaskOutline.tsx) |
 | <img src="./src/raw/flask-solid.svg" width="30" alt="flask-solid"> | [flask-solid](./src/icons/FlaskSolid.tsx) |
 | <img src="./src/raw/folder-open-outline.svg" width="30" alt="folder-open-outline"> | [folder-open-outline](./src/icons/FolderOpenOutline.tsx) |
+| <img src="./src/raw/folder-open-solid.svg" width="30" alt="folder-open-solid"> | [folder-open-solid](./src/icons/FolderOpenSolid.tsx) |
 | <img src="./src/raw/folder-outline.svg" width="30" alt="folder-outline"> | [folder-outline](./src/icons/FolderOutline.tsx) |
 | <img src="./src/raw/folder-solid.svg" width="30" alt="folder-solid"> | [folder-solid](./src/icons/FolderSolid.tsx) |
 | <img src="./src/raw/forward-outline.svg" width="30" alt="forward-outline"> | [forward-outline](./src/icons/ForwardOutline.tsx) |

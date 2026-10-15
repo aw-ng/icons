@@ -161,6 +161,7 @@ import FlagSolid from './FlagSolid';
 import FlaskOutline from './FlaskOutline';
 import FlaskSolid from './FlaskSolid';
 import FolderOpenOutline from './FolderOpenOutline';
+import FolderOpenSolid from './FolderOpenSolid';
 import FolderOutline from './FolderOutline';
 import FolderSolid from './FolderSolid';
 import ForwardOutline from './ForwardOutline';
@@ -345,6 +346,7 @@ export {
   FlaskOutline,
   FlaskSolid,
   FolderOpenOutline,
+  FolderOpenSolid,
   FolderOutline,
   FolderSolid,
   ForwardOutline,
