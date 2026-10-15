@@ -60,6 +60,7 @@ import BookOutline from './BookOutline';
 import BookSolid from './BookSolid';
 import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
+import BugOutline from './BugOutline';
 import BugSolid from './BugSolid';
 import BuildingSolid from './BuildingSolid';
 import BullhornOutline from './BullhornOutline';
@@ -238,6 +239,7 @@ export {
   BookSolid,
   BriefcaseOutline,
   BriefcaseSolid,
+  BugOutline,
   BugSolid,
   BuildingSolid,
   BullhornOutline,
