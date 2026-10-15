@@ -188,7 +188,8 @@ import {
   PlaySolid,
   QuestionCircleSolid,
   ReplySolid,
-  TicketSolid
+  TicketSolid,
+  TruckSolid
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -382,4 +383,5 @@ export const iconsMap: Record<string, string> = {
   'question-circle-solid': QuestionCircleSolid,
   'reply-solid': ReplySolid,
   'ticket-solid': TicketSolid,
+  'truck-solid': TruckSolid,
 };
