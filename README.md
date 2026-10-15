@@ -256,8 +256,10 @@ export default Avatar;
 | <img src="./src/raw/grid-plus-solid.svg" width="30" alt="grid-plus-solid"> | [grid-plus-solid](./src/icons/GridPlusSolid.tsx) |
 | <img src="./src/raw/grid-solid.svg" width="30" alt="grid-solid"> | [grid-solid](./src/icons/GridSolid.tsx) |
 | <img src="./src/raw/heart-outline.svg" width="30" alt="heart-outline"> | [heart-outline](./src/icons/HeartOutline.tsx) |
+| <img src="./src/raw/home-outline.svg" width="30" alt="home-outline"> | [home-outline](./src/icons/HomeOutline.tsx) |
 | <img src="./src/raw/home-solid.svg" width="30" alt="home-solid"> | [home-solid](./src/icons/HomeSolid.tsx) |
 | <img src="./src/raw/image-solid.svg" width="30" alt="image-solid"> | [image-solid](./src/icons/ImageSolid.tsx) |
+| <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
 | <img src="./src/raw/play-solid.svg" width="30" alt="play-solid"> | [play-solid](./src/icons/PlaySolid.tsx) |
 | <img src="./src/raw/question-circle-solid.svg" width="30" alt="question-circle-solid"> | [question-circle-solid](./src/icons/QuestionCircleSolid.tsx) |

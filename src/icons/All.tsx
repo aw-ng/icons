@@ -179,8 +179,10 @@ import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
 import HeartOutline from './HeartOutline';
+import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
 import ImageSolid from './ImageSolid';
+import IndentSolid from './IndentSolid';
 import PenSolid from './PenSolid';
 import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
@@ -368,8 +370,10 @@ export {
   GridPlusSolid,
   GridSolid,
   HeartOutline,
+  HomeOutline,
   HomeSolid,
   ImageSolid,
+  IndentSolid,
   PenSolid,
   PlaySolid,
   QuestionCircleSolid,
