@@ -172,6 +172,7 @@ import GraduationCapSolid from './GraduationCapSolid';
 import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
+import GridSolid from './GridSolid';
 
 export {
   AddColumnAfterOutline,
@@ -348,4 +349,5 @@ export {
   GridOutline,
   GridPlusOutline,
   GridPlusSolid,
+  GridSolid
 };
