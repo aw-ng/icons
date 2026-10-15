@@ -362,6 +362,6 @@ export {
   HomeSolid,
   ImageSolid,
   PenSolid,
-  PlaySolid
+  PlaySolid,
   QuestionCircleSolid
 };
