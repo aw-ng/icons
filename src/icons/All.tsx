@@ -46,6 +46,7 @@ import BadgeCheckOutline from './BadgeCheckOutline';
 import BadgeCheckSolid from './BadgeCheckSolid';
 import BanOutline from './BanOutline';
 import BarsFromLeftOutline from './BarsFromLeftOutline';
+import BarsOutline from './BarsOutline';
 import BatteryFullOutline from './BatteryFullOutline';
 import BellActiveOutline from './BellActiveOutline';
 import BellOutline from './BellOutline';
@@ -219,6 +220,7 @@ export {
   BadgeCheckSolid,
   BanOutline,
   BarsFromLeftOutline,
+  BarsOutline,
   BatteryFullOutline,
   BellActiveOutline,
   BellOutline,
