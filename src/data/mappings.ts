@@ -173,6 +173,7 @@ import {
   GridOutline,
   GridPlusOutline,
   GridPlusSolid,
+  GridSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -350,4 +351,5 @@ export const iconsMap: Record<string, string> = {
   'grid-outline': GridOutline,
   'grid-plus-outline': GridPlusOutline,
   'grid-plus-solid': GridPlusSolid,
+  'grid-solid': GridSolid,
 };
