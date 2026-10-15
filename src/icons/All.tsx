@@ -185,6 +185,7 @@ import IndentSolid from './IndentSolid';
 import PenSolid from './PenSolid';
 import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import ReplySolid from './ReplySolid';
 import TicketSolid from './TicketSolid';
 
 export {
@@ -375,5 +376,6 @@ export {
   PenSolid,
   PlaySolid,
   QuestionCircleSolid,
+  ReplySolid,
   TicketSolid
 };
