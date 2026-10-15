@@ -187,6 +187,7 @@ export default Avatar;
 | <img src="./src/raw/database-solid.svg" width="30" alt="database-solid"> | [database-solid](./src/icons/DatabaseSolid.tsx) |
 | <img src="./src/raw/device-mobile-outline.svg" width="30" alt="device-mobile-outline"> | [device-mobile-outline](./src/icons/DeviceMobileOutline.tsx) |
 | <img src="./src/raw/device-tablet-outline.svg" width="30" alt="device-tablet-outline"> | [device-tablet-outline](./src/icons/DeviceTabletOutline.tsx) |
+| <img src="./src/raw/device-tablet-solid.svg" width="30" alt="device-tablet-solid"> | [device-tablet-solid](./src/icons/DeviceTabletSolid.tsx) |
 | <img src="./src/raw/document-add-outline.svg" width="30" alt="document-add-outline"> | [document-add-outline](./src/icons/DocumentAddOutline.tsx) |
 | <img src="./src/raw/document-add-solid.svg" width="30" alt="document-add-solid"> | [document-add-solid](./src/icons/DocumentAddSolid.tsx) |
 | <img src="./src/raw/document-check-outline.svg" width="30" alt="document-check-outline"> | [document-check-outline](./src/icons/DocumentCheckOutline.tsx) |

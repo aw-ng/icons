@@ -110,6 +110,7 @@ import DatabaseOutline from './DatabaseOutline';
 import DatabaseSolid from './DatabaseSolid';
 import DeviceMobileOutline from './DeviceMobileOutline';
 import DeviceTabletOutline from './DeviceTabletOutline';
+import DeviceTabletSolid from './DeviceTabletSolid';
 import DocumentAddOutline from './DocumentAddOutline';
 import DocumentAddSolid from './DocumentAddSolid';
 import DocumentCheckOutline from './DocumentCheckOutline';
@@ -295,6 +296,7 @@ export {
   DatabaseSolid,
   DeviceMobileOutline,
   DeviceTabletOutline,
+  DeviceTabletSolid,
   DocumentAddOutline,
   DocumentAddSolid,
   DocumentCheckOutline,
