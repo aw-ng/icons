@@ -178,6 +178,7 @@ import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
+import HeartOutline from './HeartOutline';
 import HomeSolid from './HomeSolid';
 import ImageSolid from './ImageSolid';
 import PenSolid from './PenSolid';
@@ -366,6 +367,7 @@ export {
   GridPlusOutline,
   GridPlusSolid,
   GridSolid,
+  HeartOutline,
   HomeSolid,
   ImageSolid,
   PenSolid,
