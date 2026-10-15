@@ -180,6 +180,7 @@ import ImageSolid from './ImageSolid';
 import PenSolid from './PenSolid';
 import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import TicketSolid from './TicketSolid';
 
 export {
   AddColumnAfterOutline,
@@ -363,5 +364,6 @@ export {
   ImageSolid,
   PenSolid,
   PlaySolid,
-  QuestionCircleSolid
+  QuestionCircleSolid,
+  TicketSolid
 };
