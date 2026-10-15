@@ -188,6 +188,7 @@ import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReplySolid from './ReplySolid';
 import TicketSolid from './TicketSolid';
+import TruckSolid from './TruckSolid';
 
 export {
   AddColumnAfterOutline,
@@ -379,5 +380,6 @@ export {
   PlaySolid,
   QuestionCircleSolid,
   ReplySolid,
-  TicketSolid
+  TicketSolid,
+  TruckSolid
 };
