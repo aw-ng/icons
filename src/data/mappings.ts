@@ -59,6 +59,7 @@ import {
   BookSolid,
   BriefcaseOutline,
   BriefcaseSolid,
+  BugOutline,
   BugSolid,
   BuildingSolid,
   BullhornOutline,
@@ -169,7 +170,6 @@ import {
   GridOutline,
   GridPlusOutline,
   GridPlusSolid,
-  BugOutline,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
