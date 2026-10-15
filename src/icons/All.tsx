@@ -176,6 +176,7 @@ import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
 import HomeSolid from './HomeSolid';
 import PenSolid from './PenSolid';
+import PlaySolid from './PlaySolid';
 
 export {
   AddColumnAfterOutline,
@@ -356,4 +357,5 @@ export {
   GridSolid,
   HomeSolid,
   PenSolid
+  PlaySolid
 };
