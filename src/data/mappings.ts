@@ -186,6 +186,7 @@ import {
   PenSolid,
   PlaySolid,
   QuestionCircleSolid,
+  ReplySolid,
   TicketSolid
 } from '../icons/All';
 
@@ -377,5 +378,6 @@ export const iconsMap: Record<string, string> = {
   'pen-solid': PenSolid,
   'play-solid': PlaySolid,
   'question-circle-solid': QuestionCircleSolid,
+  'reply-solid': ReplySolid,
   'ticket-solid': TicketSolid,
 };
