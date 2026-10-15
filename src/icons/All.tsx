@@ -49,6 +49,7 @@ import BarsFromLeftOutline from './BarsFromLeftOutline';
 import BarsOutline from './BarsOutline';
 import BatteryFullOutline from './BatteryFullOutline';
 import BellActiveOutline from './BellActiveOutline';
+import BellActiveSolid from './BellActiveSolid';
 import BellOutline from './BellOutline';
 import BitcoinSolid from './BitcoinSolid';
 import BookmarkOutline from './BookmarkOutline';
@@ -223,6 +224,7 @@ export {
   BarsOutline,
   BatteryFullOutline,
   BellActiveOutline,
+  BellActiveSolid,
   BellOutline,
   BitcoinSolid,
   BookmarkOutline,
