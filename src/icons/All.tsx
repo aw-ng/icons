@@ -180,7 +180,7 @@ import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
 import HomeSolid from './HomeSolid';
 import ImageSolid from './ImageSolid';
-import IndentSolid from './indentSolid';
+import IndentSolid from './IndentSolid';
 import PenSolid from './PenSolid';
 import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
