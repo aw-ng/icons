@@ -140,6 +140,7 @@ export default Avatar;
 | <img src="./src/raw/briefcase-solid.svg" width="30" alt="briefcase-solid"> | [briefcase-solid](./src/icons/BriefcaseSolid.tsx) |
 | <img src="./src/raw/bug-outline.svg" width="30" alt="bug-outline"> | [bug-outline](./src/icons/BugOutline.tsx) |
 | <img src="./src/raw/bug-solid.svg" width="30" alt="bug-solid"> | [bug-solid](./src/icons/BugSolid.tsx) |
+| <img src="./src/raw/building-outline.svg" width="30" alt="building-outline"> | [building-outline](./src/icons/BuildingOutline.tsx) |
 | <img src="./src/raw/building-solid.svg" width="30" alt="building-solid"> | [building-solid](./src/icons/BuildingSolid.tsx) |
 | <img src="./src/raw/bullhorn-outline.svg" width="30" alt="bullhorn-outline"> | [bullhorn-outline](./src/icons/BullhornOutline.tsx) |
 | <img src="./src/raw/bullhorn-solid.svg" width="30" alt="bullhorn-solid"> | [bullhorn-solid](./src/icons/BullhornSolid.tsx) |
