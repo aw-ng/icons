@@ -356,6 +356,6 @@ export {
   GridPlusSolid,
   GridSolid,
   HomeSolid,
-  PenSolid
+  PenSolid,
   PlaySolid
 };
