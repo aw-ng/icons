@@ -166,6 +166,7 @@ import FolderOpenSolid from './FolderOpenSolid';
 import FolderOutline from './FolderOutline';
 import FolderSolid from './FolderSolid';
 import ForwardOutline from './ForwardOutline';
+import ForwardSolid from './ForwardSolid';
 import GiftBoxOutline from './GiftBoxOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeOutline from './GlobeOutline';
@@ -352,6 +353,7 @@ export {
   FolderOutline,
   FolderSolid,
   ForwardOutline,
+  ForwardSolid,
   GiftBoxOutline,
   GiftBoxSolid,
   GlobeOutline,
