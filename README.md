@@ -267,3 +267,4 @@ export default Avatar;
 | <img src="./src/raw/question-circle-solid.svg" width="30" alt="question-circle-solid"> | [question-circle-solid](./src/icons/QuestionCircleSolid.tsx) |
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
+| <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |
