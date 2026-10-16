@@ -261,6 +261,7 @@ export default Avatar;
 | <img src="./src/raw/home-solid.svg" width="30" alt="home-solid"> | [home-solid](./src/icons/HomeSolid.tsx) |
 | <img src="./src/raw/image-solid.svg" width="30" alt="image-solid"> | [image-solid](./src/icons/ImageSolid.tsx) |
 | <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
+| <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
 | <img src="./src/raw/phone-solid.svg" width="30" alt="phone-solid"> | [phone-solid](./src/icons/PhoneSolid.tsx) |
 | <img src="./src/raw/play-outline.svg" width="30" alt="play-outline"> | [play-outline](./src/icons/PlayOutline.tsx) |

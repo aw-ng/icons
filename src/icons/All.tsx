@@ -184,6 +184,7 @@ import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
 import ImageSolid from './ImageSolid';
 import IndentSolid from './IndentSolid';
+import LayersOutline from './LayersOutline';
 import PenSolid from './PenSolid';
 import PhoneSolid from './PhoneSolid';
 import PlayOutline from './PlayOutline';
@@ -380,6 +381,7 @@ export {
   HomeSolid,
   ImageSolid,
   IndentSolid,
+  LayersOutline,
   PenSolid,
   PhoneSolid,
   PlayOutline,
