@@ -184,6 +184,7 @@ import HomeSolid from './HomeSolid';
 import ImageSolid from './ImageSolid';
 import IndentSolid from './IndentSolid';
 import PenSolid from './PenSolid';
+import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import TicketSolid from './TicketSolid';
@@ -375,6 +376,7 @@ export {
   ImageSolid,
   IndentSolid,
   PenSolid,
+  PlayOutline,
   PlaySolid,
   QuestionCircleSolid,
   TicketSolid
