@@ -195,6 +195,7 @@ import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReplySolid from './ReplySolid';
 import SearchSolid from './SearchSolid';
+import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckSolid from './TruckSolid';
 
@@ -396,6 +397,7 @@ export {
   QuestionCircleSolid,
   ReplySolid,
   SearchSolid,
+  TicketOutline,
   TicketSolid,
   TruckSolid
 };
