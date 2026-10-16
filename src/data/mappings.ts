@@ -184,6 +184,7 @@ import {
   ImageSolid,
   IndentSolid,
   PenSolid,
+  PhoneOutline,
   PlaySolid,
   QuestionCircleSolid,
   TicketSolid
@@ -375,6 +376,7 @@ export const iconsMap: Record<string, string> = {
   'image-solid': ImageSolid,
   'indent-solid': IndentSolid,
   'pen-solid': PenSolid,
+  'phone-outline': PhoneOutline,
   'play-solid': PlaySolid,
   'question-circle-solid': QuestionCircleSolid,
   'ticket-solid': TicketSolid,

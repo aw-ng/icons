@@ -260,6 +260,7 @@ export default Avatar;
 | <img src="./src/raw/image-solid.svg" width="30" alt="image-solid"> | [image-solid](./src/icons/ImageSolid.tsx) |
 | <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
+| <img src="./src/raw/phone-outline.svg" width="30" alt="phone-outline"> | [phone-outline](./src/icons/PhoneOutline.tsx) |
 | <img src="./src/raw/play-solid.svg" width="30" alt="play-solid"> | [play-solid](./src/icons/PlaySolid.tsx) |
 | <img src="./src/raw/question-circle-solid.svg" width="30" alt="question-circle-solid"> | [question-circle-solid](./src/icons/QuestionCircleSolid.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
