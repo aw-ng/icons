@@ -186,10 +186,12 @@ import ImageSolid from './ImageSolid';
 import IndentSolid from './IndentSolid';
 import PenSolid from './PenSolid';
 import PhoneSolid from './PhoneSolid';
+import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReplySolid from './ReplySolid';
 import TicketSolid from './TicketSolid';
+import TruckSolid from './TruckSolid';
 
 export {
   AddColumnAfterOutline,
@@ -380,8 +382,10 @@ export {
   IndentSolid,
   PenSolid,
   PhoneSolid,
+  PlayOutline,
   PlaySolid,
   QuestionCircleSolid,
   ReplySolid,
-  TicketSolid
+  TicketSolid,
+  TruckSolid
 };

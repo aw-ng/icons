@@ -263,7 +263,9 @@ export default Avatar;
 | <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
 | <img src="./src/raw/phone-solid.svg" width="30" alt="phone-solid"> | [phone-solid](./src/icons/PhoneSolid.tsx) |
+| <img src="./src/raw/play-outline.svg" width="30" alt="play-outline"> | [play-outline](./src/icons/PlayOutline.tsx) |
 | <img src="./src/raw/play-solid.svg" width="30" alt="play-solid"> | [play-solid](./src/icons/PlaySolid.tsx) |
 | <img src="./src/raw/question-circle-solid.svg" width="30" alt="question-circle-solid"> | [question-circle-solid](./src/icons/QuestionCircleSolid.tsx) |
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
+| <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |

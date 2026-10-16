@@ -187,10 +187,12 @@ import {
   IndentSolid,
   PenSolid,
   PhoneSolid,
+  PlayOutline,
   PlaySolid,
   QuestionCircleSolid,
   ReplySolid,
-  TicketSolid
+  TicketSolid,
+  TruckSolid
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -382,8 +384,10 @@ export const iconsMap: Record<string, string> = {
   'indent-solid': IndentSolid,
   'pen-solid': PenSolid,
   'phone-solid': PhoneSolid,
+  'play-outline': PlayOutline,
   'play-solid': PlaySolid,
   'question-circle-solid': QuestionCircleSolid,
   'reply-solid': ReplySolid,
   'ticket-solid': TicketSolid,
+  'truck-solid': TruckSolid,
 };
