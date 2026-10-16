@@ -63,6 +63,7 @@ import BriefcaseOutline from './BriefcaseOutline';
 import BriefcaseSolid from './BriefcaseSolid';
 import BugOutline from './BugOutline';
 import BugSolid from './BugSolid';
+import BuildingOutline from './BuildingOutline';
 import BuildingSolid from './BuildingSolid';
 import BullhornOutline from './BullhornOutline';
 import BullhornSolid from './BullhornSolid';
@@ -179,14 +180,23 @@ import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
 import HeartOutline from './HeartOutline';
+import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
+import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import IndentSolid from './IndentSolid';
+import LayersOutline from './LayersOutline';
 import PenSolid from './PenSolid';
+import PhoneSolid from './PhoneSolid';
+import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
+import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import ReplySolid from './ReplySolid';
+import SearchSolid from './SearchSolid';
 import TicketSolid from './TicketSolid';
+import TruckSolid from './TruckSolid';
 
 export {
   AddColumnAfterOutline,
@@ -254,6 +264,7 @@ export {
   BriefcaseSolid,
   BugOutline,
   BugSolid,
+  BuildingOutline,
   BuildingSolid,
   BullhornOutline,
   BullhornSolid,
@@ -370,12 +381,21 @@ export {
   GridPlusSolid,
   GridSolid,
   HeartOutline,
+  HeartSolid,
   HomeOutline,
   HomeSolid,
+  ImageOutline,
   ImageSolid,
   IndentSolid,
+  LayersOutline,
   PenSolid,
+  PhoneSolid,
+  PlayOutline,
   PlaySolid,
+  QuestionCircleOutline,
   QuestionCircleSolid,
-  TicketSolid
+  ReplySolid,
+  SearchSolid,
+  TicketSolid,
+  TruckSolid
 };
