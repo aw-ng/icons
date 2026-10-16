@@ -212,6 +212,7 @@ import {
   TruckSolid,
   UserAddOutline,
   UserOutline
+  VideoCameraOutline
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -428,4 +429,5 @@ export const iconsMap: Record<string, string> = {
   'truck-solid': TruckSolid,
   'user-add-outline': UserAddOutline,
   'user-outline': UserOutline,
+  'video-camera-outline': VideoCameraOutline,
 };
