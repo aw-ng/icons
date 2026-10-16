@@ -195,6 +195,7 @@ import {
   QuestionCircleSolid,
   ReplySolid,
   SearchSolid,
+  TicketOutline,
   TicketSolid,
   TruckSolid
 } from '../icons/All';
@@ -396,6 +397,7 @@ export const iconsMap: Record<string, string> = {
   'question-circle-solid': QuestionCircleSolid,
   'reply-solid': ReplySolid,
   'search-solid': SearchSolid,
+  'ticket-outline': TicketOutline,
   'ticket-solid': TicketSolid,
   'truck-solid': TruckSolid,
 };
