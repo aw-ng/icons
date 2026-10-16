@@ -198,6 +198,7 @@ import SearchSolid from './SearchSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckSolid from './TruckSolid';
+import UserAddOutline from './UserAddOutline';
 
 export {
   AddColumnAfterOutline,
@@ -399,5 +400,6 @@ export {
   SearchSolid,
   TicketOutline,
   TicketSolid,
-  TruckSolid
+  TruckSolid,
+  UserAddOutline
 };

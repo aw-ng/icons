@@ -198,7 +198,8 @@ import {
   SearchSolid,
   TicketOutline,
   TicketSolid,
-  TruckSolid
+  TruckSolid,
+  UserAddOutline
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -402,4 +403,5 @@ export const iconsMap: Record<string, string> = {
   'ticket-outline': TicketOutline,
   'ticket-solid': TicketSolid,
   'truck-solid': TruckSolid,
+  'user-add-outline': UserAddOutline,
 };
