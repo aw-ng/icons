@@ -272,3 +272,4 @@ export default Avatar;
 | <img src="./src/raw/search-solid.svg" width="30" alt="search-solid"> | [search-solid](./src/icons/SearchSolid.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
 | <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |
+| <img src="./src/raw/user-add-outline.svg" width="30" alt="user-add-outline"> | [user-add-outline](./src/icons/UserAddOutline.tsx) |
