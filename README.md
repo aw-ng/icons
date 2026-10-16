@@ -270,6 +270,7 @@ export default Avatar;
 | <img src="./src/raw/lock-open-outline.svg" width="30" alt="lock-open-outline"> | [lock-open-outline](./src/icons/LockOpenOutline.tsx) |
 | <img src="./src/raw/map-pin-outline.svg" width="30" alt="map-pin-outline"> | [map-pin-outline](./src/icons/MapPinOutline.tsx) |
 | <img src="./src/raw/moon-outline.svg" width="30" alt="moon-outline"> | [moon-outline](./src/icons/MoonOutline.tsx) |
+| <img src="./src/raw/paper-clip-outline.svg" width="30" alt="paper-clip-outline"> | [paper-clip-outline](./src/icons/PaperClipOutline.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
 | <img src="./src/raw/phone-outline.svg" width="30" alt="phone-outline"> | [phone-outline](./src/icons/PhoneOutline.tsx) |
 | <img src="./src/raw/phone-solid.svg" width="30" alt="phone-solid"> | [phone-solid](./src/icons/PhoneSolid.tsx) |
