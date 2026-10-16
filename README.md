@@ -301,8 +301,8 @@ export default Avatar;
 | <img src="./src/raw/thumbs-up-solid.svg" width="30" alt="thumbs-up-solid"> | [thumbs-up-solid](./src/icons/ThumbsUpSolid.tsx) |
 | <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
-| <img src="./src/raw/truck-outline.svg" width="30" alt="truck-outline"> | [truck-outline](./src/icons/TruckOutline.tsx) |
 | <img src="./src/raw/trash-bin-solid.svg" width="30" alt="trash-bin-solid"> | [trash-bin-solid](./src/icons/TrashBinSolid.tsx) |
+| <img src="./src/raw/truck-outline.svg" width="30" alt="truck-outline"> | [truck-outline](./src/icons/TruckOutline.tsx) |
 | <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |
 | <img src="./src/raw/upload-solid.svg" width="30" alt="upload-solid"> | [upload-solid](./src/icons/UploadSolid.tsx) |
 | <img src="./src/raw/user-add-outline.svg" width="30" alt="user-add-outline"> | [user-add-outline](./src/icons/UserAddOutline.tsx) |
@@ -313,3 +313,4 @@ export default Avatar;
 | <img src="./src/raw/volume-up-outline.svg" width="30" alt="volume-up-outline"> | [volume-up-outline](./src/icons/VolumeUpOutline.tsx) |
 | <img src="./src/raw/wand-magic-sparkles-outline.svg" width="30" alt="wand-magic-sparkles-outline"> | [wand-magic-sparkles-outline](./src/icons/WandMagicSparklesOutline.tsx) |
 | <img src="./src/raw/youtube-solid.svg" width="30" alt="youtube-solid"> | [youtube-solid](./src/icons/YoutubeSolid.tsx) |
+| <img src="./src/raw/zoom-out-solid.svg" width="30" alt="zoom-out-solid"> | [zoom-out-solid](./src/icons/ZoomOutSolid.tsx) |
