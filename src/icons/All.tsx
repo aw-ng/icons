@@ -202,6 +202,7 @@ import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckSolid from './TruckSolid';
 import UserAddOutline from './UserAddOutline';
+import UserOutline from './UserOutline';
 
 export {
   AddColumnAfterOutline,
@@ -407,5 +408,6 @@ export {
   TicketOutline,
   TicketSolid,
   TruckSolid,
-  UserAddOutline
+  UserAddOutline,
+  UserOutline
 };
