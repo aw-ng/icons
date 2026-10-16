@@ -190,6 +190,7 @@ import PenSolid from './PenSolid';
 import PhoneSolid from './PhoneSolid';
 import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
+import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReplySolid from './ReplySolid';
 import TicketSolid from './TicketSolid';
@@ -388,6 +389,7 @@ export {
   PhoneSolid,
   PlayOutline,
   PlaySolid,
+  QuestionCircleOutline,
   QuestionCircleSolid,
   ReplySolid,
   TicketSolid,
