@@ -182,6 +182,7 @@ import GridSolid from './GridSolid';
 import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
+import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import IndentSolid from './IndentSolid';
@@ -380,6 +381,7 @@ export {
   HeartSolid,
   HomeOutline,
   HomeSolid,
+  HourglassSolid,
   ImageOutline,
   ImageSolid,
   IndentSolid,
