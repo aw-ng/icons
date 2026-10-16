@@ -217,6 +217,7 @@ import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
 import UserOutline from './UserOutline';
 import VideoCameraOutline from './VideoCameraOutline';
+import VolumeUpOutline from './VolumeUpOutline';
 
 export {
   AddColumnAfterOutline,
@@ -437,6 +438,6 @@ export {
   UploadSolid,
   UserAddOutline,
   UserOutline,
-  VideoCameraOutline
-
+  VideoCameraOutline,
+  VolumeUpOutline
 };
