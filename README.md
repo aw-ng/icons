@@ -256,6 +256,7 @@ export default Avatar;
 | <img src="./src/raw/grid-plus-outline.svg" width="30" alt="grid-plus-outline"> | [grid-plus-outline](./src/icons/GridPlusOutline.tsx) |
 | <img src="./src/raw/grid-plus-solid.svg" width="30" alt="grid-plus-solid"> | [grid-plus-solid](./src/icons/GridPlusSolid.tsx) |
 | <img src="./src/raw/grid-solid.svg" width="30" alt="grid-solid"> | [grid-solid](./src/icons/GridSolid.tsx) |
+| <img src="./src/raw/heart-outline.svg" width="30" alt="heart-outline"> | [heart-outline](./src/icons/HeartOutline.tsx) |
 | <img src="./src/raw/heart-solid.svg" width="30" alt="heart-solid"> | [heart-solid](./src/icons/HeartSolid.tsx) |
 | <img src="./src/raw/home-outline.svg" width="30" alt="home-outline"> | [home-outline](./src/icons/HomeOutline.tsx) |
 | <img src="./src/raw/home-solid.svg" width="30" alt="home-solid"> | [home-solid](./src/icons/HomeSolid.tsx) |
