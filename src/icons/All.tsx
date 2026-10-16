@@ -192,6 +192,7 @@ import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
 import MapPinOutline from './MapPinOutline';
+import MoonOutline from './MoonOutline';
 import PenSolid from './PenSolid';
 import PhoneOutline from './PhoneOutline';
 import PhoneSolid from './PhoneSolid';
@@ -406,6 +407,7 @@ export {
   LayersOutline,
   LockOpenOutline,
   MapPinOutline,
+  MoonOutline,
   PenSolid,
   PhoneOutline,
   PhoneSolid,
