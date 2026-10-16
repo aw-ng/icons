@@ -211,6 +211,7 @@ import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
 import UserAddOutline from './UserAddOutline';
 import UserOutline from './UserOutline';
+import VideoCameraOutline from './VideoCameraOutline';
 
 export {
   AddColumnAfterOutline,
@@ -425,5 +426,6 @@ export {
   TruckOutline,
   TruckSolid,
   UserAddOutline,
-  UserOutline
+  UserOutline,
+  VideoCameraOutline
 };
