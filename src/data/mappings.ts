@@ -202,7 +202,8 @@ import {
   TicketOutline,
   TicketSolid,
   TruckSolid,
-  UserAddOutline
+  UserAddOutline,
+  UserOutline
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -410,4 +411,5 @@ export const iconsMap: Record<string, string> = {
   'ticket-solid': TicketSolid,
   'truck-solid': TruckSolid,
   'user-add-outline': UserAddOutline,
+  'user-outline': UserOutline,
 };
