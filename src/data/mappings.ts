@@ -185,11 +185,13 @@ import {
   HomeOutline,
   HomeSolid,
   HourglassOutline,
+  HourglassSolid,
   ImageOutline,
   ImageSolid,
   IndentSolid,
   LayersOutline,
   PenSolid,
+  PhoneOutline,
   PhoneSolid,
   PlayOutline,
   PlaySolid,
@@ -197,8 +199,10 @@ import {
   QuestionCircleSolid,
   ReplySolid,
   SearchSolid,
+  TicketOutline,
   TicketSolid,
-  TruckSolid
+  TruckSolid,
+  UserAddOutline
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -388,11 +392,13 @@ export const iconsMap: Record<string, string> = {
   'home-outline': HomeOutline,
   'home-solid': HomeSolid,
   'hourglass-outline': HourglassOutline,
+  'hourglass-solid': HourglassSolid,
   'image-outline': ImageOutline,
   'image-solid': ImageSolid,
   'indent-solid': IndentSolid,
   'layers-outline': LayersOutline,
   'pen-solid': PenSolid,
+  'phone-outline': PhoneOutline,
   'phone-solid': PhoneSolid,
   'play-outline': PlayOutline,
   'play-solid': PlaySolid,
@@ -400,6 +406,8 @@ export const iconsMap: Record<string, string> = {
   'question-circle-solid': QuestionCircleSolid,
   'reply-solid': ReplySolid,
   'search-solid': SearchSolid,
+  'ticket-outline': TicketOutline,
   'ticket-solid': TicketSolid,
   'truck-solid': TruckSolid,
+  'user-add-outline': UserAddOutline,
 };

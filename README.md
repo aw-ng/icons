@@ -261,11 +261,13 @@ export default Avatar;
 | <img src="./src/raw/home-outline.svg" width="30" alt="home-outline"> | [home-outline](./src/icons/HomeOutline.tsx) |
 | <img src="./src/raw/home-solid.svg" width="30" alt="home-solid"> | [home-solid](./src/icons/HomeSolid.tsx) |
 | <img src="./src/raw/hourglass-outline.svg" width="30" alt="hourglass-outline"> | [hourglass-outline](./src/icons/HourglassOutline.tsx) |
+| <img src="./src/raw/hourglass-solid.svg" width="30" alt="hourglass-solid"> | [hourglass-solid](./src/icons/HourglassSolid.tsx) |
 | <img src="./src/raw/image-outline.svg" width="30" alt="image-outline"> | [image-outline](./src/icons/ImageOutline.tsx) |
 | <img src="./src/raw/image-solid.svg" width="30" alt="image-solid"> | [image-solid](./src/icons/ImageSolid.tsx) |
 | <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
 | <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
+| <img src="./src/raw/phone-outline.svg" width="30" alt="phone-outline"> | [phone-outline](./src/icons/PhoneOutline.tsx) |
 | <img src="./src/raw/phone-solid.svg" width="30" alt="phone-solid"> | [phone-solid](./src/icons/PhoneSolid.tsx) |
 | <img src="./src/raw/play-outline.svg" width="30" alt="play-outline"> | [play-outline](./src/icons/PlayOutline.tsx) |
 | <img src="./src/raw/play-solid.svg" width="30" alt="play-solid"> | [play-solid](./src/icons/PlaySolid.tsx) |
@@ -273,5 +275,7 @@ export default Avatar;
 | <img src="./src/raw/question-circle-solid.svg" width="30" alt="question-circle-solid"> | [question-circle-solid](./src/icons/QuestionCircleSolid.tsx) |
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
 | <img src="./src/raw/search-solid.svg" width="30" alt="search-solid"> | [search-solid](./src/icons/SearchSolid.tsx) |
+| <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
 | <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |
+| <img src="./src/raw/user-add-outline.svg" width="30" alt="user-add-outline"> | [user-add-outline](./src/icons/UserAddOutline.tsx) |

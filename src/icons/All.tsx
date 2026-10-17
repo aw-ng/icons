@@ -184,11 +184,13 @@ import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
 import HourglassOutline from './HourglassOutline';
+import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import IndentSolid from './IndentSolid';
 import LayersOutline from './LayersOutline';
 import PenSolid from './PenSolid';
+import PhoneOutline from './PhoneOutline';
 import PhoneSolid from './PhoneSolid';
 import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
@@ -196,8 +198,10 @@ import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReplySolid from './ReplySolid';
 import SearchSolid from './SearchSolid';
+import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckSolid from './TruckSolid';
+import UserAddOutline from './UserAddOutline';
 
 export {
   AddColumnAfterOutline,
@@ -386,11 +390,13 @@ export {
   HomeOutline,
   HomeSolid,
   HourglassOutline,
+  HourglassSolid,
   ImageOutline,
   ImageSolid,
   IndentSolid,
   LayersOutline,
   PenSolid,
+  PhoneOutline,
   PhoneSolid,
   PlayOutline,
   PlaySolid,
@@ -398,6 +404,8 @@ export {
   QuestionCircleSolid,
   ReplySolid,
   SearchSolid,
+  TicketOutline,
   TicketSolid,
-  TruckSolid
+  TruckSolid,
+  UserAddOutline
 };
