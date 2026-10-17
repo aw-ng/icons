@@ -183,6 +183,7 @@ import HeartOutline from './HeartOutline';
 import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
+import HourglassOutline from './HourglassOutline';
 import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
@@ -388,6 +389,7 @@ export {
   HeartSolid,
   HomeOutline,
   HomeSolid,
+  HourglassOutline,
   HourglassSolid,
   ImageOutline,
   ImageSolid,
