@@ -210,6 +210,7 @@ import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
+import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
 import UserOutline from './UserOutline';
 import VideoCameraOutline from './VideoCameraOutline';
@@ -427,6 +428,7 @@ export {
   TicketSolid,
   TruckOutline,
   TruckSolid,
+  UploadSolid,
   UserAddOutline,
   UserOutline,
   VideoCameraOutline

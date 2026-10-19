@@ -211,6 +211,7 @@ import {
   TicketSolid,
   TruckOutline,
   TruckSolid,
+  UploadSolid,
   UserAddOutline,
   UserOutline,
   VideoCameraOutline
@@ -429,6 +430,7 @@ export const iconsMap: Record<string, string> = {
   'ticket-solid': TicketSolid,
   'truck-outline': TruckOutline,
   'truck-solid': TruckSolid,
+  'upload-solid': UploadSolid,
   'user-add-outline': UserAddOutline,
   'user-outline': UserOutline,
   'video-camera-outline': VideoCameraOutline,
