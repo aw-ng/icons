@@ -188,6 +188,7 @@ import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
+import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
 import MapPinOutline from './MapPinOutline';
@@ -400,6 +401,7 @@ export {
   ImageSolid,
   IndentOutline,
   IndentSolid,
+  LanguageOutline,
   LayersOutline,
   LockOpenOutline,
   MapPinOutline,
