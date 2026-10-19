@@ -218,7 +218,8 @@ import {
   UserAddOutline,
   UserCircleSolid,
   UserOutline,
-  VideoCameraOutline
+  VideoCameraOutline,
+  VolumeUpOutline
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -442,4 +443,5 @@ export const iconsMap: Record<string, string> = {
   'user-circle-solid': UserCircleSolid,
   'user-outline': UserOutline,
   'video-camera-outline': VideoCameraOutline,
+  'volume-up-outline': VolumeUpOutline
 };

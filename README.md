@@ -295,3 +295,4 @@ export default Avatar;
 | <img src="./src/raw/user-circle-solid.svg" width="30" alt="user-circle-solid"> | [user-circle-solid](./src/icons/UserCircleSolid.tsx) |
 | <img src="./src/raw/user-outline.svg" width="30" alt="user-outline"> | [user-outline](./src/icons/UserOutline.tsx) |
 | <img src="./src/raw/video-camera-outline.svg" width="30" alt="video-camera-outline"> | [video-camera-outline](./src/icons/VideoCameraOutline.tsx) |
+| <img src="./src/raw/volume-up-outline.svg" width="30" alt="volume-up-outline"> | [volume-up-outline](./src/icons/VolumeUpOutline.tsx) |
