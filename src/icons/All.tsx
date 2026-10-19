@@ -212,6 +212,7 @@ import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
+import TagSolid from './TagSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckOutline from './TruckOutline';
@@ -438,6 +439,7 @@ export {
   ShieldCheckSolid,
   ShoppingBagSolid,
   StopSolid,
+  TagSolid,
   TicketOutline,
   TicketSolid,
   TruckOutline,
