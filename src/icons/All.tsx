@@ -194,6 +194,7 @@ import LockOpenOutline from './LockOpenOutline';
 import LockSolid from './LockSolid';
 import MapPinOutline from './MapPinOutline';
 import MoonOutline from './MoonOutline';
+import PaperClipOutline from './PaperClipOutline';
 import PenSolid from './PenSolid';
 import PhoneOutline from './PhoneOutline';
 import PhoneSolid from './PhoneSolid';
@@ -414,6 +415,7 @@ export {
   LockSolid,
   MapPinOutline,
   MoonOutline,
+  PaperClipOutline,
   PenSolid,
   PhoneOutline,
   PhoneSolid,
