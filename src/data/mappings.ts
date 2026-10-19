@@ -211,7 +211,7 @@ import {
   TruckOutline,
   TruckSolid,
   UserAddOutline,
-  UserOutline
+  UserOutline,
   VideoCameraOutline
 } from '../icons/All';
 
