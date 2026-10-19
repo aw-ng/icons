@@ -202,6 +202,7 @@ import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import ReceiptSolid from './ReceiptSolid';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import SearchOutline from './SearchOutline';
@@ -426,6 +427,7 @@ export {
   PlaySolid,
   QuestionCircleOutline,
   QuestionCircleSolid,
+  ReceiptSolid,
   ReplyOutline,
   ReplySolid,
   SearchOutline,
