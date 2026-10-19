@@ -188,6 +188,7 @@ import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import IndentSolid from './IndentSolid';
 import LayersOutline from './LayersOutline';
+import LockOpenOutline from './LockOpenOutline';
 import PenSolid from './PenSolid';
 import PhoneOutline from './PhoneOutline';
 import PhoneSolid from './PhoneSolid';
@@ -393,6 +394,7 @@ export {
   ImageSolid,
   IndentSolid,
   LayersOutline,
+  LockOpenOutline,
   PenSolid,
   PhoneOutline,
   PhoneSolid,
