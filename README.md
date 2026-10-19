@@ -277,6 +277,7 @@ export default Avatar;
 | <img src="./src/raw/reply-outline.svg" width="30" alt="reply-outline"> | [reply-outline](./src/icons/ReplyOutline.tsx) |
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
 | <img src="./src/raw/search-solid.svg" width="30" alt="search-solid"> | [search-solid](./src/icons/SearchSolid.tsx) |
+| <img src="./src/raw/shield-check-solid.svg" width="30" alt="shield-check-solid"> | [shield-check-solid](./src/icons/ShieldCheckSolid.tsx) |
 | <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
 | <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |
