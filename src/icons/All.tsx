@@ -191,6 +191,7 @@ import IndentSolid from './IndentSolid';
 import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
+import LockSolid from './LockSolid';
 import MapPinOutline from './MapPinOutline';
 import MoonOutline from './MoonOutline';
 import PenSolid from './PenSolid';
@@ -409,6 +410,7 @@ export {
   LanguageOutline,
   LayersOutline,
   LockOpenOutline,
+  LockSolid,
   MapPinOutline,
   MoonOutline,
   PenSolid,
