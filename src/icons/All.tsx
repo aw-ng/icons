@@ -197,6 +197,7 @@ import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import SearchSolid from './SearchSolid';
 import TicketOutline from './TicketOutline';
@@ -405,6 +406,7 @@ export {
   PlaySolid,
   QuestionCircleOutline,
   QuestionCircleSolid,
+  ReplyOutline,
   ReplySolid,
   SearchSolid,
   TicketOutline,
