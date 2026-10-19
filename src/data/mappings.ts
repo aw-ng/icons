@@ -215,6 +215,7 @@ import {
   TruckSolid,
   UploadSolid,
   UserAddOutline,
+  UserCircleSolid,
   UserOutline,
   VideoCameraOutline
 } from '../icons/All';
@@ -436,6 +437,7 @@ export const iconsMap: Record<string, string> = {
   'truck-solid': TruckSolid,
   'upload-solid': UploadSolid,
   'user-add-outline': UserAddOutline,
+  'user-circle-solid': UserCircleSolid,
   'user-outline': UserOutline,
   'video-camera-outline': VideoCameraOutline,
 };

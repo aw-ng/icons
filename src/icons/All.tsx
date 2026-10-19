@@ -214,6 +214,7 @@ import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
 import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
+import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
 import VideoCameraOutline from './VideoCameraOutline';
 
@@ -434,6 +435,7 @@ export {
   TruckSolid,
   UploadSolid,
   UserAddOutline,
+  UserCircleSolid,
   UserOutline,
   VideoCameraOutline
 
