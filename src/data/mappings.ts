@@ -204,6 +204,7 @@ import {
   ShieldCheckSolid,
   TicketOutline,
   TicketSolid,
+  TruckOutline,
   TruckSolid,
   UserAddOutline,
   UserOutline
@@ -415,6 +416,7 @@ export const iconsMap: Record<string, string> = {
   'shield-check-solid': ShieldCheckSolid,
   'ticket-outline': TicketOutline,
   'ticket-solid': TicketSolid,
+  'truck-outline': TruckOutline,
   'truck-solid': TruckSolid,
   'user-add-outline': UserAddOutline,
   'user-outline': UserOutline,
