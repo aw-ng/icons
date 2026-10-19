@@ -278,6 +278,7 @@ export default Avatar;
 | <img src="./src/raw/play-outline.svg" width="30" alt="play-outline"> | [play-outline](./src/icons/PlayOutline.tsx) |
 | <img src="./src/raw/play-solid.svg" width="30" alt="play-solid"> | [play-solid](./src/icons/PlaySolid.tsx) |
 | <img src="./src/raw/question-circle-outline.svg" width="30" alt="question-circle-outline"> | [question-circle-outline](./src/icons/QuestionCircleOutline.tsx) |
+| <img src="./src/raw/receipt-solid.svg" width="30" alt="receipt-solid"> | [receipt-solid](./src/icons/ReceiptSolid.tsx) |
 | <img src="./src/raw/question-circle-solid.svg" width="30" alt="question-circle-solid"> | [question-circle-solid](./src/icons/QuestionCircleSolid.tsx) |
 | <img src="./src/raw/reply-outline.svg" width="30" alt="reply-outline"> | [reply-outline](./src/icons/ReplyOutline.tsx) |
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
