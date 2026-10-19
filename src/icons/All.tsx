@@ -202,6 +202,7 @@ import ReplySolid from './ReplySolid';
 import SearchSolid from './SearchSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
+import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
 import UserAddOutline from './UserAddOutline';
 import UserOutline from './UserOutline';
@@ -411,6 +412,7 @@ export {
   SearchSolid,
   TicketOutline,
   TicketSolid,
+  TruckOutline,
   TruckSolid,
   UserAddOutline,
   UserOutline
