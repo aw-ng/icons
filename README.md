@@ -263,6 +263,7 @@ export default Avatar;
 | <img src="./src/raw/hourglass-solid.svg" width="30" alt="hourglass-solid"> | [hourglass-solid](./src/icons/HourglassSolid.tsx) |
 | <img src="./src/raw/image-outline.svg" width="30" alt="image-outline"> | [image-outline](./src/icons/ImageOutline.tsx) |
 | <img src="./src/raw/image-solid.svg" width="30" alt="image-solid"> | [image-solid](./src/icons/ImageSolid.tsx) |
+| <img src="./src/raw/indent-outline.svg" width="30" alt="indent-outline"> | [indent-outline](./src/icons/IndentOutline.tsx) |
 | <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
 | <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |

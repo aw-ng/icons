@@ -186,6 +186,7 @@ import HomeSolid from './HomeSolid';
 import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
+import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
 import LayersOutline from './LayersOutline';
 import PenSolid from './PenSolid';
@@ -391,6 +392,7 @@ export {
   HourglassSolid,
   ImageOutline,
   ImageSolid,
+  IndentOutline,
   IndentSolid,
   LayersOutline,
   PenSolid,
