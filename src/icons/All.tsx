@@ -186,8 +186,15 @@ import HomeSolid from './HomeSolid';
 import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
+import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
+import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
+import LockOpenOutline from './LockOpenOutline';
+import LockSolid from './LockSolid';
+import MapPinOutline from './MapPinOutline';
+import MoonOutline from './MoonOutline';
+import PaperClipOutline from './PaperClipOutline';
 import PenSolid from './PenSolid';
 import PhoneOutline from './PhoneOutline';
 import PhoneSolid from './PhoneSolid';
@@ -195,13 +202,24 @@ import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
+import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ThumbsUpSolid from './ThumbsUpSolid';
+import ShieldCheckSolid from './ShieldCheckSolid';
+import ShoppingBagSolid from './ShoppingBagSolid';
+import StopSolid from './StopSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
+import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
+import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
+import UserCircleSolid from './UserCircleSolid';
+import UserOutline from './UserOutline';
+import VideoCameraOutline from './VideoCameraOutline';
+import VolumeUpOutline from './VolumeUpOutline';
 
 export {
   AddColumnAfterOutline,
@@ -392,8 +410,15 @@ export {
   HourglassSolid,
   ImageOutline,
   ImageSolid,
+  IndentOutline,
   IndentSolid,
+  LanguageOutline,
   LayersOutline,
+  LockOpenOutline,
+  LockSolid,
+  MapPinOutline,
+  MoonOutline,
+  PaperClipOutline,
   PenSolid,
   PhoneOutline,
   PhoneSolid,
@@ -401,11 +426,22 @@ export {
   PlaySolid,
   QuestionCircleOutline,
   QuestionCircleSolid,
+  ReplyOutline,
   ReplySolid,
+  SearchOutline,
   SearchSolid,
   ThumbsUpSolid,
+  ShieldCheckSolid,
+  ShoppingBagSolid,
+  StopSolid,
   TicketOutline,
   TicketSolid,
+  TruckOutline,
   TruckSolid,
-  UserAddOutline
+  UploadSolid,
+  UserAddOutline,
+  UserCircleSolid,
+  UserOutline,
+  VideoCameraOutline,
+  VolumeUpOutline
 };
