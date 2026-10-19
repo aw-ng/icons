@@ -193,6 +193,7 @@ import PhoneOutline from './PhoneOutline';
 import PhoneSolid from './PhoneSolid';
 import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
+import PrinterOutline from './PrinterOutline';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReplySolid from './ReplySolid';
@@ -398,6 +399,7 @@ export {
   PhoneSolid,
   PlayOutline,
   PlaySolid,
+  PrinterOutline,
   QuestionCircleOutline,
   QuestionCircleSolid,
   ReplySolid,
