@@ -190,6 +190,7 @@ import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
+import MapPinOutline from './MapPinOutline';
 import PenSolid from './PenSolid';
 import PhoneOutline from './PhoneOutline';
 import PhoneSolid from './PhoneSolid';
@@ -401,6 +402,7 @@ export {
   IndentSolid,
   LayersOutline,
   LockOpenOutline,
+  MapPinOutline,
   PenSolid,
   PhoneOutline,
   PhoneSolid,
