@@ -208,6 +208,7 @@ import ReplySolid from './ReplySolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ThumbsUpSolid from './ThumbsUpSolid';
+import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
@@ -433,6 +434,7 @@ export {
   SearchOutline,
   SearchSolid,
   ThumbsUpSolid,
+  ShieldCheckOutline,
   ShieldCheckSolid,
   ShoppingBagSolid,
   StopSolid,
