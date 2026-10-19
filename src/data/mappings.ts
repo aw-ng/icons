@@ -198,7 +198,7 @@ import {
   QuestionCircleSolid,
   ReplySolid,
   SearchSolid,
-  ThumbsUpsSolid,
+  ThumbsUpSolid,
   TicketOutline,
   TicketSolid,
   TruckSolid,
