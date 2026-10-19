@@ -206,6 +206,7 @@ import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
+import ThumbsUpSolid from './ThumbsUpSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagSolid from './ShoppingBagSolid';
@@ -219,6 +220,7 @@ import UserAddOutline from './UserAddOutline';
 import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
 import VideoCameraOutline from './VideoCameraOutline';
+import VolumeUpOutline from './VolumeUpOutline';
 
 export {
   AddColumnAfterOutline,
@@ -429,6 +431,7 @@ export {
   ReplySolid,
   SearchOutline,
   SearchSolid,
+  ThumbsUpSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
   ShoppingBagSolid,
@@ -441,6 +444,6 @@ export {
   UserAddOutline,
   UserCircleSolid,
   UserOutline,
-  VideoCameraOutline
-
+  VideoCameraOutline,
+  VolumeUpOutline
 };
