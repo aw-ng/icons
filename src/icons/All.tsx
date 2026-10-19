@@ -206,6 +206,7 @@ import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagSolid from './ShoppingBagSolid';
+import StopSolid from './StopSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckOutline from './TruckOutline';
@@ -424,6 +425,7 @@ export {
   SearchSolid,
   ShieldCheckSolid,
   ShoppingBagSolid,
+  StopSolid,
   TicketOutline,
   TicketSolid,
   TruckOutline,
@@ -432,4 +434,5 @@ export {
   UserAddOutline,
   UserOutline,
   VideoCameraOutline
+
 };
