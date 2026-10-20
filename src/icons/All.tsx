@@ -209,6 +209,7 @@ import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
+import ThumbsDownSolid from './ThumbsDownSolid';
 import ThumbsUpSolid from './ThumbsUpSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
@@ -439,12 +440,13 @@ export {
   ReplySolid,
   SearchOutline,
   SearchSolid,
-  ThumbsUpSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
   ShoppingBagSolid,
   StopSolid,
   TagSolid,
+  ThumbsDownSolid,
+  ThumbsUpSolid,
   TicketOutline,
   TicketSolid,
   TruckOutline,
