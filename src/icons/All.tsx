@@ -204,6 +204,7 @@ import PhoneSolid from './PhoneSolid';
 import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
 import PrinterOutline from './PrinterOutline';
+import PrinterSolid from './PrinterSolid';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReceiptSolid from './ReceiptSolid';
@@ -436,6 +437,7 @@ export {
   PhoneSolid,
   PlayOutline,
   PlaySolid,
+  PrinterSolid,
   PrinterOutline,
   QuestionCircleOutline,
   QuestionCircleSolid,
