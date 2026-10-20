@@ -293,6 +293,7 @@ export default Avatar;
 | <img src="./src/raw/shopping-bag-solid.svg" width="30" alt="shopping-bag-solid"> | [shopping-bag-solid](./src/icons/ShoppingBagSolid.tsx) |
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
 | <img src="./src/raw/tag-solid.svg" width="30" alt="tag-solid"> | [tag-solid](./src/icons/TagSolid.tsx) |
+| <img src="./src/raw/thumbs-up-outline.svg" width="30" alt="thumbs-up-outline"> | [thumbs-up-outline](./src/icons/ThumbsUpOutline.tsx) |
 | <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
 | <img src="./src/raw/truck-outline.svg" width="30" alt="truck-outline"> | [truck-outline](./src/icons/TruckOutline.tsx) |
