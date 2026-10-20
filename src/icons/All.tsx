@@ -193,6 +193,7 @@ import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
 import LockSolid from './LockSolid';
+import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
 import MoonOutline from './MoonOutline';
 import PaperClipOutline from './PaperClipOutline';
@@ -421,6 +422,7 @@ export {
   LayersOutline,
   LockOpenOutline,
   LockSolid,
+  MailBoxSolid,
   MapPinOutline,
   MoonOutline,
   PaperClipOutline,
