@@ -288,13 +288,14 @@ export default Avatar;
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
 | <img src="./src/raw/search-outline.svg" width="30" alt="search-outline"> | [search-outline](./src/icons/SearchOutline.tsx) |
 | <img src="./src/raw/search-solid.svg" width="30" alt="search-solid"> | [search-solid](./src/icons/SearchSolid.tsx) |
-| <img src="./src/raw/thumbs-up-solid.svg" width="30" alt="thumbs-up-solid"> | [thumbs-up-solid](./src/icons/ThumbsUpSolid.tsx) |
 | <img src="./src/raw/shield-check-outline.svg" width="30" alt="shield-check-outline"> | [shield-check-outline](./src/icons/ShieldCheckOutline.tsx) |
 | <img src="./src/raw/shield-check-solid.svg" width="30" alt="shield-check-solid"> | [shield-check-solid](./src/icons/ShieldCheckSolid.tsx) |
 | <img src="./src/raw/shopping-bag-outline.svg" width="30" alt="shopping-bag-outline"> | [shopping-bag-outline](./src/icons/ShoppingBagOutline.tsx) |
 | <img src="./src/raw/shopping-bag-solid.svg" width="30" alt="shopping-bag-solid"> | [shopping-bag-solid](./src/icons/ShoppingBagSolid.tsx) |
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
 | <img src="./src/raw/tag-solid.svg" width="30" alt="tag-solid"> | [tag-solid](./src/icons/TagSolid.tsx) |
+| <img src="./src/raw/thumbs-down-solid.svg" width="30" alt="thumbs-down-solid"> | [thumbs-down-solid](./src/icons/ThumbsDownSolid.tsx) |
+| <img src="./src/raw/thumbs-up-solid.svg" width="30" alt="thumbs-up-solid"> | [thumbs-up-solid](./src/icons/ThumbsUpSolid.tsx) |
 | <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
 | <img src="./src/raw/truck-outline.svg" width="30" alt="truck-outline"> | [truck-outline](./src/icons/TruckOutline.tsx) |

@@ -211,13 +211,14 @@ import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
-import ThumbsUpSolid from './ThumbsUpSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
 import TagSolid from './TagSolid';
+import ThumbsDownSolid from './ThumbsDownSolid';
+import ThumbsUpSolid from './ThumbsUpSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckOutline from './TruckOutline';
@@ -444,13 +445,14 @@ export {
   ReplySolid,
   SearchOutline,
   SearchSolid,
-  ThumbsUpSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
   StopSolid,
   TagSolid,
+  ThumbsDownSolid,
+  ThumbsUpSolid,
   TicketOutline,
   TicketSolid,
   TruckOutline,
