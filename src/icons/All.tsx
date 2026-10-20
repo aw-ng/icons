@@ -225,6 +225,7 @@ import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
 import VideoCameraOutline from './VideoCameraOutline';
 import VolumeUpOutline from './VolumeUpOutline';
+import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 
 export {
   AddColumnAfterOutline,
@@ -453,5 +454,6 @@ export {
   UserCircleSolid,
   UserOutline,
   VideoCameraOutline,
-  VolumeUpOutline
+  VolumeUpOutline,
+  WandMagicSparklesOutline
 };
