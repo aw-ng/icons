@@ -189,6 +189,7 @@ import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
+import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
@@ -203,6 +204,7 @@ import PhoneSolid from './PhoneSolid';
 import PlayOutline from './PlayOutline';
 import PlaySolid from './PlaySolid';
 import PrinterOutline from './PrinterOutline';
+import PrinterSolid from './PrinterSolid';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReceiptSolid from './ReceiptSolid';
@@ -210,13 +212,15 @@ import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
-import ThumbsUpSolid from './ThumbsUpSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
+import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
-import TagSolid from './TagSolid';
+import TagSolid from './TagSolid';   
+import ThumbsDownSolid from './ThumbsDownSolid';
 import ThumbsUpOutline from './ThumbsUpOutline';
+import ThumbsUpSolid from './ThumbsUpSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
 import TruckOutline from './TruckOutline';
@@ -421,6 +425,7 @@ export {
   ImageSolid,
   IndentOutline,
   IndentSolid,
+  KeyboardSolid,
   LanguageOutline,
   LayersOutline,
   LockOpenOutline,
@@ -434,6 +439,7 @@ export {
   PhoneSolid,
   PlayOutline,
   PlaySolid,
+  PrinterSolid,
   PrinterOutline,
   QuestionCircleOutline,
   QuestionCircleSolid,
@@ -442,13 +448,15 @@ export {
   ReplySolid,
   SearchOutline,
   SearchSolid,
-  ThumbsUpSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
+  ShoppingBagOutline,
   ShoppingBagSolid,
   StopSolid,
   TagSolid,
+  ThumbsDownSolid,
   ThumbsUpOutline,
+  ThumbsUpSolid,
   TicketOutline,
   TicketSolid,
   TruckOutline,
