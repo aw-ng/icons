@@ -272,6 +272,7 @@ export default Avatar;
 | <img src="./src/raw/lock-solid.svg" width="30" alt="lock-solid"> | [lock-solid](./src/icons/LockSolid.tsx) |
 | <img src="./src/raw/mail-box-solid.svg" width="30" alt="mail-box-solid"> | [mail-box-solid](./src/icons/MailBoxSolid.tsx) |
 | <img src="./src/raw/map-pin-outline.svg" width="30" alt="map-pin-outline"> | [map-pin-outline](./src/icons/MapPinOutline.tsx) |
+| <img src="./src/raw/microphone-solid.svg" width="30" alt="microphone-solid"> | [microphone-solid](./src/icons/MicrophoneSolid.tsx) |
 | <img src="./src/raw/moon-outline.svg" width="30" alt="moon-outline"> | [moon-outline](./src/icons/MoonOutline.tsx) |
 | <img src="./src/raw/paper-clip-outline.svg" width="30" alt="paper-clip-outline"> | [paper-clip-outline](./src/icons/PaperClipOutline.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
