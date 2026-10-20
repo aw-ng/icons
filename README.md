@@ -296,6 +296,7 @@ export default Avatar;
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
 | <img src="./src/raw/tag-solid.svg" width="30" alt="tag-solid"> | [tag-solid](./src/icons/TagSolid.tsx) |
 | <img src="./src/raw/thumbs-down-solid.svg" width="30" alt="thumbs-down-solid"> | [thumbs-down-solid](./src/icons/ThumbsDownSolid.tsx) |
+| <img src="./src/raw/thumbs-up-outline.svg" width="30" alt="thumbs-up-outline"> | [thumbs-up-outline](./src/icons/ThumbsUpOutline.tsx) |
 | <img src="./src/raw/thumbs-up-solid.svg" width="30" alt="thumbs-up-solid"> | [thumbs-up-solid](./src/icons/ThumbsUpSolid.tsx) |
 | <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |

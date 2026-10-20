@@ -217,8 +217,9 @@ import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
-import TagSolid from './TagSolid';
+import TagSolid from './TagSolid';   
 import ThumbsDownSolid from './ThumbsDownSolid';
+import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
@@ -454,6 +455,7 @@ export {
   StopSolid,
   TagSolid,
   ThumbsDownSolid,
+  ThumbsUpOutline,
   ThumbsUpSolid,
   TicketOutline,
   TicketSolid,
