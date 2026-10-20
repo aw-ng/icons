@@ -189,6 +189,7 @@ import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
+import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
@@ -421,6 +422,7 @@ export {
   ImageSolid,
   IndentOutline,
   IndentSolid,
+  KeyboardSolid,
   LanguageOutline,
   LayersOutline,
   LockOpenOutline,
