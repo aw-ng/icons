@@ -194,6 +194,7 @@ import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LockOpenOutline from './LockOpenOutline';
 import LockSolid from './LockSolid';
+import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
 import MicrophoneSolid from './MicrophoneSolid';
@@ -437,6 +438,7 @@ export {
   LayersOutline,
   LockOpenOutline,
   LockSolid,
+  MailBoxOutline,
   MailBoxSolid,
   MapPinOutline,
   MicrophoneSolid,
