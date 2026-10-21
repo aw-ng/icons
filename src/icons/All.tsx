@@ -207,6 +207,7 @@ import PrinterOutline from './PrinterOutline';
 import PrinterSolid from './PrinterSolid';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import ReceiptOutline from './ReceiptOutline';
 import ReceiptSolid from './ReceiptSolid';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
@@ -217,7 +218,7 @@ import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
-import TagSolid from './TagSolid';   
+import TagSolid from './TagSolid';
 import ThumbsDownSolid from './ThumbsDownSolid';
 import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
@@ -443,6 +444,7 @@ export {
   PrinterOutline,
   QuestionCircleOutline,
   QuestionCircleSolid,
+  ReceiptOutline,
   ReceiptSolid,
   ReplyOutline,
   ReplySolid,
