@@ -232,6 +232,7 @@ import {
   UserAddOutline,
   UserCircleSolid,
   UserOutline,
+  UsersSolid,
   VideoCameraOutline,
   VolumeUpOutline,
   WandMagicSparklesOutline
@@ -471,6 +472,7 @@ export const iconsMap: Record<string, string> = {
   'user-add-outline': UserAddOutline,
   'user-circle-solid': UserCircleSolid,
   'user-outline': UserOutline,
+  'users-solid': UsersSolid,
   'video-camera-outline': VideoCameraOutline,
   'volume-up-outline': VolumeUpOutline,
   'wand-magic-sparkles-outline': WandMagicSparklesOutline,

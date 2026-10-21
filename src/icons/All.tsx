@@ -218,7 +218,7 @@ import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
-import TagSolid from './TagSolid';   
+import TagSolid from './TagSolid';
 import ThumbsDownSolid from './ThumbsDownSolid';
 import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
@@ -231,6 +231,7 @@ import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
 import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
+import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
 import VolumeUpOutline from './VolumeUpOutline';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
@@ -469,6 +470,7 @@ export {
   UserAddOutline,
   UserCircleSolid,
   UserOutline,
+  UsersSolid,
   VideoCameraOutline,
   VolumeUpOutline,
   WandMagicSparklesOutline
