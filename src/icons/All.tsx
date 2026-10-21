@@ -228,6 +228,7 @@ import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
+import TrashBinOutline from './TrashBinOutline';
 import TrashBinSolid from './TrashBinSolid';
 import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
@@ -473,6 +474,7 @@ export {
   ThumbsUpSolid,
   TicketOutline,
   TicketSolid,
+  TrashBinOutline,
   TrashBinSolid,
   TruckOutline,
   TruckSolid,
