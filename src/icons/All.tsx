@@ -253,6 +253,7 @@ import VolumeUpOutline from './VolumeUpOutline';
 import WalletSolid from './WalletSolid';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 import YoutubeSolid from './YoutubeSolid';
+import ZoomOutSolid from './ZoomOutSolid';
 
 export {
   AddColumnAfterOutline,
@@ -509,5 +510,6 @@ export {
   VolumeUpOutline,
   WalletSolid,
   WandMagicSparklesOutline,
-  YoutubeSolid
+  YoutubeSolid,
+  ZoomOutSolid
 };

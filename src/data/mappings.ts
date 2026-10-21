@@ -253,7 +253,8 @@ import {
   VolumeUpOutline,
   WalletSolid,
   WandMagicSparklesOutline,
-  YoutubeSolid
+  YoutubeSolid,
+  ZoomOutSolid
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -512,4 +513,5 @@ export const iconsMap: Record<string, string> = {
   'wallet-solid': WalletSolid,
   'wand-magic-sparkles-outline': WandMagicSparklesOutline,
   'youtube-solid': YoutubeSolid,
+  'zoom-out-solid': ZoomOutSolid,
 };
