@@ -238,6 +238,7 @@ import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
 import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
+import VolumeDownSolid from './VolumeDownSolid';
 import VolumeUpOutline from './VolumeUpOutline';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 import YoutubeSolid from './YoutubeSolid';
@@ -484,6 +485,7 @@ export {
   UserOutline,
   UsersSolid,
   VideoCameraOutline,
+  VolumeDownSolid,
   VolumeUpOutline,
   WandMagicSparklesOutline,
   YoutubeSolid,
