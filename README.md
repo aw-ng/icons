@@ -322,5 +322,6 @@ export default Avatar;
 | <img src="./src/raw/video-camera-outline.svg" width="30" alt="video-camera-outline"> | [video-camera-outline](./src/icons/VideoCameraOutline.tsx) |
 | <img src="./src/raw/volume-down-solid.svg" width="30" alt="volume-down-solid"> | [volume-down-solid](./src/icons/VolumeDownSolid.tsx) |
 | <img src="./src/raw/volume-up-outline.svg" width="30" alt="volume-up-outline"> | [volume-up-outline](./src/icons/VolumeUpOutline.tsx) |
+| <img src="./src/raw/wallet-solid.svg" width="30" alt="wallet-solid"> | [wallet-solid](./src/icons/WalletSolid.tsx) |
 | <img src="./src/raw/wand-magic-sparkles-outline.svg" width="30" alt="wand-magic-sparkles-outline"> | [wand-magic-sparkles-outline](./src/icons/WandMagicSparklesOutline.tsx) |
 | <img src="./src/raw/youtube-solid.svg" width="30" alt="youtube-solid"> | [youtube-solid](./src/icons/YoutubeSolid.tsx) |

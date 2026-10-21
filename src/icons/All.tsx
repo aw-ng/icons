@@ -245,6 +245,7 @@ import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
 import VolumeDownSolid from './VolumeDownSolid';
 import VolumeUpOutline from './VolumeUpOutline';
+import WalletSolid from './WalletSolid';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 import YoutubeSolid from './YoutubeSolid';
 
@@ -496,6 +497,7 @@ export {
   VideoCameraOutline,
   VolumeDownSolid,
   VolumeUpOutline,
+  WalletSolid,
   WandMagicSparklesOutline,
   YoutubeSolid
 };
