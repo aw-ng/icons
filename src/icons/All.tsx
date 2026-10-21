@@ -190,6 +190,7 @@ import ImageSolid from './ImageSolid';
 import InboxOutline from './InboxOutline';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
+import KeyboardOutline from './KeyboardOutline';
 import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
@@ -440,6 +441,7 @@ export {
   InboxOutline,
   IndentOutline,
   IndentSolid,
+  KeyboardOutline,
   KeyboardSolid,
   LanguageOutline,
   LayersOutline,
