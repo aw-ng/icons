@@ -238,6 +238,7 @@ import TrashBinOutline from './TrashBinOutline';
 import TrashBinSolid from './TrashBinSolid';
 import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
+import UndoOutline from './UndoOutline';
 import UploadOutline from './UploadOutline';
 import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
@@ -492,6 +493,7 @@ export {
   TrashBinSolid,
   TruckOutline,
   TruckSolid,
+  UndoOutline,
   UploadOutline,
   UploadSolid,
   UserAddOutline,
