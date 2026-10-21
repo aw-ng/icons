@@ -210,6 +210,7 @@ import PrinterOutline from './PrinterOutline';
 import PrinterSolid from './PrinterSolid';
 import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
+import ReceiptOutline from './ReceiptOutline';
 import ReceiptSolid from './ReceiptSolid';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
@@ -455,6 +456,7 @@ export {
   PrinterOutline,
   QuestionCircleOutline,
   QuestionCircleSolid,
+  ReceiptOutline,
   ReceiptSolid,
   ReplyOutline,
   ReplySolid,
