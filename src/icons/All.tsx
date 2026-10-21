@@ -228,6 +228,7 @@ import TicketSolid from './TicketSolid';
 import TrashBinSolid from './TrashBinSolid';
 import TruckOutline from './TruckOutline';
 import TruckSolid from './TruckSolid';
+import UploadOutline from './UploadOutline';
 import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
 import UserCircleSolid from './UserCircleSolid';
@@ -469,6 +470,7 @@ export {
   TrashBinSolid,
   TruckOutline,
   TruckSolid,
+  UploadOutline,
   UploadSolid,
   UserAddOutline,
   UserCircleSolid,

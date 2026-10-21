@@ -305,6 +305,7 @@ export default Avatar;
 | <img src="./src/raw/truck-outline.svg" width="30" alt="truck-outline"> | [truck-outline](./src/icons/TruckOutline.tsx) |
 | <img src="./src/raw/trash-bin-solid.svg" width="30" alt="trash-bin-solid"> | [trash-bin-solid](./src/icons/TrashBinSolid.tsx) |
 | <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |
+| <img src="./src/raw/upload-outline.svg" width="30" alt="upload-outline"> | [upload-outline](./src/icons/UploadOutline.tsx) |
 | <img src="./src/raw/upload-solid.svg" width="30" alt="upload-solid"> | [upload-solid](./src/icons/UploadSolid.tsx) |
 | <img src="./src/raw/user-add-outline.svg" width="30" alt="user-add-outline"> | [user-add-outline](./src/icons/UserAddOutline.tsx) |
 | <img src="./src/raw/user-circle-solid.svg" width="30" alt="user-circle-solid"> | [user-circle-solid](./src/icons/UserCircleSolid.tsx) |
