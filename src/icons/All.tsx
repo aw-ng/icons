@@ -229,6 +229,7 @@ import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
+import ThumbsDownOutline from './ThumbsDownOutline';
 import ThumbsDownSolid from './ThumbsDownSolid';
 import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
@@ -484,6 +485,7 @@ export {
   StopSolid,
   TagOutline,
   TagSolid,
+  ThumbsDownOutline,
   ThumbsDownSolid,
   ThumbsUpOutline,
   ThumbsUpSolid,
