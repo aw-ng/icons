@@ -267,6 +267,7 @@ export default Avatar;
 | <img src="./src/raw/inbox-outline.svg" width="30" alt="inbox-outline"> | [inbox-outline](./src/icons/InboxOutline.tsx) |
 | <img src="./src/raw/indent-outline.svg" width="30" alt="indent-outline"> | [indent-outline](./src/icons/IndentOutline.tsx) |
 | <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
+| <img src="./src/raw/Keyboard-outline.svg" width="30" alt="Keyboard-outline"> | [Keyboard-outline](./src/icons/KeyboardOutline.tsx) |
 | <img src="./src/raw/Keyboard-solid.svg" width="30" alt="Keyboard-solid"> | [Keyboard-solid](./src/icons/KeyboardSolid.tsx) |
 | <img src="./src/raw/language-outline.svg" width="30" alt="language-outline"> | [language-outline](./src/icons/LanguageOutline.tsx) |
 | <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
