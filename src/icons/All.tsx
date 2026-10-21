@@ -235,6 +235,7 @@ import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
 import VolumeUpOutline from './VolumeUpOutline';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
+import YoutubeSolid from './YoutubeSolid';
 
 export {
   AddColumnAfterOutline,
@@ -473,5 +474,6 @@ export {
   UsersSolid,
   VideoCameraOutline,
   VolumeUpOutline,
-  WandMagicSparklesOutline
+  WandMagicSparklesOutline,
+  YoutubeSolid
 };
