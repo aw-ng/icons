@@ -210,6 +210,7 @@ import QuestionCircleSolid from './QuestionCircleSolid';
 import ReceiptSolid from './ReceiptSolid';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
+import RocketSolid from './RocketSolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
@@ -217,7 +218,7 @@ import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
-import TagSolid from './TagSolid';   
+import TagSolid from './TagSolid';
 import ThumbsDownSolid from './ThumbsDownSolid';
 import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
@@ -447,6 +448,7 @@ export {
   ReceiptSolid,
   ReplyOutline,
   ReplySolid,
+  RocketSolid,
   SearchOutline,
   SearchSolid,
   ShieldCheckOutline,
