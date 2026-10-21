@@ -222,6 +222,7 @@ import RocketOutline from './RocketOutline';
 import RocketSolid from './RocketSolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
+import ServerOutline from './ServerOutline';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
@@ -476,6 +477,7 @@ export {
   RocketSolid,
   SearchOutline,
   SearchSolid,
+  ServerOutline,
   ShieldCheckOutline,
   ShieldCheckSolid,
   ShoppingBagOutline,
