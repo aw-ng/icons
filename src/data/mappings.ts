@@ -236,6 +236,7 @@ import {
   UserOutline,
   UsersSolid,
   VideoCameraOutline,
+  VolumeDownSolid,
   VolumeUpOutline,
   WandMagicSparklesOutline,
   YoutubeSolid
@@ -479,6 +480,7 @@ export const iconsMap: Record<string, string> = {
   'user-outline': UserOutline,
   'users-solid': UsersSolid,
   'video-camera-outline': VideoCameraOutline,
+  'volume-down-solid': VolumeDownSolid,
   'volume-up-outline': VolumeUpOutline,
   'wand-magic-sparkles-outline': WandMagicSparklesOutline,
   'youtube-solid': YoutubeSolid,
