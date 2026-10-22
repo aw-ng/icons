@@ -233,6 +233,7 @@ import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
 import SunOutline from './SunOutline';
+import SunSolid from './SunSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
 import TerminalSolid from './TerminalSolid';
@@ -503,6 +504,7 @@ export {
   ShoppingBagSolid,
   StopSolid,
   SunOutline,
+  SunSolid,
   TagOutline,
   TagSolid,
   TerminalSolid,
