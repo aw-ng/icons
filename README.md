@@ -334,6 +334,7 @@ export default Avatar;
 | <img src="./src/raw/users-solid.svg" width="30" alt="users-solid"> | [users-solid](./src/icons/UsersSolid.tsx) |
 | <img src="./src/raw/video-camera-outline.svg" width="30" alt="video-camera-outline"> | [video-camera-outline](./src/icons/VideoCameraOutline.tsx) |
 | <img src="./src/raw/video-camera-solid.svg" width="30" alt="video-camera-solid"> | [video-camera-solid](./src/icons/VideoCameraSolid.tsx) |
+| <img src="./src/raw/volume-down-outline.svg" width="30" alt="volume-down-outline"> | [volume-down-outline](./src/icons/VolumeDownOutline.tsx) |
 | <img src="./src/raw/volume-down-solid.svg" width="30" alt="volume-down-solid"> | [volume-down-solid](./src/icons/VolumeDownSolid.tsx) |
 | <img src="./src/raw/volume-up-outline.svg" width="30" alt="volume-up-outline"> | [volume-up-outline](./src/icons/VolumeUpOutline.tsx) |
 | <img src="./src/raw/wallet-outline.svg" width="30" alt="wallet-outline"> | [wallet-outline](./src/icons/WalletOutline.tsx) |
