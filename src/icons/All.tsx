@@ -188,6 +188,7 @@ import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import InboxOutline from './InboxOutline';
+import InboxSolid from './InboxSolid';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
 import KeyboardOutline from './KeyboardOutline';
@@ -451,6 +452,7 @@ export {
   ImageOutline,
   ImageSolid,
   InboxOutline,
+  InboxSolid,
   IndentOutline,
   IndentSolid,
   KeyboardOutline,
