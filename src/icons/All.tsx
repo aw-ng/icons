@@ -246,6 +246,7 @@ import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
 import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
+import UsersOutline from './UsersOutline';
 import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
 import VolumeDownSolid from './VolumeDownSolid';
@@ -507,6 +508,7 @@ export {
   UserAddOutline,
   UserCircleSolid,
   UserOutline,
+  UsersOutline,
   UsersSolid,
   VideoCameraOutline,
   VolumeDownSolid,
