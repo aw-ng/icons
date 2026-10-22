@@ -223,6 +223,7 @@ import {
   RocketSolid,
   SearchOutline,
   SearchSolid,
+  ServerOutline,
   ShieldCheckOutline,
   ShieldCheckSolid,
   ShoppingBagOutline,
@@ -253,7 +254,8 @@ import {
   WalletSolid,
   WandMagicSparklesOutline,
   WindowSolid,
-  YoutubeSolid
+  YoutubeSolid,
+  ZoomOutSolid
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -481,6 +483,7 @@ export const iconsMap: Record<string, string> = {
   'rocket-solid': RocketSolid,
   'search-outline': SearchOutline,
   'search-solid': SearchSolid,
+  'server-outline': ServerOutline,
   'shield-check-outline': ShieldCheckOutline,
   'shield-check-solid': ShieldCheckSolid,
   'shopping-bag-outline': ShoppingBagOutline,
@@ -512,4 +515,5 @@ export const iconsMap: Record<string, string> = {
   'wand-magic-sparkles-outline': WandMagicSparklesOutline,
   'window-solid': WindowSolid,
   'youtube-solid': YoutubeSolid,
+  'zoom-out-solid': ZoomOutSolid,
 };

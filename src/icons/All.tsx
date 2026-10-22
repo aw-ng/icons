@@ -222,6 +222,7 @@ import RocketOutline from './RocketOutline';
 import RocketSolid from './RocketSolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
+import ServerOutline from './ServerOutline';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
@@ -253,6 +254,7 @@ import WalletSolid from './WalletSolid';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 import WindowSolid from './WindowSolid';
 import YoutubeSolid from './YoutubeSolid';
+import ZoomOutSolid from './ZoomOutSolid';
 
 export {
   AddColumnAfterOutline,
@@ -479,6 +481,7 @@ export {
   RocketSolid,
   SearchOutline,
   SearchSolid,
+  ServerOutline,
   ShieldCheckOutline,
   ShieldCheckSolid,
   ShoppingBagOutline,
@@ -509,5 +512,6 @@ export {
   WalletSolid,
   WandMagicSparklesOutline,
   WindowSolid,
-  YoutubeSolid
+  YoutubeSolid,
+  ZoomOutSolid
 };

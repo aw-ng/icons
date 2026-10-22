@@ -299,6 +299,7 @@ export default Avatar;
 | <img src="./src/raw/rocket-solid.svg" width="30" alt="rocket-solid"> | [rocket-solid](./src/icons/RocketSolid.tsx) |
 | <img src="./src/raw/search-outline.svg" width="30" alt="search-outline"> | [search-outline](./src/icons/SearchOutline.tsx) |
 | <img src="./src/raw/search-solid.svg" width="30" alt="search-solid"> | [search-solid](./src/icons/SearchSolid.tsx) |
+| <img src="./src/raw/server-outline.svg" width="30" alt="server-outline"> | [server-outline](./src/icons/ServerOutline.tsx) |
 | <img src="./src/raw/shield-check-outline.svg" width="30" alt="shield-check-outline"> | [shield-check-outline](./src/icons/ShieldCheckOutline.tsx) |
 | <img src="./src/raw/shield-check-solid.svg" width="30" alt="shield-check-solid"> | [shield-check-solid](./src/icons/ShieldCheckSolid.tsx) |
 | <img src="./src/raw/shopping-bag-outline.svg" width="30" alt="shopping-bag-outline"> | [shopping-bag-outline](./src/icons/ShoppingBagOutline.tsx) |
@@ -312,9 +313,9 @@ export default Avatar;
 | <img src="./src/raw/thumbs-up-solid.svg" width="30" alt="thumbs-up-solid"> | [thumbs-up-solid](./src/icons/ThumbsUpSolid.tsx) |
 | <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
-| <img src="./src/raw/truck-outline.svg" width="30" alt="truck-outline"> | [truck-outline](./src/icons/TruckOutline.tsx) |
 | <img src="./src/raw/trash-bin-outline.svg" width="30" alt="trash-bin-outline"> | [trash-bin-outline](./src/icons/TrashBinOutline.tsx) |
 | <img src="./src/raw/trash-bin-solid.svg" width="30" alt="trash-bin-solid"> | [trash-bin-solid](./src/icons/TrashBinSolid.tsx) |
+| <img src="./src/raw/truck-outline.svg" width="30" alt="truck-outline"> | [truck-outline](./src/icons/TruckOutline.tsx) |
 | <img src="./src/raw/truck-solid.svg" width="30" alt="truck-solid"> | [truck-solid](./src/icons/TruckSolid.tsx) |
 | <img src="./src/raw/undo-outline.svg" width="30" alt="undo-outline"> | [undo-outline](./src/icons/UndoOutline.tsx) |
 | <img src="./src/raw/upload-outline.svg" width="30" alt="upload-outline"> | [upload-outline](./src/icons/UploadOutline.tsx) |
@@ -330,3 +331,4 @@ export default Avatar;
 | <img src="./src/raw/wand-magic-sparkles-outline.svg" width="30" alt="wand-magic-sparkles-outline"> | [wand-magic-sparkles-outline](./src/icons/WandMagicSparklesOutline.tsx) |
 | <img src="./src/raw/window-solid.svg" width="30" alt="window-solid"> | [window-solid](./src/icons/WindowSolid.tsx) |
 | <img src="./src/raw/youtube-solid.svg" width="30" alt="youtube-solid"> | [youtube-solid](./src/icons/YoutubeSolid.tsx) |
+| <img src="./src/raw/zoom-out-solid.svg" width="30" alt="zoom-out-solid"> | [zoom-out-solid](./src/icons/ZoomOutSolid.tsx) |
