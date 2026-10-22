@@ -332,4 +332,5 @@ export default Avatar;
 | <img src="./src/raw/window-outline.svg" width="30" alt="window-outline"> | [window-outline](./src/icons/WindowOutline.tsx) |
 | <img src="./src/raw/window-solid.svg" width="30" alt="window-solid"> | [window-solid](./src/icons/WindowSolid.tsx) |
 | <img src="./src/raw/youtube-solid.svg" width="30" alt="youtube-solid"> | [youtube-solid](./src/icons/YoutubeSolid.tsx) |
+| <img src="./src/raw/zoom-out-outline.svg" width="30" alt="zoom-out-outline"> | [zoom-out-outline](./src/icons/ZoomOutOutline.tsx) |
 | <img src="./src/raw/zoom-out-solid.svg" width="30" alt="zoom-out-solid"> | [zoom-out-solid](./src/icons/ZoomOutSolid.tsx) |

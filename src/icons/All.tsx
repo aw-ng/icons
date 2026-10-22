@@ -255,6 +255,7 @@ import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 import WindowOutline from './WindowOutline';
 import WindowSolid from './WindowSolid';
 import YoutubeSolid from './YoutubeSolid';
+import ZoomOutOutline from './ZoomOutOutline';
 import ZoomOutSolid from './ZoomOutSolid';
 
 export {
@@ -515,5 +516,6 @@ export {
   WindowOutline,
   WindowSolid,
   YoutubeSolid,
+  ZoomOutOutline,
   ZoomOutSolid
 };
