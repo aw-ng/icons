@@ -253,6 +253,7 @@ import VideoCameraOutline from './VideoCameraOutline';
 import VideoCameraSolid from './VideoCameraSolid';
 import VolumeDownSolid from './VolumeDownSolid';
 import VolumeUpOutline from './VolumeUpOutline';
+import WalletOutline from './WalletOutline';
 import WalletSolid from './WalletSolid';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 import WindowOutline from './WindowOutline';
@@ -517,6 +518,7 @@ export {
   VideoCameraSolid,
   VolumeDownSolid,
   VolumeUpOutline,
+  WalletOutline,
   WalletSolid,
   WandMagicSparklesOutline,
   WindowOutline,
