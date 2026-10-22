@@ -252,6 +252,7 @@ import UndoOutline from './UndoOutline';
 import UploadOutline from './UploadOutline';
 import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
+import UserAddSolid from './UserAddSolid';
 import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
 import UsersOutline from './UsersOutline';
@@ -526,6 +527,7 @@ export {
   UploadOutline,
   UploadSolid,
   UserAddOutline,
+  UserAddSolid,
   UserCircleSolid,
   UserOutline,
   UsersOutline,

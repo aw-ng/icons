@@ -329,6 +329,7 @@ export default Avatar;
 | <img src="./src/raw/upload-outline.svg" width="30" alt="upload-outline"> | [upload-outline](./src/icons/UploadOutline.tsx) |
 | <img src="./src/raw/upload-solid.svg" width="30" alt="upload-solid"> | [upload-solid](./src/icons/UploadSolid.tsx) |
 | <img src="./src/raw/user-add-outline.svg" width="30" alt="user-add-outline"> | [user-add-outline](./src/icons/UserAddOutline.tsx) |
+| <img src="./src/raw/user-add-solid.svg" width="30" alt="user-add-solid"> | [user-add-solid](./src/icons/UserAddSolid.tsx) |
 | <img src="./src/raw/user-circle-solid.svg" width="30" alt="user-circle-solid"> | [user-circle-solid](./src/icons/UserCircleSolid.tsx) |
 | <img src="./src/raw/user-outline.svg" width="30" alt="user-outline"> | [user-outline](./src/icons/UserOutline.tsx) |
 | <img src="./src/raw/users-outline.svg" width="30" alt="users-outline"> | [users-outline](./src/icons/UsersOutline.tsx) |
