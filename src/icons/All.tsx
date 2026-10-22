@@ -250,6 +250,7 @@ import UserOutline from './UserOutline';
 import UsersOutline from './UsersOutline';
 import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
+import VideoCameraSolid from './VideoCameraSolid';
 import VolumeDownSolid from './VolumeDownSolid';
 import VolumeUpOutline from './VolumeUpOutline';
 import WalletSolid from './WalletSolid';
@@ -513,6 +514,7 @@ export {
   UsersOutline,
   UsersSolid,
   VideoCameraOutline,
+  VideoCameraSolid,
   VolumeDownSolid,
   VolumeUpOutline,
   WalletSolid,
