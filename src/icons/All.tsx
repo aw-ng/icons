@@ -231,6 +231,7 @@ import ServerOutline from './ServerOutline';
 import ServerSolid from './ServerSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
+import ShieldSolid from './ShieldSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
@@ -507,6 +508,7 @@ export {
   ServerSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
+  ShieldSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
   StopSolid,
