@@ -234,6 +234,7 @@ import ShieldCheckSolid from './ShieldCheckSolid';
 import ShieldSolid from './ShieldSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
+import StarSolid from './StarSolid';
 import StopSolid from './StopSolid';
 import SunOutline from './SunOutline';
 import SunSolid from './SunSolid';
@@ -512,6 +513,7 @@ export {
   ShieldSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
+  StarSolid,
   StopSolid,
   SunOutline,
   SunSolid,
