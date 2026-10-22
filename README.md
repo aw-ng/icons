@@ -283,6 +283,7 @@ export default Avatar;
 | <img src="./src/raw/moon-outline.svg" width="30" alt="moon-outline"> | [moon-outline](./src/icons/MoonOutline.tsx) |
 | <img src="./src/raw/newspaper-solid.svg" width="30" alt="newspaper-solid"> | [newspaper-solid](./src/icons/NewspaperSolid.tsx) |
 | <img src="./src/raw/paper-clip-outline.svg" width="30" alt="paper-clip-outline"> | [paper-clip-outline](./src/icons/PaperClipOutline.tsx) |
+| <img src="./src/raw/pause-solid.svg" width="30" alt="pause-solid"> | [pause-solid](./src/icons/PauseSolid.tsx) |
 | <img src="./src/raw/pen-outline.svg" width="30" alt="pen-outline"> | [pen-outline](./src/icons/PenOutline.tsx) |
 | <img src="./src/raw/pen-solid.svg" width="30" alt="pen-solid"> | [pen-solid](./src/icons/PenSolid.tsx) |
 | <img src="./src/raw/phone-outline.svg" width="30" alt="phone-outline"> | [phone-outline](./src/icons/PhoneOutline.tsx) |
