@@ -206,6 +206,7 @@ import MicrophoneSolid from './MicrophoneSolid';
 import MoonOutline from './MoonOutline';
 import NewspaperSolid from './NewspaperSolid';
 import PaperClipOutline from './PaperClipOutline';
+import PauseOutline from './PauseOutline';
 import PauseSolid from './PauseSolid';
 import PenOutline from './PenOutline';
 import PenSolid from './PenSolid';
@@ -477,6 +478,7 @@ export {
   MoonOutline,
   NewspaperSolid,
   PaperClipOutline,
+  PauseOutline,
   PauseSolid,
   PenOutline,
   PenSolid,
