@@ -232,6 +232,7 @@ import ShieldCheckSolid from './ShieldCheckSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
 import StopSolid from './StopSolid';
+import SunOutline from './SunOutline';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
 import TerminalSolid from './TerminalSolid';
@@ -501,6 +502,7 @@ export {
   ShoppingBagOutline,
   ShoppingBagSolid,
   StopSolid,
+  SunOutline,
   TagOutline,
   TagSolid,
   TerminalSolid,
