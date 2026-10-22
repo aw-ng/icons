@@ -254,6 +254,7 @@ import WalletSolid from './WalletSolid';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
 import WindowSolid from './WindowSolid';
 import YoutubeSolid from './YoutubeSolid';
+import ZoomOutOutline from './ZoomOutOutline';
 import ZoomOutSolid from './ZoomOutSolid';
 
 export {
@@ -513,5 +514,6 @@ export {
   WandMagicSparklesOutline,
   WindowSolid,
   YoutubeSolid,
+  ZoomOutOutline,
   ZoomOutSolid
 };

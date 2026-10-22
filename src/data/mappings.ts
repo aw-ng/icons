@@ -255,6 +255,7 @@ import {
   WandMagicSparklesOutline,
   WindowSolid,
   YoutubeSolid,
+  ZoomOutOutline,
   ZoomOutSolid
 } from '../icons/All';
 
@@ -515,5 +516,6 @@ export const iconsMap: Record<string, string> = {
   'wand-magic-sparkles-outline': WandMagicSparklesOutline,
   'window-solid': WindowSolid,
   'youtube-solid': YoutubeSolid,
+  'zoom-out-outline': ZoomOutOutline,
   'zoom-out-solid': ZoomOutSolid,
 };
