@@ -338,6 +338,7 @@ export default Avatar;
 | <img src="./src/raw/volume-down-outline.svg" width="30" alt="volume-down-outline"> | [volume-down-outline](./src/icons/VolumeDownOutline.tsx) |
 | <img src="./src/raw/volume-down-solid.svg" width="30" alt="volume-down-solid"> | [volume-down-solid](./src/icons/VolumeDownSolid.tsx) |
 | <img src="./src/raw/volume-up-outline.svg" width="30" alt="volume-up-outline"> | [volume-up-outline](./src/icons/VolumeUpOutline.tsx) |
+| <img src="./src/raw/volume-up-solid.svg" width="30" alt="volume-up-solid"> | [volume-up-solid](./src/icons/VolumeUpSolid.tsx) |
 | <img src="./src/raw/wallet-outline.svg" width="30" alt="wallet-outline"> | [wallet-outline](./src/icons/WalletOutline.tsx) |
 | <img src="./src/raw/wallet-solid.svg" width="30" alt="wallet-solid"> | [wallet-solid](./src/icons/WalletSolid.tsx) |
 | <img src="./src/raw/wand-magic-sparkles-outline.svg" width="30" alt="wand-magic-sparkles-outline"> | [wand-magic-sparkles-outline](./src/icons/WandMagicSparklesOutline.tsx) |
