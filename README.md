@@ -305,6 +305,7 @@ export default Avatar;
 | <img src="./src/raw/shopping-bag-outline.svg" width="30" alt="shopping-bag-outline"> | [shopping-bag-outline](./src/icons/ShoppingBagOutline.tsx) |
 | <img src="./src/raw/shopping-bag-solid.svg" width="30" alt="shopping-bag-solid"> | [shopping-bag-solid](./src/icons/ShoppingBagSolid.tsx) |
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
+| <img src="./src/raw/sun-outline.svg" width="30" alt="sun-outline"> | [sun-outline](./src/icons/SunOutline.tsx) |
 | <img src="./src/raw/tag-outline.svg" width="30" alt="tag-outline"> | [tag-outline](./src/icons/TagOutline.tsx) |
 | <img src="./src/raw/tag-solid.svg" width="30" alt="tag-solid"> | [tag-solid](./src/icons/TagSolid.tsx) |
 | <img src="./src/raw/terminal-solid.svg" width="30" alt="terminal-solid"> | [terminal-solid](./src/icons/TerminalSolid.tsx) |
