@@ -273,6 +273,7 @@ export default Avatar;
 | <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
 | <img src="./src/raw/layers-solid.svg" width="30" alt="layers-solid"> | [layers-solid](./src/icons/LayersSolid.tsx) |
 | <img src="./src/raw/lock-open-outline.svg" width="30" alt="lock-open-outline"> | [lock-open-outline](./src/icons/LockOpenOutline.tsx) |
+| <img src="./src/raw/lock-open-solid.svg" width="30" alt="lock-open-solid"> | [lock-open-solid](./src/icons/LockOpenSolid.tsx) |
 | <img src="./src/raw/lock-solid.svg" width="30" alt="lock-solid"> | [lock-solid](./src/icons/LockSolid.tsx) |
 | <img src="./src/raw/mail-box-outline.svg" width="30" alt="mail-box-outline"> | [mail-box-outline](./src/icons/MailBoxOutline.tsx) |
 | <img src="./src/raw/mail-box-solid.svg" width="30" alt="mail-box-solid"> | [mail-box-solid](./src/icons/MailBoxSolid.tsx) |
