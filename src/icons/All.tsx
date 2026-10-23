@@ -197,6 +197,7 @@ import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
 import LockOpenOutline from './LockOpenOutline';
+import LockOpenSolid from './LockOpenSolid';
 import LockOutline from './LockOutline';
 import LockSolid from './LockSolid';
 import MailBoxOutline from './MailBoxOutline';
@@ -477,6 +478,7 @@ export {
   LayersOutline,
   LayersSolid,
   LockOpenOutline,
+  LockOpenSolid,
   LockOutline,
   LockSolid,
   MailBoxOutline,
