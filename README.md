@@ -347,6 +347,7 @@ export default Avatar;
 | <img src="./src/raw/wallet-outline.svg" width="30" alt="wallet-outline"> | [wallet-outline](./src/icons/WalletOutline.tsx) |
 | <img src="./src/raw/wallet-solid.svg" width="30" alt="wallet-solid"> | [wallet-solid](./src/icons/WalletSolid.tsx) |
 | <img src="./src/raw/wand-magic-sparkles-outline.svg" width="30" alt="wand-magic-sparkles-outline"> | [wand-magic-sparkles-outline](./src/icons/WandMagicSparklesOutline.tsx) |
+| <img src="./src/raw/wand-magic-sparkles-solid.svg" width="30" alt="wand-magic-sparkles-solid"> | [wand-magic-sparkles-solid](./src/icons/WandMagicSparklesSolid.tsx) |
 | <img src="./src/raw/window-outline.svg" width="30" alt="window-outline"> | [window-outline](./src/icons/WindowOutline.tsx) |
 | <img src="./src/raw/window-solid.svg" width="30" alt="window-solid"> | [window-solid](./src/icons/WindowSolid.tsx) |
 | <img src="./src/raw/youtube-solid.svg" width="30" alt="youtube-solid"> | [youtube-solid](./src/icons/YoutubeSolid.tsx) |

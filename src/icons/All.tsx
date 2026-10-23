@@ -270,6 +270,7 @@ import VolumeUpSolid from './VolumeUpSolid';
 import WalletOutline from './WalletOutline';
 import WalletSolid from './WalletSolid';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
+import WandMagicSparklesSolid from './WandMagicSparklesSolid';
 import WindowOutline from './WindowOutline';
 import WindowSolid from './WindowSolid';
 import YoutubeSolid from './YoutubeSolid';
@@ -549,6 +550,7 @@ export {
   WalletOutline,
   WalletSolid,
   WandMagicSparklesOutline,
+  WandMagicSparklesSolid,
   WindowOutline,
   WindowSolid,
   YoutubeSolid,
