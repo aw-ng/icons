@@ -203,6 +203,7 @@ import LockSolid from './LockSolid';
 import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
+import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
 import MoonOutline from './MoonOutline';
 import NewspaperOutline from './NewspaperOutline';
@@ -484,6 +485,7 @@ export {
   MailBoxOutline,
   MailBoxSolid,
   MapPinOutline,
+  MicrophoneOutline,
   MicrophoneSolid,
   MoonOutline,
   NewspaperOutline,
