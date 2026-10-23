@@ -188,6 +188,7 @@ import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
 import InboxOutline from './InboxOutline';
+import InboxSolid from './InboxSolid';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
 import KeyboardOutline from './KeyboardOutline';
@@ -197,14 +198,18 @@ import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
 import LockOpenOutline from './LockOpenOutline';
 import LockOpenSolid from './LockOpenSolid';
+import LockOutline from './LockOutline';
 import LockSolid from './LockSolid';
 import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
 import MicrophoneSolid from './MicrophoneSolid';
 import MoonOutline from './MoonOutline';
+import NewspaperOutline from './NewspaperOutline';
 import NewspaperSolid from './NewspaperSolid';
 import PaperClipOutline from './PaperClipOutline';
+import PauseOutline from './PauseOutline';
+import PauseSolid from './PauseSolid';
 import PenOutline from './PenOutline';
 import PenSolid from './PenSolid';
 import PhoneOutline from './PhoneOutline';
@@ -224,13 +229,20 @@ import RocketSolid from './RocketSolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ServerOutline from './ServerOutline';
+import ServerSolid from './ServerSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
+import ShieldSolid from './ShieldSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
+import StarSolid from './StarSolid';
 import StopSolid from './StopSolid';
+import SunOutline from './SunOutline';
+import SunSolid from './SunSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
+import TerminalOutline from './TerminalOutline';
+import TerminalSolid from './TerminalSolid';
 import ThumbsDownOutline from './ThumbsDownOutline';
 import ThumbsDownSolid from './ThumbsDownSolid';
 import ThumbsUpOutline from './ThumbsUpOutline';
@@ -245,15 +257,26 @@ import UndoOutline from './UndoOutline';
 import UploadOutline from './UploadOutline';
 import UploadSolid from './UploadSolid';
 import UserAddOutline from './UserAddOutline';
+import UserAddSolid from './UserAddSolid';
 import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
+import UsersOutline from './UsersOutline';
 import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
+import VideoCameraSolid from './VideoCameraSolid';
+import VolumeDownOutline from './VolumeDownOutline';
 import VolumeDownSolid from './VolumeDownSolid';
 import VolumeUpOutline from './VolumeUpOutline';
+import VolumeUpSolid from './VolumeUpSolid';
+import WalletOutline from './WalletOutline';
 import WalletSolid from './WalletSolid';
 import WandMagicSparklesOutline from './WandMagicSparklesOutline';
+import WandMagicSparklesSolid from './WandMagicSparklesSolid';
+import WindowOutline from './WindowOutline';
+import WindowSolid from './WindowSolid';
 import YoutubeSolid from './YoutubeSolid';
+import ZoomOutOutline from './ZoomOutOutline';
+import ZoomOutSolid from './ZoomOutSolid';
 
 export {
   AddColumnAfterOutline,
@@ -446,6 +469,7 @@ export {
   ImageOutline,
   ImageSolid,
   InboxOutline,
+  InboxSolid,
   IndentOutline,
   IndentSolid,
   KeyboardOutline,
@@ -455,14 +479,18 @@ export {
   LayersSolid,
   LockOpenOutline,
   LockOpenSolid,
+  LockOutline,
   LockSolid,
   MailBoxOutline,
   MailBoxSolid,
   MapPinOutline,
   MicrophoneSolid,
   MoonOutline,
+  NewspaperOutline,
   NewspaperSolid,
   PaperClipOutline,
+  PauseOutline,
+  PauseSolid,
   PenOutline,
   PenSolid,
   PhoneOutline,
@@ -482,13 +510,20 @@ export {
   SearchOutline,
   SearchSolid,
   ServerOutline,
+  ServerSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
+  ShieldSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
+  StarSolid,
   StopSolid,
+  SunOutline,
+  SunSolid,
   TagOutline,
   TagSolid,
+  TerminalOutline,
+  TerminalSolid,
   ThumbsDownOutline,
   ThumbsDownSolid,
   ThumbsUpOutline,
@@ -503,13 +538,24 @@ export {
   UploadOutline,
   UploadSolid,
   UserAddOutline,
+  UserAddSolid,
   UserCircleSolid,
   UserOutline,
+  UsersOutline,
   UsersSolid,
   VideoCameraOutline,
+  VideoCameraSolid,
+  VolumeDownOutline,
   VolumeDownSolid,
   VolumeUpOutline,
+  VolumeUpSolid,
+  WalletOutline,
   WalletSolid,
   WandMagicSparklesOutline,
-  YoutubeSolid
+  WandMagicSparklesSolid,
+  WindowOutline,
+  WindowSolid,
+  YoutubeSolid,
+  ZoomOutOutline,
+  ZoomOutSolid
 };
