@@ -315,6 +315,7 @@ export default Avatar;
 | <img src="./src/raw/sun-solid.svg" width="30" alt="sun-solid"> | [sun-solid](./src/icons/SunSolid.tsx) |
 | <img src="./src/raw/tag-outline.svg" width="30" alt="tag-outline"> | [tag-outline](./src/icons/TagOutline.tsx) |
 | <img src="./src/raw/tag-solid.svg" width="30" alt="tag-solid"> | [tag-solid](./src/icons/TagSolid.tsx) |
+| <img src="./src/raw/terminal-outline.svg" width="30" alt="terminal-outline"> | [terminal-outline](./src/icons/TerminalOutline.tsx) |
 | <img src="./src/raw/terminal-solid.svg" width="30" alt="terminal-solid"> | [terminal-solid](./src/icons/TerminalSolid.tsx) |
 | <img src="./src/raw/thumbs-down-outline.svg" width="30" alt="thumbs-down-outline"> | [thumbs-down-outline](./src/icons/ThumbsDownOutline.tsx) |
 | <img src="./src/raw/thumbs-down-solid.svg" width="30" alt="thumbs-down-solid"> | [thumbs-down-solid](./src/icons/ThumbsDownSolid.tsx) |

@@ -238,6 +238,7 @@ import SunOutline from './SunOutline';
 import SunSolid from './SunSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
+import TerminalOutline from './TerminalOutline';
 import TerminalSolid from './TerminalSolid';
 import ThumbsDownOutline from './ThumbsDownOutline';
 import ThumbsDownSolid from './ThumbsDownSolid';
@@ -514,6 +515,7 @@ export {
   SunSolid,
   TagOutline,
   TagSolid,
+  TerminalOutline,
   TerminalSolid,
   ThumbsDownOutline,
   ThumbsDownSolid,
