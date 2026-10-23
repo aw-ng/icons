@@ -337,6 +337,7 @@ export default Avatar;
 | <img src="./src/raw/user-add-solid.svg" width="30" alt="user-add-solid"> | [user-add-solid](./src/icons/UserAddSolid.tsx) |
 | <img src="./src/raw/user-circle-solid.svg" width="30" alt="user-circle-solid"> | [user-circle-solid](./src/icons/UserCircleSolid.tsx) |
 | <img src="./src/raw/user-outline.svg" width="30" alt="user-outline"> | [user-outline](./src/icons/UserOutline.tsx) |
+| <img src="./src/raw/user-solid.svg" width="30" alt="user-solid"> | [user-solid](./src/icons/UserSolid.tsx) |
 | <img src="./src/raw/users-outline.svg" width="30" alt="users-outline"> | [users-outline](./src/icons/UsersOutline.tsx) |
 | <img src="./src/raw/users-solid.svg" width="30" alt="users-solid"> | [users-solid](./src/icons/UsersSolid.tsx) |
 | <img src="./src/raw/video-camera-outline.svg" width="30" alt="video-camera-outline"> | [video-camera-outline](./src/icons/VideoCameraOutline.tsx) |

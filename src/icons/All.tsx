@@ -260,6 +260,7 @@ import UserAddOutline from './UserAddOutline';
 import UserAddSolid from './UserAddSolid';
 import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
+import UserSolid from './UserSolid';
 import UsersOutline from './UsersOutline';
 import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
@@ -541,6 +542,7 @@ export {
   UserAddSolid,
   UserCircleSolid,
   UserOutline,
+  UserSolid,
   UsersOutline,
   UsersSolid,
   VideoCameraOutline,
