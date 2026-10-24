@@ -310,6 +310,7 @@ export default Avatar;
 | <img src="./src/raw/server-solid.svg" width="30" alt="server-solid"> | [server-solid](./src/icons/ServerSolid.tsx) |
 | <img src="./src/raw/shield-check-outline.svg" width="30" alt="shield-check-outline"> | [shield-check-outline](./src/icons/ShieldCheckOutline.tsx) |
 | <img src="./src/raw/shield-check-solid.svg" width="30" alt="shield-check-solid"> | [shield-check-solid](./src/icons/ShieldCheckSolid.tsx) |
+| <img src="./src/raw/shield-outline.svg" width="30" alt="shield-outline"> | [shield-outline](./src/icons/ShieldOutline.tsx) |
 | <img src="./src/raw/shield-solid.svg" width="30" alt="shield-solid"> | [shield-solid](./src/icons/ShieldSolid.tsx) |
 | <img src="./src/raw/shopping-bag-outline.svg" width="30" alt="shopping-bag-outline"> | [shopping-bag-outline](./src/icons/ShoppingBagOutline.tsx) |
 | <img src="./src/raw/shopping-bag-solid.svg" width="30" alt="shopping-bag-solid"> | [shopping-bag-solid](./src/icons/ShoppingBagSolid.tsx) |
