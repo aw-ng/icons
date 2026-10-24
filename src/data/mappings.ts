@@ -279,6 +279,7 @@ import {
   WindowOutline,
   WindowSolid,
   YoutubeSolid,
+  ZoomInOutline,
   ZoomOutOutline,
   ZoomOutSolid
 } from '../icons/All';
@@ -564,6 +565,7 @@ export const iconsMap: Record<string, string> = {
   'window-outline': WindowOutline,
   'window-solid': WindowSolid,
   'youtube-solid': YoutubeSolid,
+  'zoom-in-outline': ZoomInOutline,
   'zoom-out-outline': ZoomOutOutline,
   'zoom-out-solid': ZoomOutSolid,
 };
