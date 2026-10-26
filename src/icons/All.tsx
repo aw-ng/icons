@@ -233,6 +233,7 @@ import ServerOutline from './ServerOutline';
 import ServerSolid from './ServerSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
+import ShieldOutline from './ShieldOutline';
 import ShieldSolid from './ShieldSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
@@ -279,6 +280,7 @@ import WindowOutline from './WindowOutline';
 import WindowSolid from './WindowSolid';
 import YoutubeSolid from './YoutubeSolid';
 import ZoomInSolid from './ZoomInSolid';
+import ZoomInOutline from './ZoomInOutline';
 import ZoomOutOutline from './ZoomOutOutline';
 import ZoomOutSolid from './ZoomOutSolid';
 
@@ -518,6 +520,7 @@ export {
   ServerSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
+  ShieldOutline,
   ShieldSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
@@ -564,6 +567,7 @@ export {
   WindowSolid,
   YoutubeSolid,
   ZoomInSolid,
+  ZoomInOutline,
   ZoomOutOutline,
   ZoomOutSolid
 };

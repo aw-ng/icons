@@ -234,6 +234,7 @@ import {
   ServerSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
+  ShieldOutline,
   ShieldSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
@@ -280,6 +281,7 @@ import {
   WindowSolid,
   YoutubeSolid,
   ZoomInSolid,
+  ZoomInOutline,
   ZoomOutOutline,
   ZoomOutSolid
 } from '../icons/All';
@@ -520,6 +522,7 @@ export const iconsMap: Record<string, string> = {
   'server-solid': ServerSolid,
   'shield-check-outline': ShieldCheckOutline,
   'shield-check-solid': ShieldCheckSolid,
+  'shield-outline': ShieldOutline,
   'shield-solid': ShieldSolid,
   'shopping-bag-outline': ShoppingBagOutline,
   'shopping-bag-solid': ShoppingBagSolid,
@@ -566,6 +569,7 @@ export const iconsMap: Record<string, string> = {
   'window-solid': WindowSolid,
   'youtube-solid': YoutubeSolid,
   'zoom-in-solid': ZoomInSolid,
+  'zoom-in-outline': ZoomInOutline,
   'zoom-out-outline': ZoomOutOutline,
   'zoom-out-solid': ZoomOutSolid,
 };

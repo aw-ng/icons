@@ -310,6 +310,7 @@ export default Avatar;
 | <img src="./src/raw/server-solid.svg" width="30" alt="server-solid"> | [server-solid](./src/icons/ServerSolid.tsx) |
 | <img src="./src/raw/shield-check-outline.svg" width="30" alt="shield-check-outline"> | [shield-check-outline](./src/icons/ShieldCheckOutline.tsx) |
 | <img src="./src/raw/shield-check-solid.svg" width="30" alt="shield-check-solid"> | [shield-check-solid](./src/icons/ShieldCheckSolid.tsx) |
+| <img src="./src/raw/shield-outline.svg" width="30" alt="shield-outline"> | [shield-outline](./src/icons/ShieldOutline.tsx) |
 | <img src="./src/raw/shield-solid.svg" width="30" alt="shield-solid"> | [shield-solid](./src/icons/ShieldSolid.tsx) |
 | <img src="./src/raw/shopping-bag-outline.svg" width="30" alt="shopping-bag-outline"> | [shopping-bag-outline](./src/icons/ShoppingBagOutline.tsx) |
 | <img src="./src/raw/shopping-bag-solid.svg" width="30" alt="shopping-bag-solid"> | [shopping-bag-solid](./src/icons/ShoppingBagSolid.tsx) |
@@ -356,5 +357,6 @@ export default Avatar;
 | <img src="./src/raw/window-solid.svg" width="30" alt="window-solid"> | [window-solid](./src/icons/WindowSolid.tsx) |
 | <img src="./src/raw/youtube-solid.svg" width="30" alt="youtube-solid"> | [youtube-solid](./src/icons/YoutubeSolid.tsx) |
 | <img src="./src/raw/zoom-in-solid.svg" width="30" alt="zoom-in-solid"> | [zoom-in-solid](./src/icons/ZoomInSolid.tsx) |
+| <img src="./src/raw/zoom-in-outline.svg" width="30" alt="zoom-in-outline"> | [zoom-in-outline](./src/icons/ZoomInOutline.tsx) |
 | <img src="./src/raw/zoom-out-outline.svg" width="30" alt="zoom-out-outline"> | [zoom-out-outline](./src/icons/ZoomOutOutline.tsx) |
 | <img src="./src/raw/zoom-out-solid.svg" width="30" alt="zoom-out-solid"> | [zoom-out-solid](./src/icons/ZoomOutSolid.tsx) |
