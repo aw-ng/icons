@@ -284,6 +284,7 @@ export default Avatar;
 | <img src="./src/raw/microphone-outline.svg" width="30" alt="microphone-outline"> | [microphone-outline](./src/icons/MicrophoneOutline.tsx) |
 | <img src="./src/raw/microphone-solid.svg" width="30" alt="microphone-solid"> | [microphone-solid](./src/icons/MicrophoneSolid.tsx) |
 | <img src="./src/raw/moon-outline.svg" width="30" alt="moon-outline"> | [moon-outline](./src/icons/MoonOutline.tsx) |
+| <img src="./src/raw/moon-solid.svg" width="30" alt="moon-solid"> | [moon-solid](./src/icons/MoonSolid.tsx) |
 | <img src="./src/raw/newspaper-outline.svg" width="30" alt="newspaper-outline"> | [newspaper-outline](./src/icons/NewspaperOutline.tsx) |
 | <img src="./src/raw/newspaper-solid.svg" width="30" alt="newspaper-solid"> | [newspaper-solid](./src/icons/NewspaperSolid.tsx) |
 | <img src="./src/raw/paper-clip-outline.svg" width="30" alt="paper-clip-outline"> | [paper-clip-outline](./src/icons/PaperClipOutline.tsx) |
