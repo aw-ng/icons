@@ -125,6 +125,7 @@ export default Avatar;
 | <img src="./src/raw/bars-from-left-outline.svg" width="30" alt="bars-from-left-outline"> | [bars-from-left-outline](./src/icons/BarsFromLeftOutline.tsx) |
 | <img src="./src/raw/bars-outline.svg" width="30" alt="bars-outline"> | [bars-outline](./src/icons/BarsOutline.tsx) |
 | <img src="./src/raw/battery-full-outline.svg" width="30" alt="battery-full-outline"> | [battery-full-outline](./src/icons/BatteryFullOutline.tsx) |
+| <img src="./src/raw/battery-full-solid.svg" width="30" alt="battery-full-solid"> | [battery-full-solid](./src/icons/BatteryFullSolid.tsx) |
 | <img src="./src/raw/bell-active-outline.svg" width="30" alt="bell-active-outline"> | [bell-active-outline](./src/icons/BellActiveOutline.tsx) |
 | <img src="./src/raw/bell-active-solid.svg" width="30" alt="bell-active-solid"> | [bell-active-solid](./src/icons/BellActiveSolid.tsx) |
 | <img src="./src/raw/bell-outline.svg" width="30" alt="bell-outline"> | [bell-outline](./src/icons/BellOutline.tsx) |
