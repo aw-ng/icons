@@ -48,6 +48,7 @@ import BanOutline from './BanOutline';
 import BarsFromLeftOutline from './BarsFromLeftOutline';
 import BarsOutline from './BarsOutline';
 import BatteryFullOutline from './BatteryFullOutline';
+import BatteryFullSolid from './BatteryFullSolid';
 import BellActiveOutline from './BellActiveOutline';
 import BellActiveSolid from './BellActiveSolid';
 import BellOutline from './BellOutline';
@@ -337,6 +338,7 @@ export {
   BarsFromLeftOutline,
   BarsOutline,
   BatteryFullOutline,
+  BatteryFullSolid,
   BellActiveOutline,
   BellActiveSolid,
   BellOutline,
