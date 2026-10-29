@@ -156,7 +156,7 @@ export default Avatar;
 | <img src="./src/raw/camera-phone-outline.svg" width="30" alt="camera-phone-outline"> | [camera-phone-outline](./src/icons/CameraPhoneOutline.tsx) |
 | <img src="./src/raw/camera-phone-solid.svg" width="30" alt="camera-phone-solid"> | [camera-phone-solid](./src/icons/CameraPhoneSolid.tsx) |
 | <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camera-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
-| <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camara-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
+| <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
 | <img src="./src/raw/chart-pie-outline.svg" width="30" alt="chart-pie-outline"> | [chart-pie-outline](./src/icons/ChartPieOutline.tsx) |
 | <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
