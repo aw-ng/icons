@@ -197,6 +197,7 @@ import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
+import LetterBoldOutline from './LetterBoldOutline';
 import LockOpenOutline from './LockOpenOutline';
 import LockOpenSolid from './LockOpenSolid';
 import LockOutline from './LockOutline';
@@ -488,6 +489,7 @@ export {
   LanguageOutline,
   LayersOutline,
   LayersSolid,
+  LetterBoldOutline,
   LockOpenOutline,
   LockOpenSolid,
   LockOutline,
