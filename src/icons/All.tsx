@@ -136,6 +136,7 @@ import EnvelopeOutline from './EnvelopeOutline';
 import EnvelopeSolid from './EnvelopeSolid';
 import ExclamationCircleOutline from './ExclamationCircleOutline';
 import ExclamationCircleSolid from './ExclamationCircleSolid';
+import ExpandOutline from './ExpandOutline';
 import EyeOutline from './EyeOutline';
 import EyeSlashOutline from './EyeSlashOutline';
 import EyeSlashSolid from './EyeSlashSolid';
@@ -434,6 +435,7 @@ export {
   EnvelopeSolid,
   ExclamationCircleOutline,
   ExclamationCircleSolid,
+  ExpandOutline,
   EyeOutline,
   EyeSlashOutline,
   EyeSlashSolid,
