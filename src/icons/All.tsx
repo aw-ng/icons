@@ -80,6 +80,8 @@ import CameraPhoneOutline from './CameraPhoneOutline';
 import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
+import ChartLineUpOutline from './ChartLineUpOutline';
+import CaretSortSolid from './CaretSortSolid';
 import ChartPieOutline from './ChartPieOutline';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
@@ -141,6 +143,7 @@ import EyeSolid from './EyeSolid';
 import FacebookSolid from './FacebookSolid';
 import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
+import FileChartBarSolid from './FileChartBarSolid';
 import FileCodeOutline from './FileCodeOutline';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopyOutline from './FileCopyOutline';
@@ -375,6 +378,8 @@ export {
   CameraPhoneSolid,
   CameraPhotoOutline,
   CameraPhotoSolid,
+  ChartLineUpOutline,
+  CaretSortSolid,
   ChartPieOutline,
   CheckCircleOutline,
   CheckCircleSolid,
@@ -436,6 +441,7 @@ export {
   FacebookSolid,
   FileChartOutline,
   FileChartBarOutline,
+  FileChartBarSolid,
   FileCodeOutline,
   FileCodeSolid,
   FileCopyOutline,

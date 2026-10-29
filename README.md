@@ -157,6 +157,8 @@ export default Avatar;
 | <img src="./src/raw/camera-phone-solid.svg" width="30" alt="camera-phone-solid"> | [camera-phone-solid](./src/icons/CameraPhoneSolid.tsx) |
 | <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camera-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
 | <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
+| <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
+| <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
 | <img src="./src/raw/chart-pie-outline.svg" width="30" alt="chart-pie-outline"> | [chart-pie-outline](./src/icons/ChartPieOutline.tsx) |
 | <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
@@ -218,6 +220,7 @@ export default Avatar;
 | <img src="./src/raw/facebook-solid.svg" width="30" alt="facebook-solid"> | [facebook-solid](./src/icons/FacebookSolid.tsx) |
 | <img src="./src/raw/file-chart-outline.svg" width="30" alt="file-chart-outline"> | [file-chart-outline](./src/icons/FileChartOutline.tsx) |
 | <img src="./src/raw/file-chart-bar-outline.svg" width="30" alt="file-chart-bar-outline"> | [file-chart-bar-outline](./src/icons/FileChartBarOutline.tsx) |
+| <img src="./src/raw/file-chart-bar-solid.svg" width="30" alt="file-chart-bar-solid"> | [file-chart-bar-solid](./src/icons/FileChartBarSolid.tsx) |
 | <img src="./src/raw/file-code-outline.svg" width="30" alt="file-code-outline"> | [file-code-outline](./src/icons/FileCodeOutline.tsx) |
 | <img src="./src/raw/file-code-solid.svg" width="30" alt="file-code-solid"> | [file-code-solid](./src/icons/FileCodeSolid.tsx) |
 | <img src="./src/raw/file-copy-outline.svg" width="30" alt="file-copy-outline"> | [file-copy-outline](./src/icons/FileCopyOutline.tsx) |
