@@ -240,6 +240,7 @@ import ShieldOutline from './ShieldOutline';
 import ShieldSolid from './ShieldSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
+import SortHorizontalOutline from './SortHorizontalOutline';
 import StarOutline from './StarOutline';
 import StarSolid from './StarSolid';
 import StopSolid from './StopSolid';
@@ -531,6 +532,7 @@ export {
   ShieldSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
+  SortHorizontalOutline,
   StarOutline,
   StarSolid,
   StopSolid,
