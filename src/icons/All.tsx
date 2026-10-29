@@ -154,6 +154,7 @@ import FileImageOutline from './FileImageOutline';
 import FileImageSolid from './FileImageSolid';
 import FileImportOutline from './FileImportOutline';
 import FileImportSolid from './FileImportSolid';
+import FileLinesOutline from './FileLinesOutline';
 import FileMusicOutline from './FileMusicOutline';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfOutline from './FilePdfOutline';
@@ -456,6 +457,7 @@ export {
   FileImageSolid,
   FileImportOutline,
   FileImportSolid,
+  FileLinesOutline,
   FileMusicOutline,
   FileMusicSolid,
   FilePdfOutline,
