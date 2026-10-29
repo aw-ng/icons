@@ -145,6 +145,7 @@ import FacebookSolid from './FacebookSolid';
 import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
 import FileChartBarSolid from './FileChartBarSolid';
+import FileCloneSolid from './FileCloneSolid';
 import FileCodeOutline from './FileCodeOutline';
 import FileCodeSolid from './FileCodeSolid';
 import FileCopyOutline from './FileCopyOutline';
@@ -445,6 +446,7 @@ export {
   FileChartOutline,
   FileChartBarOutline,
   FileChartBarSolid,
+  FileCloneSolid,
   FileCodeOutline,
   FileCodeSolid,
   FileCopyOutline,
