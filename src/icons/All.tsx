@@ -76,6 +76,7 @@ import CalendarPlusOutline from './CalendarPlusOutline';
 import CalendarPlusSolid from './CalendarPlusSolid';
 import CalendarWeekSolid from './CalendarWeekSolid';
 import CalendarWeekOutline from './CalendarWeekOutline';
+import CameraPhoneOutline from './CameraPhoneOutline';
 import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
@@ -373,6 +374,7 @@ export {
   CalendarPlusSolid,
   CalendarWeekSolid,
   CalendarWeekOutline,
+  CameraPhoneOutline,
   CameraPhoneSolid,
   CameraPhotoOutline,
   CameraPhotoSolid,
