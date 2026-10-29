@@ -156,6 +156,10 @@ export default Avatar;
 | <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camara-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
 | <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camara-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
 | <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
+| <img src="./src/raw/camera-phone-solid.svg" width="30" alt="camera-phone-solid"> | [camera-phone-solid](./src/icons/CameraPhoneSolid.tsx) |
+| <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camera-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
+| <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
+| <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
 | <img src="./src/raw/chart-pie-outline.svg" width="30" alt="chart-pie-outline"> | [chart-pie-outline](./src/icons/ChartPieOutline.tsx) |
 | <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
@@ -275,6 +279,7 @@ export default Avatar;
 | <img src="./src/raw/language-outline.svg" width="30" alt="language-outline"> | [language-outline](./src/icons/LanguageOutline.tsx) |
 | <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
 | <img src="./src/raw/layers-solid.svg" width="30" alt="layers-solid"> | [layers-solid](./src/icons/LayersSolid.tsx) |
+| <img src="./src/raw/letter-bold-outline.svg" width="30" alt="letter-bold-outline"> | [letter-bold-outline](./src/icons/LetterBoldOutline.tsx) |
 | <img src="./src/raw/lock-open-outline.svg" width="30" alt="lock-open-outline"> | [lock-open-outline](./src/icons/LockOpenOutline.tsx) |
 | <img src="./src/raw/lock-open-solid.svg" width="30" alt="lock-open-solid"> | [lock-open-solid](./src/icons/LockOpenSolid.tsx) |
 | <img src="./src/raw/lock-outline.svg" width="30" alt="lock-outline"> | [lock-outline](./src/icons/LockOutline.tsx) |
@@ -318,6 +323,7 @@ export default Avatar;
 | <img src="./src/raw/shield-solid.svg" width="30" alt="shield-solid"> | [shield-solid](./src/icons/ShieldSolid.tsx) |
 | <img src="./src/raw/shopping-bag-outline.svg" width="30" alt="shopping-bag-outline"> | [shopping-bag-outline](./src/icons/ShoppingBagOutline.tsx) |
 | <img src="./src/raw/shopping-bag-solid.svg" width="30" alt="shopping-bag-solid"> | [shopping-bag-solid](./src/icons/ShoppingBagSolid.tsx) |
+| <img src="./src/raw/sort-horizontal-outline.svg" width="30" alt="sort-horizontal-outline"> | [sort-horizontal-outline](./src/icons/SortHorizontalOutline.tsx) |
 | <img src="./src/raw/star-outline.svg" width="30" alt="star-outline"> | [star-outline](./src/icons/StarOutline.tsx) |
 | <img src="./src/raw/star-solid.svg" width="30" alt="star-solid"> | [star-solid](./src/icons/StarSolid.tsx) |
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |

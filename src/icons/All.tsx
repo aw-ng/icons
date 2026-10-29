@@ -76,9 +76,11 @@ import CalendarPlusOutline from './CalendarPlusOutline';
 import CalendarPlusSolid from './CalendarPlusSolid';
 import CalendarWeekSolid from './CalendarWeekSolid';
 import CalendarWeekOutline from './CalendarWeekOutline';
+import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
+import CaretSortSolid from './CaretSortSolid';
 import ChartPieOutline from './ChartPieOutline';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
@@ -198,6 +200,7 @@ import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
+import LetterBoldOutline from './LetterBoldOutline';
 import LockOpenOutline from './LockOpenOutline';
 import LockOpenSolid from './LockOpenSolid';
 import LockOutline from './LockOutline';
@@ -241,6 +244,7 @@ import ShieldOutline from './ShieldOutline';
 import ShieldSolid from './ShieldSolid';
 import ShoppingBagOutline from './ShoppingBagOutline';
 import ShoppingBagSolid from './ShoppingBagSolid';
+import SortHorizontalOutline from './SortHorizontalOutline';
 import StarOutline from './StarOutline';
 import StarSolid from './StarSolid';
 import StopSolid from './StopSolid';
@@ -368,9 +372,11 @@ export {
   CalendarPlusSolid,
   CalendarWeekSolid,
   CalendarWeekOutline,
+  CameraPhoneSolid,
   CameraPhotoOutline,
   CameraPhotoSolid,
   ChartLineUpOutline,
+  CaretSortSolid,
   ChartPieOutline,
   CheckCircleOutline,
   CheckCircleSolid,
@@ -490,6 +496,7 @@ export {
   LanguageOutline,
   LayersOutline,
   LayersSolid,
+  LetterBoldOutline,
   LockOpenOutline,
   LockOpenSolid,
   LockOutline,
@@ -533,6 +540,7 @@ export {
   ShieldSolid,
   ShoppingBagOutline,
   ShoppingBagSolid,
+  SortHorizontalOutline,
   StarOutline,
   StarSolid,
   StopSolid,
