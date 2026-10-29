@@ -160,6 +160,7 @@ export default Avatar;
 | <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
 | <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
 | <img src="./src/raw/chart-pie-outline.svg" width="30" alt="chart-pie-outline"> | [chart-pie-outline](./src/icons/ChartPieOutline.tsx) |
+| <img src="./src/raw/chart-pie-solid.svg" width="30" alt="chart-pie-solid"> | [chart-pie-solid](./src/icons/ChartPieSolid.tsx) |
 | <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
 | <img src="./src/raw/check-outline.svg" width="30" alt="check-outline"> | [check-outline](./src/icons/CheckOutline.tsx) |
