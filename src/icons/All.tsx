@@ -213,6 +213,7 @@ import MapPinOutline from './MapPinOutline';
 import MapPinSolid from './MapPinSolid';
 import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
+import MobilePhoneSolid from './MobilePhoneSolid';
 import MoonOutline from './MoonOutline';
 import MoonSolid from './MoonSolid';
 import NewspaperOutline from './NewspaperOutline';
@@ -511,6 +512,7 @@ export {
   MapPinSolid,
   MicrophoneOutline,
   MicrophoneSolid,
+  MobilePhoneSolid,
   MoonOutline,
   MoonSolid,
   NewspaperOutline,

@@ -290,6 +290,7 @@ export default Avatar;
 | <img src="./src/raw/map-pin-solid.svg" width="30" alt="map-pin-solid"> | [map-pin-solid](./src/icons/MapPinSolid.tsx) |
 | <img src="./src/raw/microphone-outline.svg" width="30" alt="microphone-outline"> | [microphone-outline](./src/icons/MicrophoneOutline.tsx) |
 | <img src="./src/raw/microphone-solid.svg" width="30" alt="microphone-solid"> | [microphone-solid](./src/icons/MicrophoneSolid.tsx) |
+| <img src="./src/raw/mobile-phone-solid.svg" width="30" alt="mobile-phone-solid"> | [mobile-phone-solid](./src/icons/MobilePhoneSolid.tsx) |
 | <img src="./src/raw/moon-outline.svg" width="30" alt="moon-outline"> | [moon-outline](./src/icons/MoonOutline.tsx) |
 | <img src="./src/raw/moon-solid.svg" width="30" alt="moon-solid"> | [moon-solid](./src/icons/MoonSolid.tsx) |
 | <img src="./src/raw/newspaper-outline.svg" width="30" alt="newspaper-outline"> | [newspaper-outline](./src/icons/NewspaperOutline.tsx) |
