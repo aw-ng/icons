@@ -153,6 +153,9 @@ export default Avatar;
 | <img src="./src/raw/calendar-plus-solid.svg" width="30" alt="calendar-plus-solid"> | [calendar-plus-solid](./src/icons/CalendarPlusSolid.tsx) |
 | <img src="./src/raw/calendar-week-solid.svg" width="30" alt="calendar-week-solid"> | [calendar-week-solid](./src/icons/CalendarWeekSolid.tsx) |
 | <img src="./src/raw/calendar-week-outline.svg" width="30" alt="calendar-week-outline"> | [calendar-week-outline](./src/icons/CalendarWeekOutline.tsx) |
+| <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camara-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
+| <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camara-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
+| <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
 | <img src="./src/raw/camera-phone-solid.svg" width="30" alt="camera-phone-solid"> | [camera-phone-solid](./src/icons/CameraPhoneSolid.tsx) |
 | <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camera-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
 | <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |

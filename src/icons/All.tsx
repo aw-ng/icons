@@ -79,6 +79,7 @@ import CalendarWeekOutline from './CalendarWeekOutline';
 import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
+import ChartLineUpOutline from './ChartLineUpOutline';
 import CaretSortSolid from './CaretSortSolid';
 import ChartPieOutline from './ChartPieOutline';
 import CheckCircleOutline from './CheckCircleOutline';
@@ -374,6 +375,7 @@ export {
   CameraPhoneSolid,
   CameraPhotoOutline,
   CameraPhotoSolid,
+  ChartLineUpOutline,
   CaretSortSolid,
   ChartPieOutline,
   CheckCircleOutline,
