@@ -317,6 +317,7 @@ export default Avatar;
 | <img src="./src/raw/shield-solid.svg" width="30" alt="shield-solid"> | [shield-solid](./src/icons/ShieldSolid.tsx) |
 | <img src="./src/raw/shopping-bag-outline.svg" width="30" alt="shopping-bag-outline"> | [shopping-bag-outline](./src/icons/ShoppingBagOutline.tsx) |
 | <img src="./src/raw/shopping-bag-solid.svg" width="30" alt="shopping-bag-solid"> | [shopping-bag-solid](./src/icons/ShoppingBagSolid.tsx) |
+| <img src="./src/raw/sort-horizontal-outline.svg" width="30" alt="sort-horizontal-outline"> | [sort-horizontal-outline](./src/icons/SortHorizontalOutline.tsx) |
 | <img src="./src/raw/star-outline.svg" width="30" alt="star-outline"> | [star-outline](./src/icons/StarOutline.tsx) |
 | <img src="./src/raw/star-solid.svg" width="30" alt="star-solid"> | [star-solid](./src/icons/StarSolid.tsx) |
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
