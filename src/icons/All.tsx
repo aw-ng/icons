@@ -212,6 +212,7 @@ import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
 import MapPinSolid from './MapPinSolid';
+import MessageDotsSolid from './MessageDotsSolid';
 import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
 import MobilePhoneSolid from './MobilePhoneSolid';
@@ -512,6 +513,7 @@ export {
   MailBoxSolid,
   MapPinOutline,
   MapPinSolid,
+  MessageDotsSolid,
   MicrophoneOutline,
   MicrophoneSolid,
   MobilePhoneSolid,
