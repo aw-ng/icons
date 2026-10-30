@@ -83,6 +83,7 @@ import CameraPhotoSolid from './CameraPhotoSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
 import CaretSortSolid from './CaretSortSolid';
 import ChartPieOutline from './ChartPieOutline';
+import ChartPieSolid from './ChartPieSolid';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
@@ -389,6 +390,7 @@ export {
   ChartLineUpOutline,
   CaretSortSolid,
   ChartPieOutline,
+  ChartPieSolid,
   CheckCircleOutline,
   CheckCircleSolid,
   CheckOutline,
