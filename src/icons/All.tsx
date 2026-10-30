@@ -219,6 +219,7 @@ import MapPinOutline from './MapPinOutline';
 import MapPinSolid from './MapPinSolid';
 import MessageCaptionOutline from './MessageCaptionOutline';
 import MessageCaptionSolid from './MessageCaptionSolid';
+import MessageDotsOutline from './MessageDotsOutline';
 import MessageDotsSolid from './MessageDotsSolid';
 import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
@@ -527,6 +528,7 @@ export {
   MapPinSolid,
   MessageCaptionOutline,
   MessageCaptionSolid,
+  MessageDotsOutline,
   MessageDotsSolid,
   MicrophoneOutline,
   MicrophoneSolid,
