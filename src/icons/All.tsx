@@ -83,6 +83,7 @@ import CameraPhotoSolid from './CameraPhotoSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
 import CaretSortSolid from './CaretSortSolid';
 import ChartPieOutline from './ChartPieOutline';
+import ChartPieSolid from './ChartPieSolid';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
@@ -145,6 +146,7 @@ import FacebookSolid from './FacebookSolid';
 import FileChartOutline from './FileChartOutline';
 import FileChartBarOutline from './FileChartBarOutline';
 import FileChartBarSolid from './FileChartBarSolid';
+import FileCloneOutline from './FileCloneOutline';
 import FileCloneSolid from './FileCloneSolid';
 import FileCodeOutline from './FileCodeOutline';
 import FileCodeSolid from './FileCodeSolid';
@@ -155,6 +157,7 @@ import FileImageSolid from './FileImageSolid';
 import FileImportOutline from './FileImportOutline';
 import FileImportSolid from './FileImportSolid';
 import FileLinesOutline from './FileLinesOutline';
+import FileLinesSolid from './FileLinesSolid';
 import FileMusicOutline from './FileMusicOutline';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfOutline from './FilePdfOutline';
@@ -214,6 +217,8 @@ import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
 import MapPinSolid from './MapPinSolid';
+import MessageCaptionOutline from './MessageCaptionOutline';
+import MessageCaptionSolid from './MessageCaptionSolid';
 import MessageDotsOutline from './MessageDotsOutline';
 import MessageDotsSolid from './MessageDotsSolid';
 import MicrophoneOutline from './MicrophoneOutline';
@@ -387,6 +392,7 @@ export {
   ChartLineUpOutline,
   CaretSortSolid,
   ChartPieOutline,
+  ChartPieSolid,
   CheckCircleOutline,
   CheckCircleSolid,
   CheckOutline,
@@ -449,6 +455,7 @@ export {
   FileChartOutline,
   FileChartBarOutline,
   FileChartBarSolid,
+  FileCloneOutline,
   FileCloneSolid,
   FileCodeOutline,
   FileCodeSolid,
@@ -459,6 +466,7 @@ export {
   FileImportOutline,
   FileImportSolid,
   FileLinesOutline,
+  FileLinesSolid,
   FileMusicOutline,
   FileMusicSolid,
   FilePdfOutline,
@@ -518,6 +526,8 @@ export {
   MailBoxSolid,
   MapPinOutline,
   MapPinSolid,
+  MessageCaptionOutline,
+  MessageCaptionSolid,
   MessageDotsOutline,
   MessageDotsSolid,
   MicrophoneOutline,

@@ -160,6 +160,7 @@ export default Avatar;
 | <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
 | <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
 | <img src="./src/raw/chart-pie-outline.svg" width="30" alt="chart-pie-outline"> | [chart-pie-outline](./src/icons/ChartPieOutline.tsx) |
+| <img src="./src/raw/chart-pie-solid.svg" width="30" alt="chart-pie-solid"> | [chart-pie-solid](./src/icons/ChartPieSolid.tsx) |
 | <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
 | <img src="./src/raw/check-outline.svg" width="30" alt="check-outline"> | [check-outline](./src/icons/CheckOutline.tsx) |
@@ -222,6 +223,7 @@ export default Avatar;
 | <img src="./src/raw/file-chart-outline.svg" width="30" alt="file-chart-outline"> | [file-chart-outline](./src/icons/FileChartOutline.tsx) |
 | <img src="./src/raw/file-chart-bar-outline.svg" width="30" alt="file-chart-bar-outline"> | [file-chart-bar-outline](./src/icons/FileChartBarOutline.tsx) |
 | <img src="./src/raw/file-chart-bar-solid.svg" width="30" alt="file-chart-bar-solid"> | [file-chart-bar-solid](./src/icons/FileChartBarSolid.tsx) |
+| <img src="./src/raw/file-clone-outline.svg" width="30" alt="file-clone-outline"> | [file-clone-outline](./src/icons/FileCloneOutline.tsx) |
 | <img src="./src/raw/file-clone-solid.svg" width="30" alt="file-clone-solid"> | [file-clone-solid](./src/icons/FileCloneSolid.tsx) |
 | <img src="./src/raw/file-code-outline.svg" width="30" alt="file-code-outline"> | [file-code-outline](./src/icons/FileCodeOutline.tsx) |
 | <img src="./src/raw/file-code-solid.svg" width="30" alt="file-code-solid"> | [file-code-solid](./src/icons/FileCodeSolid.tsx) |
@@ -232,6 +234,7 @@ export default Avatar;
 | <img src="./src/raw/file-import-outline.svg" width="30" alt="file-import-outline"> | [file-import-outline](./src/icons/FileImportOutline.tsx) |
 | <img src="./src/raw/file-import-solid.svg" width="30" alt="file-import-solid"> | [file-import-solid](./src/icons/FileImportSolid.tsx) |
 | <img src="./src/raw/file-lines-outline.svg" width="30" alt="file-lines-outline"> | [file-lines-outline](./src/icons/FileLinesOutline.tsx) |
+| <img src="./src/raw/file-lines-solid.svg" width="30" alt="file-lines-solid"> | [file-lines-solid](./src/icons/FileLinesSolid.tsx) |
 | <img src="./src/raw/file-music-outline.svg" width="30" alt="file-music-outline"> | [file-music-outline](./src/icons/FileMusicOutline.tsx) |
 | <img src="./src/raw/file-music-solid.svg" width="30" alt="file-music-solid"> | [file-music-solid](./src/icons/FileMusicSolid.tsx) |
 | <img src="./src/raw/file-pdf-outline.svg" width="30" alt="file-pdf-outline"> | [file-pdf-outline](./src/icons/FilePdfOutline.tsx) |
@@ -291,6 +294,8 @@ export default Avatar;
 | <img src="./src/raw/mail-box-solid.svg" width="30" alt="mail-box-solid"> | [mail-box-solid](./src/icons/MailBoxSolid.tsx) |
 | <img src="./src/raw/map-pin-outline.svg" width="30" alt="map-pin-outline"> | [map-pin-outline](./src/icons/MapPinOutline.tsx) |
 | <img src="./src/raw/map-pin-solid.svg" width="30" alt="map-pin-solid"> | [map-pin-solid](./src/icons/MapPinSolid.tsx) |
+| <img src="./src/raw/message-caption-outline.svg" width="30" alt="message-caption-outline"> | [message-caption-outline](./src/icons/MessageCaptionOutline.tsx) |
+| <img src="./src/raw/message-caption-solid.svg" width="30" alt="message-caption-solid"> | [message-caption-solid](./src/icons/MessageCaptionSolid.tsx) |
 | <img src="./src/raw/message-dots-outline.svg" width="30" alt="message-dots-outline"> | [message-dots-outline](./src/icons/MessageDotsOutline.tsx) |
 | <img src="./src/raw/message-dots-solid.svg" width="30" alt="message-dots-solid"> | [message-dots-solid](./src/icons/MessageDotsSolid.tsx) |
 | <img src="./src/raw/microphone-outline.svg" width="30" alt="microphone-outline"> | [microphone-outline](./src/icons/MicrophoneOutline.tsx) |
