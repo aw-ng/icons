@@ -222,6 +222,7 @@ export default Avatar;
 | <img src="./src/raw/file-chart-outline.svg" width="30" alt="file-chart-outline"> | [file-chart-outline](./src/icons/FileChartOutline.tsx) |
 | <img src="./src/raw/file-chart-bar-outline.svg" width="30" alt="file-chart-bar-outline"> | [file-chart-bar-outline](./src/icons/FileChartBarOutline.tsx) |
 | <img src="./src/raw/file-chart-bar-solid.svg" width="30" alt="file-chart-bar-solid"> | [file-chart-bar-solid](./src/icons/FileChartBarSolid.tsx) |
+| <img src="./src/raw/file-clone-outline.svg" width="30" alt="file-clone-outline"> | [file-clone-outline](./src/icons/FileCloneOutline.tsx) |
 | <img src="./src/raw/file-clone-solid.svg" width="30" alt="file-clone-solid"> | [file-clone-solid](./src/icons/FileCloneSolid.tsx) |
 | <img src="./src/raw/file-code-outline.svg" width="30" alt="file-code-outline"> | [file-code-outline](./src/icons/FileCodeOutline.tsx) |
 | <img src="./src/raw/file-code-solid.svg" width="30" alt="file-code-solid"> | [file-code-solid](./src/icons/FileCodeSolid.tsx) |
