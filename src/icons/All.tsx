@@ -214,6 +214,7 @@ import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
 import MapPinSolid from './MapPinSolid';
+import MessageDotsOutline from './MessageDotsOutline';
 import MessageDotsSolid from './MessageDotsSolid';
 import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
@@ -517,6 +518,7 @@ export {
   MailBoxSolid,
   MapPinOutline,
   MapPinSolid,
+  MessageDotsOutline,
   MessageDotsSolid,
   MicrophoneOutline,
   MicrophoneSolid,
