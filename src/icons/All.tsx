@@ -214,6 +214,7 @@ import LockOpenOutline from './LockOpenOutline';
 import LockOpenSolid from './LockOpenSolid';
 import LockOutline from './LockOutline';
 import LockSolid from './LockSolid';
+import LockTimeSolid from './LockTimeSolid';
 import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
@@ -525,6 +526,7 @@ export {
   LockOpenSolid,
   LockOutline,
   LockSolid,
+  LockTimeSolid,
   MailBoxOutline,
   MailBoxSolid,
   MapPinOutline,
