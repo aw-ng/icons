@@ -291,6 +291,7 @@ export default Avatar;
 | <img src="./src/raw/lock-open-solid.svg" width="30" alt="lock-open-solid"> | [lock-open-solid](./src/icons/LockOpenSolid.tsx) |
 | <img src="./src/raw/lock-outline.svg" width="30" alt="lock-outline"> | [lock-outline](./src/icons/LockOutline.tsx) |
 | <img src="./src/raw/lock-solid.svg" width="30" alt="lock-solid"> | [lock-solid](./src/icons/LockSolid.tsx) |
+| <img src="./src/raw/lock-time-solid.svg" width="30" alt="lock-time-solid"> | [lock-time-solid](./src/icons/LockTimeSolid.tsx) |
 | <img src="./src/raw/mail-box-outline.svg" width="30" alt="mail-box-outline"> | [mail-box-outline](./src/icons/MailBoxOutline.tsx) |
 | <img src="./src/raw/mail-box-solid.svg" width="30" alt="mail-box-solid"> | [mail-box-solid](./src/icons/MailBoxSolid.tsx) |
 | <img src="./src/raw/map-pin-outline.svg" width="30" alt="map-pin-outline"> | [map-pin-outline](./src/icons/MapPinOutline.tsx) |
