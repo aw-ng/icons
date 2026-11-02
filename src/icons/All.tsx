@@ -203,6 +203,7 @@ import InboxOutline from './InboxOutline';
 import InboxSolid from './InboxSolid';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
+import InfoCircleSolid from './InfoCircleSolid';
 import KeyboardOutline from './KeyboardOutline';
 import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
@@ -512,6 +513,7 @@ export {
   InboxSolid,
   IndentOutline,
   IndentSolid,
+  InfoCircleSolid,
   KeyboardOutline,
   KeyboardSolid,
   LanguageOutline,
