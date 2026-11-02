@@ -291,6 +291,7 @@ import UserOutline from './UserOutline';
 import UserSolid from './UserSolid';
 import UsersOutline from './UsersOutline';
 import UsersGroupOutline from './UsersGroupOutline';
+import UsersGroupSolid from './UsersGroupSolid';
 import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
 import VideoCameraSolid from './VideoCameraSolid';
@@ -604,6 +605,7 @@ export {
   UserSolid,
   UsersOutline,
   UsersGroupOutline,
+  UsersGroupSolid,
   UsersSolid,
   VideoCameraOutline,
   VideoCameraSolid,

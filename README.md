@@ -368,6 +368,7 @@ export default Avatar;
 | <img src="./src/raw/user-solid.svg" width="30" alt="user-solid"> | [user-solid](./src/icons/UserSolid.tsx) |
 | <img src="./src/raw/users-outline.svg" width="30" alt="users-outline"> | [users-outline](./src/icons/UsersOutline.tsx) |
 | <img src="./src/raw/users-group-outline.svg" width="30" alt="users-group-outline"> | [users-group-outline](./src/icons/UsersGroupOutline.tsx) |
+| <img src="./src/raw/users-group-solid.svg" width="30" alt="users-group-solid"> | [users-group-solid](./src/icons/UsersGroupSolid.tsx) |
 | <img src="./src/raw/users-solid.svg" width="30" alt="users-solid"> | [users-solid](./src/icons/UsersSolid.tsx) |
 | <img src="./src/raw/video-camera-outline.svg" width="30" alt="video-camera-outline"> | [video-camera-outline](./src/icons/VideoCameraOutline.tsx) |
 | <img src="./src/raw/video-camera-solid.svg" width="30" alt="video-camera-solid"> | [video-camera-solid](./src/icons/VideoCameraSolid.tsx) |
