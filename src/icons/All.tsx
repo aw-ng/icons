@@ -162,6 +162,7 @@ import FileMusicOutline from './FileMusicOutline';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfOutline from './FilePdfOutline';
 import FilePdfSolid from './FilePdfSolid';
+import FileSearchOutline from './FileSearchOutline';
 import FileVideoOutline from './FileVideoOutline';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordOutline from './FileWordOutline';
@@ -475,6 +476,7 @@ export {
   FileMusicSolid,
   FilePdfOutline,
   FilePdfSolid,
+  FileSearchOutline,
   FileVideoOutline,
   FileVideoSolid,
   FileWordOutline,
