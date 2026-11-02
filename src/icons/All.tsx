@@ -192,6 +192,7 @@ import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
+import HeadphonesSolid from './HeadphonesSolid';
 import HeartOutline from './HeartOutline';
 import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
@@ -508,6 +509,7 @@ export {
   GridPlusOutline,
   GridPlusSolid,
   GridSolid,
+  HeadphonesSolid,
   HeartOutline,
   HeartSolid,
   HomeOutline,
