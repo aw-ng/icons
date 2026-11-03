@@ -228,6 +228,7 @@ import LayersSolid from './LayersSolid';
 import LetterBoldOutline from './LetterBoldOutline';
 import LightbulbSolid from './LightbulbSolid';
 import LightbulbOutline from './LightbulbOutline';
+import ListMusicSolid from './ListMusicSolid';
 import LockOpenOutline from './LockOpenOutline';
 import LockOpenSolid from './LockOpenSolid';
 import LockOutline from './LockOutline';
@@ -569,6 +570,7 @@ export {
   LetterBoldOutline,
   LightbulbSolid,
   LightbulbOutline,
+  ListMusicSolid,
   LockOpenOutline,
   LockOpenSolid,
   LockOutline,
