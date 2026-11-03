@@ -305,6 +305,7 @@ export default Avatar;
 | <img src="./src/raw/letter-bold-outline.svg" width="30" alt="letter-bold-outline"> | [letter-bold-outline](./src/icons/LetterBoldOutline.tsx) |
 | <img src="./src/raw/lightbulb-solid.svg" width="30" alt="lightbulb-solid"> | [lightbulb-solid](./src/icons/LightbulbSolid.tsx) |
 | <img src="./src/raw/lightbulb-outline.svg" width="30" alt="lightbulb-outline"> | [lightbulb-outline](./src/icons/LightbulbOutline.tsx) |
+| <img src="./src/raw/list-music-solid.svg" width="30" alt="list-music-solid"> | [list-music-solid](./src/icons/ListMusicSolid.tsx) |
 | <img src="./src/raw/lock-open-outline.svg" width="30" alt="lock-open-outline"> | [lock-open-outline](./src/icons/LockOpenOutline.tsx) |
 | <img src="./src/raw/lock-open-solid.svg" width="30" alt="lock-open-solid"> | [lock-open-solid](./src/icons/LockOpenSolid.tsx) |
 | <img src="./src/raw/lock-outline.svg" width="30" alt="lock-outline"> | [lock-outline](./src/icons/LockOutline.tsx) |
