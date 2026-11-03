@@ -127,6 +127,7 @@ import DocumentCheckSolid from './DocumentCheckSolid';
 import DocumentOutline from './DocumentOutline';
 import DocumentSolid from './DocumentSolid';
 import DocumentTextSolid from './DocumentTextSolid';
+import DollarOutline from './DollarOutline';
 import DownloadOutline from './DownloadOutline';
 import DownloadSolid from './DownloadSolid';
 import EditOutline from './EditOutline';
@@ -452,6 +453,7 @@ export {
   DocumentOutline,
   DocumentSolid,
   DocumentTextSolid,
+  DollarOutline,
   DownloadOutline,
   DownloadSolid,
   EditOutline,
