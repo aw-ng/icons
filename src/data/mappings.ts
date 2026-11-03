@@ -288,6 +288,7 @@ import {
   SunSolid,
   TagOutline,
   TagSolid,
+  TeddyBearOutline,
   TerminalOutline,
   TerminalSolid,
   ThumbsDownOutline,
@@ -331,7 +332,7 @@ import {
   ZoomInSolid,
   ZoomInOutline,
   ZoomOutOutline,
-  ZoomOutSolid
+  ZoomOutSolid,
 } from '../icons/All';
 
 export const iconsMap: Record<string, string> = {
@@ -624,6 +625,7 @@ export const iconsMap: Record<string, string> = {
   'sun-solid': SunSolid,
   'tag-outline': TagOutline,
   'tag-solid': TagSolid,
+  'teddy-bear-outline': TeddyBearOutline,
   'terminal-outline': TerminalOutline,
   'terminal-solid': TerminalSolid,
   'thumbs-down-outline': ThumbsDownOutline,
