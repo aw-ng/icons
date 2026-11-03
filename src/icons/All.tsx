@@ -287,6 +287,7 @@ import SunOutline from './SunOutline';
 import SunSolid from './SunSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
+import TeddyBearOutline from './TeddyBearOutline';
 import TerminalOutline from './TerminalOutline';
 import TerminalSolid from './TerminalSolid';
 import ThumbsDownOutline from './ThumbsDownOutline';
@@ -622,6 +623,7 @@ export {
   SunSolid,
   TagOutline,
   TagSolid,
+  TeddyBearOutline,
   TerminalOutline,
   TerminalSolid,
   ThumbsDownOutline,
