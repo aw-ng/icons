@@ -103,6 +103,7 @@ import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
 import CloudArrowUpOutline from './CloudArrowUpOutline';
 import CloudArrowUpSolid from './CloudArrowUpSolid';
+import CloudMeatballOutline from './CloudMeatballOutline';
 import CodeBranchOutline from './CodeBranchOutline';
 import CodeBranchSolid from './CodeBranchSolid';
 import CodeMergeOutline from './CodeMergeOutline';
@@ -422,6 +423,7 @@ export {
   ClockSolid,
   CloudArrowUpOutline,
   CloudArrowUpSolid,
+  CloudMeatballOutline,
   CodeBranchOutline,
   CodeBranchSolid,
   CodeMergeOutline,
