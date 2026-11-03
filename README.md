@@ -312,6 +312,7 @@ export default Avatar;
 | <img src="./src/raw/message-caption-solid.svg" width="30" alt="message-caption-solid"> | [message-caption-solid](./src/icons/MessageCaptionSolid.tsx) |
 | <img src="./src/raw/message-dots-outline.svg" width="30" alt="message-dots-outline"> | [message-dots-outline](./src/icons/MessageDotsOutline.tsx) |
 | <img src="./src/raw/message-dots-solid.svg" width="30" alt="message-dots-solid"> | [message-dots-solid](./src/icons/MessageDotsSolid.tsx) |
+| <img src="./src/raw/messages-outline.svg" width="30" alt="messages-outline"> | [messages-outline](./src/icons/MessagesOutline.tsx) |
 | <img src="./src/raw/microphone-outline.svg" width="30" alt="microphone-outline"> | [microphone-outline](./src/icons/MicrophoneOutline.tsx) |
 | <img src="./src/raw/microphone-solid.svg" width="30" alt="microphone-solid"> | [microphone-solid](./src/icons/MicrophoneSolid.tsx) |
 | <img src="./src/raw/mobile-phone-solid.svg" width="30" alt="mobile-phone-solid"> | [mobile-phone-solid](./src/icons/MobilePhoneSolid.tsx) |
