@@ -211,8 +211,9 @@ import InboxOutline from './InboxOutline';
 import InboxSolid from './InboxSolid';
 import IndentOutline from './IndentOutline';
 import IndentSolid from './IndentSolid';
-import InfoCircleSolid from './InfoCircleSolid';
 import InfoCircleOutline from './InfoCircleOutline';
+import InfoCircleSolid from './InfoCircleSolid';
+import InstagramSolid from './InstagramSolid';
 import KeyboardOutline from './KeyboardOutline';
 import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
@@ -539,6 +540,7 @@ export {
   IndentSolid,
   InfoCircleOutline,
   InfoCircleSolid,
+  InstagramSolid,
   KeyboardOutline,
   KeyboardSolid,
   LanguageOutline,

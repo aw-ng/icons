@@ -290,6 +290,7 @@ export default Avatar;
 | <img src="./src/raw/indent-solid.svg" width="30" alt="indent-solid"> | [indent-solid](./src/icons/IndentSolid.tsx) |
 | <img src="./src/raw/info-circle-outline.svg" width="30" alt="info-circle-outline"> | [info-circle-outline](./src/icons/InfoCircleOutline.tsx) |
 | <img src="./src/raw/info-circle-solid.svg" width="30" alt="info-circle-solid"> | [info-circle-solid](./src/icons/InfoCircleSolid.tsx) |
+| <img src="./src/raw/instagram-solid.svg" width="30" alt="instagram-solid"> | [instagram-solid](./src/icons/InstagramSolid.tsx) |
 | <img src="./src/raw/Keyboard-outline.svg" width="30" alt="Keyboard-outline"> | [Keyboard-outline](./src/icons/KeyboardOutline.tsx) |
 | <img src="./src/raw/Keyboard-solid.svg" width="30" alt="Keyboard-solid"> | [Keyboard-solid](./src/icons/KeyboardSolid.tsx) |
 | <img src="./src/raw/language-outline.svg" width="30" alt="language-outline"> | [language-outline](./src/icons/LanguageOutline.tsx) |
