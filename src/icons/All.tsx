@@ -175,6 +175,7 @@ import FlagOutline from './FlagOutline';
 import FlagSolid from './FlagSolid';
 import FlaskOutline from './FlaskOutline';
 import FlaskSolid from './FlaskSolid';
+import FloppyDiskOutline from './FloppyDiskOutline';
 import FolderOpenOutline from './FolderOpenOutline';
 import FolderOpenSolid from './FolderOpenSolid';
 import FolderOutline from './FolderOutline';
@@ -493,6 +494,7 @@ export {
   FlagSolid,
   FlaskOutline,
   FlaskSolid,
+  FloppyDiskOutline,
   FolderOpenOutline,
   FolderOpenSolid,
   FolderOutline,
