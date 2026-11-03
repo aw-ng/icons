@@ -259,6 +259,7 @@ export default Avatar;
 | <img src="./src/raw/folder-open-solid.svg" width="30" alt="folder-open-solid"> | [folder-open-solid](./src/icons/FolderOpenSolid.tsx) |
 | <img src="./src/raw/folder-outline.svg" width="30" alt="folder-outline"> | [folder-outline](./src/icons/FolderOutline.tsx) |
 | <img src="./src/raw/folder-solid.svg" width="30" alt="folder-solid"> | [folder-solid](./src/icons/FolderSolid.tsx) |
+| <img src="./src/raw/font-color-alt-solid.svg" width="30" alt="font-color-alt-solid"> | [font-color-alt-solid](./src/icons/FontColorAltSolid.tsx) |
 | <img src="./src/raw/forward-outline.svg" width="30" alt="forward-outline"> | [forward-outline](./src/icons/ForwardOutline.tsx) |
 | <img src="./src/raw/forward-solid.svg" width="30" alt="forward-solid"> | [forward-solid](./src/icons/ForwardSolid.tsx) |
 | <img src="./src/raw/gift-box-outline.svg" width="30" alt="gift-box-outline"> | [gift-box-outline](./src/icons/GiftBoxOutline.tsx) |
