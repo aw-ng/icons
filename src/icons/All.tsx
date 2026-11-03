@@ -221,6 +221,7 @@ import InstagramSolid from './InstagramSolid';
 import KeyboardOutline from './KeyboardOutline';
 import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
+import LaptopCodeOutline from './LaptopCodeOutline';
 import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
 import LetterBoldOutline from './LetterBoldOutline';
@@ -558,6 +559,7 @@ export {
   KeyboardOutline,
   KeyboardSolid,
   LanguageOutline,
+  LaptopCodeOutline,
   LayersOutline,
   LayersSolid,
   LetterBoldOutline,
