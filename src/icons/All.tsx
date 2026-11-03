@@ -105,6 +105,7 @@ import CloseSidebarSolid from './CloseSidebarSolid';
 import CloudArrowUpOutline from './CloudArrowUpOutline';
 import CloudArrowUpSolid from './CloudArrowUpSolid';
 import CloudMeatballOutline from './CloudMeatballOutline';
+import CloudMeatballSolid from './CloudMeatballSolid';
 import CodeBranchOutline from './CodeBranchOutline';
 import CodeBranchSolid from './CodeBranchSolid';
 import CodeMergeOutline from './CodeMergeOutline';
@@ -433,6 +434,7 @@ export {
   CloudArrowUpOutline,
   CloudArrowUpSolid,
   CloudMeatballOutline,
+  CloudMeatballSolid,
   CodeBranchOutline,
   CodeBranchSolid,
   CodeMergeOutline,
