@@ -239,6 +239,7 @@ export default Avatar;
 | <img src="./src/raw/file-music-solid.svg" width="30" alt="file-music-solid"> | [file-music-solid](./src/icons/FileMusicSolid.tsx) |
 | <img src="./src/raw/file-pdf-outline.svg" width="30" alt="file-pdf-outline"> | [file-pdf-outline](./src/icons/FilePdfOutline.tsx) |
 | <img src="./src/raw/file-pdf-solid.svg" width="30" alt="file-pdf-solid"> | [file-pdf-solid](./src/icons/FilePdfSolid.tsx) |
+| <img src="./src/raw/file-search-outline.svg" width="30" alt="file-search-outline"> | [file-search-outline](./src/icons/FileSearchOutline.tsx) |
 | <img src="./src/raw/file-video-outline.svg" width="30" alt="file-video-outline"> | [file-video-outline](./src/icons/FileVideoOutline.tsx) |
 | <img src="./src/raw/file-video-solid.svg" width="30" alt="file-video-solid"> | [file-video-solid](./src/icons/FileVideoSolid.tsx) |
 | <img src="./src/raw/file-word-outline.svg" width="30" alt="file-word-outline"> | [file-word-outline](./src/icons/FileWordOutline.tsx) |
@@ -268,6 +269,7 @@ export default Avatar;
 | <img src="./src/raw/grid-plus-outline.svg" width="30" alt="grid-plus-outline"> | [grid-plus-outline](./src/icons/GridPlusOutline.tsx) |
 | <img src="./src/raw/grid-plus-solid.svg" width="30" alt="grid-plus-solid"> | [grid-plus-solid](./src/icons/GridPlusSolid.tsx) |
 | <img src="./src/raw/grid-solid.svg" width="30" alt="grid-solid"> | [grid-solid](./src/icons/GridSolid.tsx) |
+| <img src="./src/raw/headphones-solid.svg" width="30" alt="headphones-solid"> | [headphones-solid](./src/icons/HeadphonesSolid.tsx) |
 | <img src="./src/raw/heart-outline.svg" width="30" alt="heart-outline"> | [heart-outline](./src/icons/HeartOutline.tsx) |
 | <img src="./src/raw/heart-solid.svg" width="30" alt="heart-solid"> | [heart-solid](./src/icons/HeartSolid.tsx) |
 | <img src="./src/raw/home-outline.svg" width="30" alt="home-outline"> | [home-outline](./src/icons/HomeOutline.tsx) |
@@ -276,6 +278,7 @@ export default Avatar;
 | <img src="./src/raw/hourglass-solid.svg" width="30" alt="hourglass-solid"> | [hourglass-solid](./src/icons/HourglassSolid.tsx) |
 | <img src="./src/raw/image-outline.svg" width="30" alt="image-outline"> | [image-outline](./src/icons/ImageOutline.tsx) |
 | <img src="./src/raw/image-solid.svg" width="30" alt="image-solid"> | [image-solid](./src/icons/ImageSolid.tsx) |
+| <img src="./src/raw/inbox-full-solid.svg" width="30" alt="inbox-full-solid"> | [inbox-full-solid](./src/icons/InboxFullSolid.tsx) |
 | <img src="./src/raw/inbox-outline.svg" width="30" alt="inbox-outline"> | [inbox-outline](./src/icons/InboxOutline.tsx) |
 | <img src="./src/raw/inbox-solid.svg" width="30" alt="inbox-solid"> | [inbox-solid](./src/icons/InboxSolid.tsx) |
 | <img src="./src/raw/indent-outline.svg" width="30" alt="indent-outline"> | [indent-outline](./src/icons/IndentOutline.tsx) |
@@ -288,10 +291,12 @@ export default Avatar;
 | <img src="./src/raw/layers-solid.svg" width="30" alt="layers-solid"> | [layers-solid](./src/icons/LayersSolid.tsx) |
 | <img src="./src/raw/letter-bold-outline.svg" width="30" alt="letter-bold-outline"> | [letter-bold-outline](./src/icons/LetterBoldOutline.tsx) |
 | <img src="./src/raw/lightbulb-solid.svg" width="30" alt="lightbulb-solid"> | [lightbulb-solid](./src/icons/LightbulbSolid.tsx) |
+| <img src="./src/raw/lightbulb-outline.svg" width="30" alt="lightbulb-outline"> | [lightbulb-outline](./src/icons/LightbulbOutline.tsx) |
 | <img src="./src/raw/lock-open-outline.svg" width="30" alt="lock-open-outline"> | [lock-open-outline](./src/icons/LockOpenOutline.tsx) |
 | <img src="./src/raw/lock-open-solid.svg" width="30" alt="lock-open-solid"> | [lock-open-solid](./src/icons/LockOpenSolid.tsx) |
 | <img src="./src/raw/lock-outline.svg" width="30" alt="lock-outline"> | [lock-outline](./src/icons/LockOutline.tsx) |
 | <img src="./src/raw/lock-solid.svg" width="30" alt="lock-solid"> | [lock-solid](./src/icons/LockSolid.tsx) |
+| <img src="./src/raw/lock-time-solid.svg" width="30" alt="lock-time-solid"> | [lock-time-solid](./src/icons/LockTimeSolid.tsx) |
 | <img src="./src/raw/mail-box-outline.svg" width="30" alt="mail-box-outline"> | [mail-box-outline](./src/icons/MailBoxOutline.tsx) |
 | <img src="./src/raw/mail-box-solid.svg" width="30" alt="mail-box-solid"> | [mail-box-solid](./src/icons/MailBoxSolid.tsx) |
 | <img src="./src/raw/map-pin-outline.svg" width="30" alt="map-pin-outline"> | [map-pin-outline](./src/icons/MapPinOutline.tsx) |
@@ -366,6 +371,8 @@ export default Avatar;
 | <img src="./src/raw/user-outline.svg" width="30" alt="user-outline"> | [user-outline](./src/icons/UserOutline.tsx) |
 | <img src="./src/raw/user-solid.svg" width="30" alt="user-solid"> | [user-solid](./src/icons/UserSolid.tsx) |
 | <img src="./src/raw/users-outline.svg" width="30" alt="users-outline"> | [users-outline](./src/icons/UsersOutline.tsx) |
+| <img src="./src/raw/users-group-outline.svg" width="30" alt="users-group-outline"> | [users-group-outline](./src/icons/UsersGroupOutline.tsx) |
+| <img src="./src/raw/users-group-solid.svg" width="30" alt="users-group-solid"> | [users-group-solid](./src/icons/UsersGroupSolid.tsx) |
 | <img src="./src/raw/users-solid.svg" width="30" alt="users-solid"> | [users-solid](./src/icons/UsersSolid.tsx) |
 | <img src="./src/raw/video-camera-outline.svg" width="30" alt="video-camera-outline"> | [video-camera-outline](./src/icons/VideoCameraOutline.tsx) |
 | <img src="./src/raw/video-camera-solid.svg" width="30" alt="video-camera-solid"> | [video-camera-solid](./src/icons/VideoCameraSolid.tsx) |

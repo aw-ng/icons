@@ -162,6 +162,7 @@ import FileMusicOutline from './FileMusicOutline';
 import FileMusicSolid from './FileMusicSolid';
 import FilePdfOutline from './FilePdfOutline';
 import FilePdfSolid from './FilePdfSolid';
+import FileSearchOutline from './FileSearchOutline';
 import FileVideoOutline from './FileVideoOutline';
 import FileVideoSolid from './FileVideoSolid';
 import FileWordOutline from './FileWordOutline';
@@ -191,6 +192,7 @@ import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
+import HeadphonesSolid from './HeadphonesSolid';
 import HeartOutline from './HeartOutline';
 import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
@@ -199,6 +201,7 @@ import HourglassOutline from './HourglassOutline';
 import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
 import ImageSolid from './ImageSolid';
+import InboxFullSolid from './InboxFullSolid';
 import InboxOutline from './InboxOutline';
 import InboxSolid from './InboxSolid';
 import IndentOutline from './IndentOutline';
@@ -211,10 +214,12 @@ import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
 import LetterBoldOutline from './LetterBoldOutline';
 import LightbulbSolid from './LightbulbSolid';
+import LightbulbOutline from './LightbulbOutline';
 import LockOpenOutline from './LockOpenOutline';
 import LockOpenSolid from './LockOpenSolid';
 import LockOutline from './LockOutline';
 import LockSolid from './LockSolid';
+import LockTimeSolid from './LockTimeSolid';
 import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinOutline from './MapPinOutline';
@@ -289,6 +294,8 @@ import UserCircleSolid from './UserCircleSolid';
 import UserOutline from './UserOutline';
 import UserSolid from './UserSolid';
 import UsersOutline from './UsersOutline';
+import UsersGroupOutline from './UsersGroupOutline';
+import UsersGroupSolid from './UsersGroupSolid';
 import UsersSolid from './UsersSolid';
 import VideoCameraOutline from './VideoCameraOutline';
 import VideoCameraSolid from './VideoCameraSolid';
@@ -473,6 +480,7 @@ export {
   FileMusicSolid,
   FilePdfOutline,
   FilePdfSolid,
+  FileSearchOutline,
   FileVideoOutline,
   FileVideoSolid,
   FileWordOutline,
@@ -502,6 +510,7 @@ export {
   GridPlusOutline,
   GridPlusSolid,
   GridSolid,
+  HeadphonesSolid,
   HeartOutline,
   HeartSolid,
   HomeOutline,
@@ -510,6 +519,7 @@ export {
   HourglassSolid,
   ImageOutline,
   ImageSolid,
+  InboxFullSolid,
   InboxOutline,
   InboxSolid,
   IndentOutline,
@@ -522,10 +532,12 @@ export {
   LayersSolid,
   LetterBoldOutline,
   LightbulbSolid,
+  LightbulbOutline,
   LockOpenOutline,
   LockOpenSolid,
   LockOutline,
   LockSolid,
+  LockTimeSolid,
   MailBoxOutline,
   MailBoxSolid,
   MapPinOutline,
@@ -600,6 +612,8 @@ export {
   UserOutline,
   UserSolid,
   UsersOutline,
+  UsersGroupOutline,
+  UsersGroupSolid,
   UsersSolid,
   VideoCameraOutline,
   VideoCameraSolid,
