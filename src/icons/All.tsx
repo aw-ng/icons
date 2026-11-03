@@ -213,6 +213,7 @@ import LanguageOutline from './LanguageOutline';
 import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
 import LetterBoldOutline from './LetterBoldOutline';
+import LightbulbSolid from './LightbulbSolid';
 import LightbulbOutline from './LightbulbOutline';
 import LockOpenOutline from './LockOpenOutline';
 import LockOpenSolid from './LockOpenSolid';
@@ -530,6 +531,7 @@ export {
   LayersOutline,
   LayersSolid,
   LetterBoldOutline,
+  LightbulbSolid,
   LightbulbOutline,
   LockOpenOutline,
   LockOpenSolid,
