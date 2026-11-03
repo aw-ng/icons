@@ -101,6 +101,7 @@ import ClipboardOutline from './ClipboardOutline';
 import ClipboardSolid from './ClipboardSolid';
 import ClockOutline from './ClockOutline';
 import ClockSolid from './ClockSolid';
+import CloseSidebarSolid from './CloseSidebarSolid';
 import CloudArrowUpOutline from './CloudArrowUpOutline';
 import CloudArrowUpSolid from './CloudArrowUpSolid';
 import CloudMeatballOutline from './CloudMeatballOutline';
@@ -422,6 +423,7 @@ export {
   ClipboardSolid,
   ClockOutline,
   ClockSolid,
+  CloseSidebarSolid,
   CloudArrowUpOutline,
   CloudArrowUpSolid,
   CloudMeatballOutline,
