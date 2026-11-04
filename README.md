@@ -366,6 +366,7 @@ export default Avatar;
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
 | <img src="./src/raw/sun-outline.svg" width="30" alt="sun-outline"> | [sun-outline](./src/icons/SunOutline.tsx) |
 | <img src="./src/raw/sun-solid.svg" width="30" alt="sun-solid"> | [sun-solid](./src/icons/SunSolid.tsx) |
+| <img src="./src/raw/table-row-solid.svg" width="30" alt="table-row-solid"> | [table-row-solid](./src/icons/TableRowSolid.tsx) |
 | <img src="./src/raw/tag-outline.svg" width="30" alt="tag-outline"> | [tag-outline](./src/icons/TagOutline.tsx) |
 | <img src="./src/raw/tag-solid.svg" width="30" alt="tag-solid"> | [tag-solid](./src/icons/TagSolid.tsx) |
 | <img src="./src/raw/teddy-bear-outline.svg" width="30" alt="teddy-bear-outline"> | [teddy-bear-outline](./src/icons/TeddyBearOutline.tsx) |

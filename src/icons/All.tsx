@@ -289,6 +289,7 @@ import StarSolid from './StarSolid';
 import StopSolid from './StopSolid';
 import SunOutline from './SunOutline';
 import SunSolid from './SunSolid';
+import TableRowSolid from './TableRowSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
 import TeddyBearOutline from './TeddyBearOutline';
@@ -638,6 +639,7 @@ export {
   ThumbsDownSolid,
   ThumbsUpOutline,
   ThumbsUpSolid,
+  TableRowSolid,
   TicketOutline,
   TicketSolid,
   TrackingSolid,
