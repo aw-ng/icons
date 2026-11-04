@@ -186,6 +186,7 @@ export default Avatar;
 | <img src="./src/raw/cloud-meatball-solid.svg" width="30" alt="cloud-meatball-solid"> | [cloud-meatball-solid](./src/icons/CloudMeatballSolid.tsx) |
 | <img src="./src/raw/code-branch-outline.svg" width="30" alt="code-branch-outline"> | [code-branch-outline](./src/icons/CodeBranchOutline.tsx) |
 | <img src="./src/raw/code-branch-solid.svg" width="30" alt="code-branch-solid"> | [code-branch-solid](./src/icons/CodeBranchSolid.tsx) |
+| <img src="./src/raw/code-fork-solid.svg" width="30" alt="code-fork-solid"> | [code-fork-solid](./src/icons/CodeForkSolid.tsx) |
 | <img src="./src/raw/code-merge-outline.svg" width="30" alt="code-merge-outline"> | [code-merge-outline](./src/icons/CodeMergeOutline.tsx) |
 | <img src="./src/raw/code-merge-solid.svg" width="30" alt="code-merge-solid"> | [code-merge-solid](./src/icons/CodeMergeSolid.tsx) |
 | <img src="./src/raw/code-outline.svg" width="30" alt="code-outline"> | [code-outline](./src/icons/CodeOutline.tsx) |
