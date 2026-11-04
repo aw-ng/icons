@@ -241,6 +241,7 @@ import MessageDotsSolid from './MessageDotsSolid';
 import MessagesOutline from './MessagesOutline';
 import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
+import MicroscopeSolid from './MicroscopeSolid';
 import MobilePhoneSolid from './MobilePhoneSolid';
 import MoonOutline from './MoonOutline';
 import MoonSolid from './MoonSolid';
@@ -575,6 +576,7 @@ export {
   MessagesOutline,
   MicrophoneOutline,
   MicrophoneSolid,
+  MicroscopeSolid,
   MobilePhoneSolid,
   MoonOutline,
   MoonSolid,
