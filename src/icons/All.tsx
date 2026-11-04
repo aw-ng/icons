@@ -132,6 +132,7 @@ import DocumentTextSolid from './DocumentTextSolid';
 import DollarOutline from './DollarOutline';
 import DownloadOutline from './DownloadOutline';
 import DownloadSolid from './DownloadSolid';
+import DrawSquareSolid from './DrawSquareSolid';
 import EditOutline from './EditOutline';
 import EditSolid from './EditSolid';
 import EggOutline from './EggOutline';
@@ -471,6 +472,7 @@ export {
   DollarOutline,
   DownloadOutline,
   DownloadSolid,
+  DrawSquareSolid,
   EditOutline,
   EditSolid,
   EggOutline,
