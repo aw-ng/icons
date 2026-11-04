@@ -209,6 +209,7 @@ export default Avatar;
 | <img src="./src/raw/dollar-outline.svg" width="30" alt="dollar-outline"> | [dollar-outline](./src/icons/DollarOutline.tsx) |
 | <img src="./src/raw/download-outline.svg" width="30" alt="download-outline"> | [download-outline](./src/icons/DownloadOutline.tsx) |
 | <img src="./src/raw/download-solid.svg" width="30" alt="download-solid"> | [download-solid](./src/icons/DownloadSolid.tsx) |
+| <img src="./src/raw/draw-square-solid.svg" width="30" alt="draw-square-solid"> | [draw-square-solid](./src/icons/DrawSquareSolid.tsx) |
 | <img src="./src/raw/edit-outline.svg" width="30" alt="edit-outline"> | [edit-outline](./src/icons/EditOutline.tsx) |
 | <img src="./src/raw/edit-solid.svg" width="30" alt="edit-solid"> | [edit-solid](./src/icons/EditSolid.tsx) |
 | <img src="./src/raw/egg-outline.svg" width="30" alt="egg-outline"> | [egg-outline](./src/icons/EggOutline.tsx) |
