@@ -159,6 +159,7 @@ export default Avatar;
 | <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
 | <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
 | <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
+| <img src="./src/raw/chart-mixed-dollar-solid.svg" width="30" alt="chart-mixed-dollar-solid"> | [chart-mixed-dollar-solid](./src/icons/ChartMixedDollarSolid.tsx) |
 | <img src="./src/raw/chart-pie-outline.svg" width="30" alt="chart-pie-outline"> | [chart-pie-outline](./src/icons/ChartPieOutline.tsx) |
 | <img src="./src/raw/chart-pie-solid.svg" width="30" alt="chart-pie-solid"> | [chart-pie-solid](./src/icons/ChartPieSolid.tsx) |
 | <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
