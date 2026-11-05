@@ -109,6 +109,7 @@ import CloudMeatballOutline from './CloudMeatballOutline';
 import CloudMeatballSolid from './CloudMeatballSolid';
 import CodeBranchOutline from './CodeBranchOutline';
 import CodeBranchSolid from './CodeBranchSolid';
+import CodeForkSolid from './CodeForkSolid';
 import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
 import CodeOutline from './CodeOutline';
@@ -450,6 +451,7 @@ export {
   CloudMeatballSolid,
   CodeBranchOutline,
   CodeBranchSolid,
+  CodeForkSolid,
   CodeMergeOutline,
   CodeMergeSolid,
   CodeOutline,
