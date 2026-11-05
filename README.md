@@ -157,6 +157,7 @@ export default Avatar;
 | <img src="./src/raw/camera-phone-solid.svg" width="30" alt="camera-phone-solid"> | [camera-phone-solid](./src/icons/CameraPhoneSolid.tsx) |
 | <img src="./src/raw/camera-photo-outline.svg" width="30" alt="camera-photo-outline"> | [camera-photo-outline](./src/icons/CameraPhotoOutline.tsx) |
 | <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
+| <img src="./src/raw/caret-down-solid.svg" width="30" alt="caret-down-solid"> | [caret-down-solid](./src/icons/CaretDownSoild.tsx) |
 | <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
 | <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
 | <img src="./src/raw/chart-mixed-dollar-solid.svg" width="30" alt="chart-mixed-dollar-solid"> | [chart-mixed-dollar-solid](./src/icons/ChartMixedDollarSolid.tsx) |

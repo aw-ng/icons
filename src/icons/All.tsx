@@ -80,9 +80,10 @@ import CameraPhoneOutline from './CameraPhoneOutline';
 import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
+import CaretDownSolid from './CaretDownSolid';
+import CaretSortSolid from './CaretSortSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
 import ChartMixedDollarSolid from './ChartMixedDollarSolid';
-import CaretSortSolid from './CaretSortSolid';
 import ChartPieOutline from './ChartPieOutline';
 import ChartPieSolid from './ChartPieSolid';
 import CheckCircleOutline from './CheckCircleOutline';
@@ -428,9 +429,10 @@ export {
   CameraPhoneSolid,
   CameraPhotoOutline,
   CameraPhotoSolid,
+  CaretDownSolid,
+  CaretSortSolid,
   ChartLineUpOutline,
   ChartMixedDollarSolid,
-  CaretSortSolid,
   ChartPieOutline,
   ChartPieSolid,
   CheckCircleOutline,
