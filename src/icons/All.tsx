@@ -269,6 +269,7 @@ import QuestionCircleOutline from './QuestionCircleOutline';
 import QuestionCircleSolid from './QuestionCircleSolid';
 import ReceiptOutline from './ReceiptOutline';
 import ReceiptSolid from './ReceiptSolid';
+import RectangleListOutline from './RectangleListOutline';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import RocketOutline from './RocketOutline';
@@ -612,6 +613,7 @@ export {
   QuestionCircleSolid,
   ReceiptOutline,
   ReceiptSolid,
+  RectangleListOutline,
   ReplyOutline,
   ReplySolid,
   RocketOutline,
