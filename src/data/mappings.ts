@@ -591,6 +591,7 @@ export const iconsMap: Record<string, string> = {
   'moon-solid': MoonSolid,
   'newspaper-outline': NewspaperOutline,
   'newspaper-solid': NewspaperSolid,
+  'open-sidebar-solid': OpenSidebarSolid,
   'palette-outline': PaletteOutline,
   'paper-clip-outline': PaperClipOutline,
   'paper-plane-outline': PaperPlaneOutline,
