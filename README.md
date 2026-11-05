@@ -240,6 +240,7 @@ export default Avatar;
 | <img src="./src/raw/file-copy-outline.svg" width="30" alt="file-copy-outline"> | [file-copy-outline](./src/icons/FileCopyOutline.tsx) |
 | <img src="./src/raw/file-copy-solid.svg" width="30" alt="file-copy-solid"> | [file-copy-solid](./src/icons/FileCopySolid.tsx) |
 | <img src="./src/raw/file-csv-solid.svg" width="30" alt="file-csv-solid"> | [file-csv-solid](./src/icons/FileCsvSolid.tsx) |
+| <img src="./src/raw/file-export-solid.svg" width="30" alt="file-export-solid"> | [file-export-solid](./src/icons/FileExportSolid.tsx) |
 | <img src="./src/raw/file-image-outline.svg" width="30" alt="file-image-outline"> | [file-image-outline](./src/icons/FileImageOutline.tsx) |
 | <img src="./src/raw/file-image-solid.svg" width="30" alt="file-image-solid"> | [file-image-solid](./src/icons/FileImageSolid.tsx) |
 | <img src="./src/raw/file-import-outline.svg" width="30" alt="file-import-outline"> | [file-import-outline](./src/icons/FileImportOutline.tsx) |
