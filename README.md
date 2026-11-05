@@ -331,6 +331,7 @@ export default Avatar;
 | <img src="./src/raw/palette-outline.svg" width="30" alt="palette-outline"> | [palette-outline](./src/icons/PaletteOutline.tsx) |
 | <img src="./src/raw/paper-clip-outline.svg" width="30" alt="paper-clip-outline"> | [paper-clip-outline](./src/icons/PaperClipOutline.tsx) |
 | <img src="./src/raw/paper-plane-outline.svg" width="30" alt="paper-plane-outline"> | [paper-plane-outline](./src/icons/PaperPlaneOutline.tsx) |
+| <img src="./src/raw/paper-plane-solid.svg" width="30" alt="paper-plane-solid"> | [paper-plane-solid](./src/icons/PaperPlaneSolid.tsx) |
 | <img src="./src/raw/pause-outline.svg" width="30" alt="pause-outline"> | [pause-outline](./src/icons/PauseOutline.tsx) |
 | <img src="./src/raw/pause-solid.svg" width="30" alt="pause-solid"> | [pause-solid](./src/icons/PauseSolid.tsx) |
 | <img src="./src/raw/pen-outline.svg" width="30" alt="pen-outline"> | [pen-outline](./src/icons/PenOutline.tsx) |

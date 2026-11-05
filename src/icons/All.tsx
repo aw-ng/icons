@@ -254,6 +254,7 @@ import NewspaperSolid from './NewspaperSolid';
 import PaletteOutline from './PaletteOutline';
 import PaperClipOutline from './PaperClipOutline';
 import PaperPlaneOutline from './PaperPlaneOutline';
+import PaperPlaneSolid from './PaperPlaneSolid';
 import PauseOutline from './PauseOutline';
 import PauseSolid from './PauseSolid';
 import PenOutline from './PenOutline';
@@ -596,6 +597,7 @@ export {
   PaletteOutline,
   PaperClipOutline,
   PaperPlaneOutline,
+  PaperPlaneSolid,
   PauseOutline,
   PauseSolid,
   PenOutline,
