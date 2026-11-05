@@ -281,6 +281,7 @@ import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import RocketOutline from './RocketOutline';
 import RocketSolid from './RocketSolid';
+import RulerCombinedSolid from './RulerCombinedSolid';
 import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ServerOutline from './ServerOutline';
@@ -632,6 +633,7 @@ export {
   ReplySolid,
   RocketOutline,
   RocketSolid,
+  RulerCombinedSolid,
   SearchOutline,
   SearchSolid,
   ServerOutline,

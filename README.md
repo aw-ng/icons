@@ -358,6 +358,7 @@ export default Avatar;
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
 | <img src="./src/raw/rocket-outline.svg" width="30" alt="rocket-outline"> | [rocket-outline](./src/icons/RocketOutline.tsx) |
 | <img src="./src/raw/rocket-solid.svg" width="30" alt="rocket-solid"> | [rocket-solid](./src/icons/RocketSolid.tsx) |
+| <img src="./src/raw/ruler-combined-solid.svg" width="30" alt="ruler-combined-solid"> | [ruler-combined-solid](./src/icons/RulerCombinedSolid.tsx) |
 | <img src="./src/raw/search-outline.svg" width="30" alt="search-outline"> | [search-outline](./src/icons/SearchOutline.tsx) |
 | <img src="./src/raw/search-solid.svg" width="30" alt="search-solid"> | [search-solid](./src/icons/SearchSolid.tsx) |
 | <img src="./src/raw/server-outline.svg" width="30" alt="server-outline"> | [server-outline](./src/icons/ServerOutline.tsx) |
