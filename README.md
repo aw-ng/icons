@@ -345,6 +345,7 @@ export default Avatar;
 | <img src="./src/raw/question-circle-solid.svg" width="30" alt="question-circle-solid"> | [question-circle-solid](./src/icons/QuestionCircleSolid.tsx) |
 | <img src="./src/raw/receipt-outline.svg" width="30" alt="receipt-outline"> | [receipt-outline](./src/icons/ReceiptOutline.tsx) |
 | <img src="./src/raw/receipt-solid.svg" width="30" alt="receipt-solid"> | [receipt-solid](./src/icons/ReceiptSolid.tsx) |
+| <img src="./src/raw/rectangle-list-outline.svg" width="30" alt="rectangle-list-outline"> | [rectangle-list-outline](./src/icons/RectangleListOutline.tsx) |
 | <img src="./src/raw/reply-outline.svg" width="30" alt="reply-outline"> | [reply-outline](./src/icons/ReplyOutline.tsx) |
 | <img src="./src/raw/reply-solid.svg" width="30" alt="reply-solid"> | [reply-solid](./src/icons/ReplySolid.tsx) |
 | <img src="./src/raw/rocket-outline.svg" width="30" alt="rocket-outline"> | [rocket-outline](./src/icons/RocketOutline.tsx) |
