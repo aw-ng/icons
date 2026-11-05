@@ -119,6 +119,7 @@ export default Avatar;
 | <img src="./src/raw/atom-outline.svg" width="30" alt="atom-outline"> | [atom-outline](./src/icons/AtomOutline.tsx) |
 | <img src="./src/raw/award-outline.svg" width="30" alt="award-outline"> | [award-outline](./src/icons/AwardOutline.tsx) |
 | <img src="./src/raw/award-solid.svg" width="30" alt="award-solid"> | [award-solid](./src/icons/AwardSolid.tsx) |
+| <img src="./src/raw/backward-step-solid.svg" width="30" alt="backward-step-solid"> | [backward-step-solid](./src/icons/BackwardStepSolid.tsx) |
 | <img src="./src/raw/badge-check-outline.svg" width="30" alt="badge-check-outline"> | [badge-check-outline](./src/icons/BadgeCheckOutline.tsx) |
 | <img src="./src/raw/badge-check-solid.svg" width="30" alt="badge-check-solid"> | [badge-check-solid](./src/icons/BadgeCheckSolid.tsx) |
 | <img src="./src/raw/ban-outline.svg" width="30" alt="ban-outline"> | [ban-outline](./src/icons/BanOutline.tsx) |

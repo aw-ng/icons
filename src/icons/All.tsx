@@ -42,6 +42,7 @@ import ArrowUpRightFromSquareSolid from './ArrowUpRightFromSquareSolid';
 import AtomOutline from './AtomOutline';
 import AwardOutline from './AwardOutline';
 import AwardSolid from './AwardSolid';
+import BackwardStepSolid from './BackwardStepSolid';
 import BadgeCheckOutline from './BadgeCheckOutline';
 import BadgeCheckSolid from './BadgeCheckSolid';
 import BanOutline from './BanOutline';
@@ -393,6 +394,7 @@ export {
   AtomOutline,
   AwardOutline,
   AwardSolid,
+  BackwardStepSolid,
   BadgeCheckOutline,
   BadgeCheckSolid,
   BanOutline,
