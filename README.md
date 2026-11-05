@@ -326,6 +326,7 @@ export default Avatar;
 | <img src="./src/raw/moon-solid.svg" width="30" alt="moon-solid"> | [moon-solid](./src/icons/MoonSolid.tsx) |
 | <img src="./src/raw/newspaper-outline.svg" width="30" alt="newspaper-outline"> | [newspaper-outline](./src/icons/NewspaperOutline.tsx) |
 | <img src="./src/raw/newspaper-solid.svg" width="30" alt="newspaper-solid"> | [newspaper-solid](./src/icons/NewspaperSolid.tsx) |
+| <img src="./src/raw/open-sidebar-solid.svg" width="30" alt="open-sidebar-solid"> | [open-sidebar-solid](./src/icons/OpenSidebarSolid.tsx) |
 | <img src="./src/raw/palette-outline.svg" width="30" alt="palette-outline"> | [palette-outline](./src/icons/PaletteOutline.tsx) |
 | <img src="./src/raw/paper-clip-outline.svg" width="30" alt="paper-clip-outline"> | [paper-clip-outline](./src/icons/PaperClipOutline.tsx) |
 | <img src="./src/raw/paper-plane-outline.svg" width="30" alt="paper-plane-outline"> | [paper-plane-outline](./src/icons/PaperPlaneOutline.tsx) |

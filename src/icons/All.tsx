@@ -249,6 +249,7 @@ import MoonOutline from './MoonOutline';
 import MoonSolid from './MoonSolid';
 import NewspaperOutline from './NewspaperOutline';
 import NewspaperSolid from './NewspaperSolid';
+import OpenSidebarSolid from './OpenSidebarSolid';
 import PaletteOutline from './PaletteOutline';
 import PaperClipOutline from './PaperClipOutline';
 import PaperPlaneOutline from './PaperPlaneOutline';
@@ -588,6 +589,7 @@ export {
   MoonSolid,
   NewspaperOutline,
   NewspaperSolid,
+  OpenSidebarSolid,
   PaletteOutline,
   PaperClipOutline,
   PaperPlaneOutline,

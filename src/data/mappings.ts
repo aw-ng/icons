@@ -250,6 +250,7 @@ import {
   MoonSolid,
   NewspaperOutline,
   NewspaperSolid,
+  OpenSidebarSolid,
   PaletteOutline,
   PaperClipOutline,
   PaperPlaneOutline,
