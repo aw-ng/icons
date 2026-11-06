@@ -99,6 +99,7 @@ import ChevronRightOutline from './ChevronRightOutline';
 import ChevronSortOutline from './ChevronSortOutline';
 import ChevronUpOutline from './ChevronUpOutline';
 import CirclePlusOutline from './CirclePlusOutline';
+import CirclePlusSolid from './CirclePlusSolid';
 import ClipboardCheckOutline from './ClipboardCheckOutline';
 import ClipboardCheckSolid from './ClipboardCheckSolid';
 import ClipboardOutline from './ClipboardOutline';
@@ -453,6 +454,7 @@ export {
   ChevronSortOutline,
   ChevronUpOutline,
   CirclePlusOutline,
+  CirclePlusSolid,
   ClipboardCheckSolid,
   ClipboardCheckOutline,
   ClipboardOutline,

@@ -176,6 +176,7 @@ export default Avatar;
 | <img src="./src/raw/chevron-sort-outline.svg" width="30" alt="chevron-sort-outline"> | [chevron-sort-outline](./src/icons/ChevronSortOutline.tsx) |
 | <img src="./src/raw/chevron-up-outline.svg" width="30" alt="chevron-up-outline"> | [chevron-up-outline](./src/icons/ChevronUpOutline.tsx) |
 | <img src="./src/raw/circle-plus-outline.svg" width="30" alt="circle-plus-outline"> | [circle-plus-outline](./src/icons/CirclePlusOutline.tsx) |
+| <img src="./src/raw/circle-plus-solid.svg" width="30" alt="circle-plus-solid"> | [circle-plus-solid](./src/icons/CirclePlusSolid.tsx) |
 | <img src="./src/raw/clipboard-check-outline.svg" width="30" alt="clipboard-check-outline"> | [clipboard-check-outline](./src/icons/ClipboardCheckOutline.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipboardCheckSolid.tsx) |
 | <img src="./src/raw/clipboard-outline.svg" width="30" alt="clipboard-outline"> | [clipboard-outline](./src/icons/ClipboardOutline.tsx) |
