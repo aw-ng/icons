@@ -175,6 +175,7 @@ export default Avatar;
 | <img src="./src/raw/chevron-right-outline.svg" width="30" alt="chevron-right-outline"> | [chevron-right-outline](./src/icons/ChevronRightOutline.tsx) |
 | <img src="./src/raw/chevron-sort-outline.svg" width="30" alt="chevron-sort-outline"> | [chevron-sort-outline](./src/icons/ChevronSortOutline.tsx) |
 | <img src="./src/raw/chevron-up-outline.svg" width="30" alt="chevron-up-outline"> | [chevron-up-outline](./src/icons/ChevronUpOutline.tsx) |
+| <img src="./src/raw/circle-minus-solid.svg" width="30" alt="circle-minus-solid"> | [circle-minus-solid](./src/icons/CircleMinusSolid.tsx) |
 | <img src="./src/raw/circle-plus-outline.svg" width="30" alt="circle-plus-outline"> | [circle-plus-outline](./src/icons/CirclePlusOutline.tsx) |
 | <img src="./src/raw/clipboard-check-outline.svg" width="30" alt="clipboard-check-outline"> | [clipboard-check-outline](./src/icons/ClipboardCheckOutline.tsx) |
 | <img src="./src/raw/clipboard-check-solid.svg" width="30" alt="clipboard-check-solid"> | [clipboard-check-solid](./src/icons/ClipboardCheckSolid.tsx) |
