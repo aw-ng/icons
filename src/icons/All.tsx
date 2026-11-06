@@ -123,6 +123,7 @@ import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
 import DatabaseOutline from './DatabaseOutline';
 import DatabaseSolid from './DatabaseSolid';
+import DesktopPcOutline from './DesktopPcOutline';
 import DeviceMobileOutline from './DeviceMobileOutline';
 import DeviceTabletOutline from './DeviceTabletOutline';
 import DeviceTabletSolid from './DeviceTabletSolid';
@@ -477,6 +478,7 @@ export {
   CubeSolid,
   DatabaseOutline,
   DatabaseSolid,
+  DesktopPcOutline,
   DeviceMobileOutline,
   DeviceTabletOutline,
   DeviceTabletSolid,

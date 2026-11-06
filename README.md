@@ -200,6 +200,7 @@ export default Avatar;
 | <img src="./src/raw/cube-solid.svg" width="30" alt="cube-solid"> | [cube-solid](./src/icons/CubeSolid.tsx) |
 | <img src="./src/raw/database-outline.svg" width="30" alt="database-outline"> | [database-outline](./src/icons/DatabaseOutline.tsx) |
 | <img src="./src/raw/database-solid.svg" width="30" alt="database-solid"> | [database-solid](./src/icons/DatabaseSolid.tsx) |
+| <img src="./src/raw/desktop-pc-outline.svg" width="30" alt="desktop-pc-outline"> | [desktop-pc-outline](./src/icons/DesktopPcOutline.tsx) |
 | <img src="./src/raw/device-mobile-outline.svg" width="30" alt="device-mobile-outline"> | [device-mobile-outline](./src/icons/DeviceMobileOutline.tsx) |
 | <img src="./src/raw/device-tablet-outline.svg" width="30" alt="device-tablet-outline"> | [device-tablet-outline](./src/icons/DeviceTabletOutline.tsx) |
 | <img src="./src/raw/device-tablet-solid.svg" width="30" alt="device-tablet-solid"> | [device-tablet-solid](./src/icons/DeviceTabletSolid.tsx) |
