@@ -182,6 +182,7 @@ export default Avatar;
 | <img src="./src/raw/clipboard-solid.svg" width="30" alt="clipboard-solid"> | [clipboard-solid](./src/icons/ClipboardSolid.tsx) |
 | <img src="./src/raw/clock-outline.svg" width="30" alt="clock-outline"> | [clock-outline](./src/icons/ClockOutline.tsx) |
 | <img src="./src/raw/clock-solid.svg" width="30" alt="clock-solid"> | [clock-solid](./src/icons/ClockSolid.tsx) |
+| <img src="./src/raw/close-circle-solid.svg" width="30" alt="close-circle-solid"> | [close-circle-solid](./src/icons/CloseCircleSolid.tsx) |
 | <img src="./src/raw/close-sidebar-solid.svg" width="30" alt="close-sidebar-solid"> | [close-sidebar-solid](./src/icons/CloseSidebarSolid.tsx) |
 | <img src="./src/raw/cloud-arrow-up-outline.svg" width="30" alt="cloud-arrow-up-outline"> | [cloud-arrow-up-outline](./src/icons/CloudArrowUpOutline.tsx) |
 | <img src="./src/raw/cloud-arrow-up-solid.svg" width="30" alt="cloud-arrow-up-solid"> | [cloud-arrow-up-solid](./src/icons/CloudArrowUpSolid.tsx) |
