@@ -167,6 +167,7 @@ import FileCopyOutline from './FileCopyOutline';
 import FileCopySolid from './FileCopySolid';
 import FileCsvOutline from './FileCsvOutline';
 import FileCsvSolid from './FileCsvSolid';
+import FileExportSolid from './FileExportSolid';
 import FileImageOutline from './FileImageOutline';
 import FileImageSolid from './FileImageSolid';
 import FileImportOutline from './FileImportOutline';
@@ -524,6 +525,7 @@ export {
   FileCopySolid,
   FileCsvOutline,
   FileCsvSolid,
+  FileExportSolid,
   FileImageOutline,
   FileImageSolid,
   FileImportOutline,
