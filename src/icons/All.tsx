@@ -322,6 +322,7 @@ import ThumbsUpOutline from './ThumbsUpOutline';
 import ThumbsUpSolid from './ThumbsUpSolid';
 import TicketOutline from './TicketOutline';
 import TicketSolid from './TicketSolid';
+import TrackingOutline from './TrackingOutline';
 import TrackingSolid from './TrackingSolid';
 import TrashBinOutline from './TrashBinOutline';
 import TrashBinSolid from './TrashBinSolid';
@@ -684,6 +685,7 @@ export {
   TableRowSolid,
   TicketOutline,
   TicketSolid,
+  TrackingOutline,
   TrackingSolid,
   TrashBinOutline,
   TrashBinSolid,
