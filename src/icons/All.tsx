@@ -306,6 +306,7 @@ import TableRowSolid from './TableRowSolid';
 import TagOutline from './TagOutline';
 import TagSolid from './TagSolid';
 import TeddyBearOutline from './TeddyBearOutline';
+import TeddyBearSolid from './TeddyBearSolid';
 import TerminalOutline from './TerminalOutline';
 import TerminalSolid from './TerminalSolid';
 import ThumbsDownOutline from './ThumbsDownOutline';
@@ -659,6 +660,7 @@ export {
   TagOutline,
   TagSolid,
   TeddyBearOutline,
+  TeddyBearSolid,
   TerminalOutline,
   TerminalSolid,
   ThumbsDownOutline,
