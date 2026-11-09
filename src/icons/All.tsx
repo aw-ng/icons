@@ -166,6 +166,7 @@ import FileChartBarOutline from './FileChartBarOutline';
 import FileChartBarSolid from './FileChartBarSolid';
 import FileChartOutline from './FileChartOutline';
 import FileCirclePlusOutline from './FileCirclePlusOutline';
+import FileCirclePlusSolid from './FileCirclePlusSolid';
 import FileCloneOutline from './FileCloneOutline';
 import FileCloneSolid from './FileCloneSolid';
 import FileCodeOutline from './FileCodeOutline';
@@ -538,6 +539,7 @@ export {
   FileChartBarSolid,
   FileChartOutline,
   FileCirclePlusOutline,
+  FileCirclePlusSolid,
   FileCloneOutline,
   FileCloneSolid,
   FileCodeOutline,
