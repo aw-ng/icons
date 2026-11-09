@@ -306,8 +306,8 @@ export default Avatar;
 | <img src="./src/raw/info-circle-outline.svg" width="30" alt="info-circle-outline"> | [info-circle-outline](./src/icons/InfoCircleOutline.tsx) |
 | <img src="./src/raw/info-circle-solid.svg" width="30" alt="info-circle-solid"> | [info-circle-solid](./src/icons/InfoCircleSolid.tsx) |
 | <img src="./src/raw/instagram-solid.svg" width="30" alt="instagram-solid"> | [instagram-solid](./src/icons/InstagramSolid.tsx) |
-| <img src="./src/raw/Keyboard-outline.svg" width="30" alt="Keyboard-outline"> | [Keyboard-outline](./src/icons/KeyboardOutline.tsx) |
-| <img src="./src/raw/Keyboard-solid.svg" width="30" alt="Keyboard-solid"> | [Keyboard-solid](./src/icons/KeyboardSolid.tsx) |
+| <img src="./src/raw/keyboard-outline.svg" width="30" alt="keyboard-outline"> | [keyboard-outline](./src/icons/KeyboardOutline.tsx) |
+| <img src="./src/raw/keyboard-solid.svg" width="30" alt="keyboard-solid"> | [keyboard-solid](./src/icons/KeyboardSolid.tsx) |
 | <img src="./src/raw/language-outline.svg" width="30" alt="language-outline"> | [language-outline](./src/icons/LanguageOutline.tsx) |
 | <img src="./src/raw/laptop-code-outline.svg" width="30" alt="laptop-code-outline"> | [laptop-code-outline](./src/icons/LaptopCodeOutline.tsx) |
 | <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
