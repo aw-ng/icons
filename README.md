@@ -349,6 +349,7 @@ export default Avatar;
 | <img src="./src/raw/newspaper-outline.svg" width="30" alt="newspaper-outline"> | [newspaper-outline](./src/icons/NewspaperOutline.tsx) |
 | <img src="./src/raw/newspaper-solid.svg" width="30" alt="newspaper-solid"> | [newspaper-solid](./src/icons/NewspaperSolid.tsx) |
 | <img src="./src/raw/open-sidebar-solid.svg" width="30" alt="open-sidebar-solid"> | [open-sidebar-solid](./src/icons/OpenSidebarSolid.tsx) |
+| <img src="./src/raw/outdent-solid.svg" width="30" alt="outdent-solid"> | [outdent-solid](./src/icons/OutdentSolid.tsx) |
 | <img src="./src/raw/palette-outline.svg" width="30" alt="palette-outline"> | [palette-outline](./src/icons/PaletteOutline.tsx) |
 | <img src="./src/raw/palette-solid.svg" width="30" alt="palette-solid"> | [palette-solid](./src/icons/PaletteSolid.tsx) |
 | <img src="./src/raw/paper-clip-outline.svg" width="30" alt="paper-clip-outline"> | [paper-clip-outline](./src/icons/PaperClipOutline.tsx) |
