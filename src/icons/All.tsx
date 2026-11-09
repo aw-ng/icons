@@ -57,6 +57,7 @@ import BitcoinSolid from './BitcoinSolid';
 import BookmarkOutline from './BookmarkOutline';
 import BookmarkSolid from './BookmarkSolid';
 import BookOpenOutline from './BookOpenOutline';
+import BookOpenReaderOutline from './BookOpenReaderOutline';
 import BookOpenSolid from './BookOpenSolid';
 import BookOutline from './BookOutline';
 import BookSolid from './BookSolid';
@@ -411,6 +412,7 @@ export {
   BookmarkOutline,
   BookmarkSolid,
   BookOpenOutline,
+  BookOpenReaderOutline,
   BookOpenSolid,
   BookOutline,
   BookSolid,
