@@ -91,6 +91,7 @@ import ChartPieSolid from './ChartPieSolid';
 import CheckCircleOutline from './CheckCircleOutline';
 import CheckCircleSolid from './CheckCircleSolid';
 import CheckOutline from './CheckOutline';
+import CheckPlusCircleSolid from './CheckPlusCircleSolid';
 import ChevronDoubleDownOutline from './ChevronDoubleDownOutline';
 import ChevronDoubleLeftOutline from './ChevronDoubleLeftOutline';
 import ChevronDoubleRightOutline from './ChevronDoubleRightOutline';
@@ -467,6 +468,7 @@ export {
   CheckCircleOutline,
   CheckCircleSolid,
   CheckOutline,
+  CheckPlusCircleSolid,
   ChevronDoubleDownOutline,
   ChevronDoubleLeftOutline,
   ChevronDoubleRightOutline,
