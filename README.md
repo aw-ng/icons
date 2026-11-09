@@ -400,6 +400,7 @@ export default Avatar;
 | <img src="./src/raw/thumbs-up-solid.svg" width="30" alt="thumbs-up-solid"> | [thumbs-up-solid](./src/icons/ThumbsUpSolid.tsx) |
 | <img src="./src/raw/ticket-outline.svg" width="30" alt="ticket-outline"> | [ticket-outline](./src/icons/TicketOutline.tsx) |
 | <img src="./src/raw/ticket-solid.svg" width="30" alt="ticket-solid"> | [ticket-solid](./src/icons/TicketSolid.tsx) |
+| <img src="./src/raw/tracking-outline.svg" width="30" alt="tracking-outline"> | [tracking-outline](./src/icons/TrackingOutline.tsx) |
 | <img src="./src/raw/tracking-solid.svg" width="30" alt="tracking-solid"> | [tracking-solid](./src/icons/TrackingSolid.tsx) |
 | <img src="./src/raw/trash-bin-outline.svg" width="30" alt="trash-bin-outline"> | [trash-bin-outline](./src/icons/TrashBinOutline.tsx) |
 | <img src="./src/raw/trash-bin-solid.svg" width="30" alt="trash-bin-solid"> | [trash-bin-solid](./src/icons/TrashBinSolid.tsx) |
