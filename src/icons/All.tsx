@@ -253,6 +253,7 @@ import MessageCaptionSolid from './MessageCaptionSolid';
 import MessageDotsOutline from './MessageDotsOutline';
 import MessageDotsSolid from './MessageDotsSolid';
 import MessagesOutline from './MessagesOutline';
+import MessagesSolid from './MessagesSolid';
 import MicrophoneOutline from './MicrophoneOutline';
 import MicrophoneSolid from './MicrophoneSolid';
 import MicroscopeSolid from './MicroscopeSolid';
@@ -611,6 +612,7 @@ export {
   MessageDotsOutline,
   MessageDotsSolid,
   MessagesOutline,
+  MessagesSolid,
   MicrophoneOutline,
   MicrophoneSolid,
   MicroscopeSolid,
