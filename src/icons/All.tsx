@@ -652,6 +652,7 @@ export {
   ReceiptOutline,
   ReceiptSolid,
   RectangleListOutline,
+  RectangleListSolid,
   ReplyOutline,
   ReplySolid,
   RocketOutline,
