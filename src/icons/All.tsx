@@ -214,6 +214,7 @@ import GridOutline from './GridOutline';
 import GridPlusOutline from './GridPlusOutline';
 import GridPlusSolid from './GridPlusSolid';
 import GridSolid from './GridSolid';
+import HeadphonesOutline from './HeadphonesOutline';
 import HeadphonesSolid from './HeadphonesSolid';
 import HeartOutline from './HeartOutline';
 import HeartSolid from './HeartSolid';
@@ -575,6 +576,7 @@ export {
   GridPlusOutline,
   GridPlusSolid,
   GridSolid,
+  HeadphonesOutline,
   HeadphonesSolid,
   HeartOutline,
   HeartSolid,
