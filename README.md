@@ -378,6 +378,7 @@ export default Avatar;
 | <img src="./src/raw/stop-solid.svg" width="30" alt="stop-solid"> | [stop-solid](./src/icons/StopSolid.tsx) |
 | <img src="./src/raw/sun-outline.svg" width="30" alt="sun-outline"> | [sun-outline](./src/icons/SunOutline.tsx) |
 | <img src="./src/raw/sun-solid.svg" width="30" alt="sun-solid"> | [sun-solid](./src/icons/SunSolid.tsx) |
+| <img src="./src/raw/table-column-outline.svg" width="30" alt="table-column-outline"> | [table-column-outline](./src/icons/TableColumnOutline.tsx) |
 | <img src="./src/raw/table-column-solid.svg" width="30" alt="table-column-solid"> | [table-column-solid](./src/icons/TableColumnSolid.tsx) |
 | <img src="./src/raw/table-row-solid.svg" width="30" alt="table-row-solid"> | [table-row-solid](./src/icons/TableRowSolid.tsx) |
 | <img src="./src/raw/tag-outline.svg" width="30" alt="tag-outline"> | [tag-outline](./src/icons/TagOutline.tsx) |

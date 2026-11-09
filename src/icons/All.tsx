@@ -301,6 +301,7 @@ import StarSolid from './StarSolid';
 import StopSolid from './StopSolid';
 import SunOutline from './SunOutline';
 import SunSolid from './SunSolid';
+import TableColumnOutline from './TableColumnOutline';
 import TableColumnSolid from './TableColumnSolid';
 import TableRowSolid from './TableRowSolid';
 import TagOutline from './TagOutline';
@@ -655,6 +656,7 @@ export {
   StopSolid,
   SunOutline,
   SunSolid,
+  TableColumnOutline,
   TableColumnSolid,
   TagOutline,
   TagSolid,
