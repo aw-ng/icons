@@ -287,6 +287,7 @@ import QuestionCircleSolid from './QuestionCircleSolid';
 import ReceiptOutline from './ReceiptOutline';
 import ReceiptSolid from './ReceiptSolid';
 import RectangleListOutline from './RectangleListOutline';
+import RectangleListSolid from './RectangleListSolid';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import RocketOutline from './RocketOutline';
