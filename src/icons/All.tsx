@@ -116,6 +116,7 @@ import CodeForkSolid from './CodeForkSolid';
 import CodeMergeOutline from './CodeMergeOutline';
 import CodeMergeSolid from './CodeMergeSolid';
 import CodeOutline from './CodeOutline';
+import CodePullRequestSolid from './CodePullRequestSolid';
 import CogOutline from './CogOutline';
 import CogSolid from './CogSolid';
 import CreditCardOutline from './CreditCardOutline';
@@ -470,6 +471,7 @@ export {
   CodeMergeOutline,
   CodeMergeSolid,
   CodeOutline,
+  CodePullRequestSolid,
   CogOutline,
   CogSolid,
   CreditCardOutline,

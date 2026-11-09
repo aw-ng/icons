@@ -193,6 +193,7 @@ export default Avatar;
 | <img src="./src/raw/code-merge-outline.svg" width="30" alt="code-merge-outline"> | [code-merge-outline](./src/icons/CodeMergeOutline.tsx) |
 | <img src="./src/raw/code-merge-solid.svg" width="30" alt="code-merge-solid"> | [code-merge-solid](./src/icons/CodeMergeSolid.tsx) |
 | <img src="./src/raw/code-outline.svg" width="30" alt="code-outline"> | [code-outline](./src/icons/CodeOutline.tsx) |
+| <img src="./src/raw/code-pull-request-solid.svg" width="30" alt="code-pull-request-solid"> | [code-pull-request-solid](./src/icons/CodePullRequestSolid.tsx) |
 | <img src="./src/raw/cog-outline.svg" width="30" alt="cog-outline"> | [cog-outline](./src/icons/CogOutline.tsx) |
 | <img src="./src/raw/cog-solid.svg" width="30" alt="cog-solid"> | [cog-solid](./src/icons/CogSolid.tsx) |
 | <img src="./src/raw/credit-card-outline.svg" width="30" alt="credit-card-outline"> | [credit-card-outline](./src/icons/CreditCardOutline.tsx) |
