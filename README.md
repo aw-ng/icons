@@ -242,11 +242,8 @@ export default Avatar;
 | <img src="./src/raw/file-chart-bar-outline.svg" width="30" alt="file-chart-bar-outline"> | [file-chart-bar-outline](./src/icons/FileChartBarOutline.tsx) |
 | <img src="./src/raw/file-chart-bar-solid.svg" width="30" alt="file-chart-bar-solid"> | [file-chart-bar-solid](./src/icons/FileChartBarSolid.tsx) |
 | <img src="./src/raw/file-chart-outline.svg" width="30" alt="file-chart-outline"> | [file-chart-outline](./src/icons/FileChartOutline.tsx) |
-<<<<<<< HEAD
 | <img src="./src/raw/file-circle-plus-outline.svg" width="30" alt="file-circle-plus-outline"> | [file-circle-plus-outline](./src/icons/FileCirclePlusOutline.tsx) |
-=======
 | <img src="./src/raw/file-circle-plus-solid.svg" width="30" alt="file-circle-plus-solid"> | [file-circle-plus-solid](./src/icons/FileCirclePlusSolid.tsx) |
->>>>>>> 330e8b9 (feat: update readme file)
 | <img src="./src/raw/file-clone-outline.svg" width="30" alt="file-clone-outline"> | [file-clone-outline](./src/icons/FileCloneOutline.tsx) |
 | <img src="./src/raw/file-clone-solid.svg" width="30" alt="file-clone-solid"> | [file-clone-solid](./src/icons/FileCloneSolid.tsx) |
 | <img src="./src/raw/file-code-outline.svg" width="30" alt="file-code-outline"> | [file-code-outline](./src/icons/FileCodeOutline.tsx) |
