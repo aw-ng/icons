@@ -245,6 +245,7 @@ import KeyboardOutline from './KeyboardOutline';
 import KeyboardSolid from './KeyboardSolid';
 import LanguageOutline from './LanguageOutline';
 import LaptopCodeOutline from './LaptopCodeOutline';
+import LaptopCodeSolid from './LaptopCodeSolid';
 import LayersOutline from './LayersOutline';
 import LayersSolid from './LayersSolid';
 import LetterBoldOutline from './LetterBoldOutline';
@@ -625,6 +626,7 @@ export {
   KeyboardSolid,
   LanguageOutline,
   LaptopCodeOutline,
+  LaptopCodeSolid,
   LayersOutline,
   LayersSolid,
   LetterBoldOutline,
