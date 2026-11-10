@@ -301,6 +301,7 @@ import SearchOutline from './SearchOutline';
 import SearchSolid from './SearchSolid';
 import ServerOutline from './ServerOutline';
 import ServerSolid from './ServerSolid';
+import ShareAllSolid from './ShareAllSolid';
 import ShareNodesSolid from './ShareNodesSolid';
 import ShieldCheckOutline from './ShieldCheckOutline';
 import ShieldCheckSolid from './ShieldCheckSolid';
@@ -671,6 +672,7 @@ export {
   SearchSolid,
   ServerOutline,
   ServerSolid,
+  ShareAllSolid,
   ShareNodesSolid,
   ShieldCheckOutline,
   ShieldCheckSolid,
