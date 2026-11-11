@@ -168,6 +168,7 @@ export default Avatar;
 | <img src="./src/raw/check-circle-outline.svg" width="30" alt="check-circle-outline"> | [check-circle-outline](./src/icons/CheckCircleoutline.tsx) |
 | <img src="./src/raw/check-circle-solid.svg" width="30" alt="check-circle-solid"> | [check-circle-solid](./src/icons/CheckCircleSolid.tsx) |
 | <img src="./src/raw/check-outline.svg" width="30" alt="check-outline"> | [check-outline](./src/icons/CheckOutline.tsx) |
+| <img src="./src/raw/check-plus-circle-solid.svg" width="30" alt="check-plus-circle-solid"> | [check-plus-circle-solid](./src/icons/CheckPlusCircleSolid.tsx) |
 | <img src="./src/raw/chevron-double-down-outline.svg" width="30" alt="chevron-double-down-outline"> | [chevron-double-down-outline](./src/icons/ChevronDoubleDownOutline.tsx) |
 | <img src="./src/raw/chevron-double-left-outline.svg" width="30" alt="chevron-double-left-outline"> | [chevron-double-left-outline](./src/icons/ChevronDoubleLeftOutline.tsx) |
 | <img src="./src/raw/chevron-double-right-outline.svg" width="30" alt="chevron-double-right-outline"> | [chevron-double-right-outline](./src/icons/ChevronDoubleRightOutline.tsx) |
