@@ -391,6 +391,7 @@ export default Avatar;
 | <img src="./src/raw/search-solid.svg" width="30" alt="search-solid"> | [search-solid](./src/icons/SearchSolid.tsx) |
 | <img src="./src/raw/server-outline.svg" width="30" alt="server-outline"> | [server-outline](./src/icons/ServerOutline.tsx) |
 | <img src="./src/raw/server-solid.svg" width="30" alt="server-solid"> | [server-solid](./src/icons/ServerSolid.tsx) |
+| <img src="./src/raw/share-all-outline.svg" width="30" alt="share-all-outline"> | [share-all-outline](./src/icons/ShareAllOutline.tsx) |
 | <img src="./src/raw/share-all-solid.svg" width="30" alt="share-all-solid"> | [share-all-solid](./src/icons/ShareAllSolid.tsx) |
 | <img src="./src/raw/share-nodes-outline.svg" width="30" alt="share-nodes-outline"> | [share-nodes-outline](./src/icons/ShareNodesOutline.tsx) |
 | <img src="./src/raw/share-nodes-solid.svg" width="30" alt="share-nodes-solid"> | [share-nodes-solid](./src/icons/ShareNodesSolid.tsx) |
