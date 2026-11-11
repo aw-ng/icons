@@ -162,6 +162,7 @@ export default Avatar;
 | <img src="./src/raw/caret-down-solid.svg" width="30" alt="caret-down-solid"> | [caret-down-solid](./src/icons/CaretDownSoild.tsx) |
 | <img src="./src/raw/caret-right-solid.svg" width="30" alt="caret-right-solid"> | [caret-right-solid](./src/icons/CaretRightSoild.tsx) |
 | <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
+| <img src="./src/raw/caret-up-solid.svg" width="30" alt="caret-up-solid"> | [caret-up-solid](./src/icons/CaretUpSoild.tsx) |
 | <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |
 | <img src="./src/raw/chart-mixed-dollar-solid.svg" width="30" alt="chart-mixed-dollar-solid"> | [chart-mixed-dollar-solid](./src/icons/ChartMixedDollarSolid.tsx) |
 | <img src="./src/raw/chart-pie-outline.svg" width="30" alt="chart-pie-outline"> | [chart-pie-outline](./src/icons/ChartPieOutline.tsx) |
