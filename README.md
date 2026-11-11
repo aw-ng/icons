@@ -323,6 +323,7 @@ export default Avatar;
 | <img src="./src/raw/keyboard-solid.svg" width="30" alt="keyboard-solid"> | [keyboard-solid](./src/icons/KeyboardSolid.tsx) |
 | <img src="./src/raw/language-outline.svg" width="30" alt="language-outline"> | [language-outline](./src/icons/LanguageOutline.tsx) |
 | <img src="./src/raw/laptop-code-outline.svg" width="30" alt="laptop-code-outline"> | [laptop-code-outline](./src/icons/LaptopCodeOutline.tsx) |
+| <img src="./src/raw/laptop-code-solid.svg" width="30" alt="laptop-code-solid"> | [laptop-code-solid](./src/icons/LaptopCodeSolid.tsx) |
 | <img src="./src/raw/layers-outline.svg" width="30" alt="layers-outline"> | [layers-outline](./src/icons/LayersOutline.tsx) |
 | <img src="./src/raw/layers-solid.svg" width="30" alt="layers-solid"> | [layers-solid](./src/icons/LayersSolid.tsx) |
 | <img src="./src/raw/letter-bold-outline.svg" width="30" alt="letter-bold-outline"> | [letter-bold-outline](./src/icons/LetterBoldOutline.tsx) |
