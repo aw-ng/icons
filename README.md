@@ -307,6 +307,7 @@ export default Avatar;
 | <img src="./src/raw/heart-solid.svg" width="30" alt="heart-solid"> | [heart-solid](./src/icons/HeartSolid.tsx) |
 | <img src="./src/raw/home-outline.svg" width="30" alt="home-outline"> | [home-outline](./src/icons/HomeOutline.tsx) |
 | <img src="./src/raw/home-solid.svg" width="30" alt="home-solid"> | [home-solid](./src/icons/HomeSolid.tsx) |
+| <img src="./src/raw/horizontal-lines-outline.svg" width="30" alt="horizontal-lines-outline"> | [horizontal-lines-outline](./src/icons/HorizontalLinesOutline.tsx) |
 | <img src="./src/raw/hourglass-outline.svg" width="30" alt="hourglass-outline"> | [hourglass-outline](./src/icons/HourglassOutline.tsx) |
 | <img src="./src/raw/hourglass-solid.svg" width="30" alt="hourglass-solid"> | [hourglass-solid](./src/icons/HourglassSolid.tsx) |
 | <img src="./src/raw/image-outline.svg" width="30" alt="image-outline"> | [image-outline](./src/icons/ImageOutline.tsx) |
