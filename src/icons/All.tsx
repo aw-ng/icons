@@ -264,6 +264,7 @@ import LockTimeSolid from './LockTimeSolid';
 import MailBoxOutline from './MailBoxOutline';
 import MailBoxSolid from './MailBoxSolid';
 import MapPinAltOutline from './MapPinAltOutline';
+import MapPinAltSolid from './MapPinAltSolid';
 import MapPinOutline from './MapPinOutline';
 import MapPinSolid from './MapPinSolid';
 import MessageCaptionOutline from './MessageCaptionOutline';
@@ -649,6 +650,7 @@ export {
   MailBoxOutline,
   MailBoxSolid,
   MapPinAltOutline,
+  MapPinAltSolid,
   MapPinOutline,
   MapPinSolid,
   MessageCaptionOutline,
