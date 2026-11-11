@@ -230,6 +230,7 @@ import HeartOutline from './HeartOutline';
 import HeartSolid from './HeartSolid';
 import HomeOutline from './HomeOutline';
 import HomeSolid from './HomeSolid';
+import HorizontalLinesOutline from './HorizontalLinesOutline';
 import HourglassOutline from './HourglassOutline';
 import HourglassSolid from './HourglassSolid';
 import ImageOutline from './ImageOutline';
@@ -612,6 +613,7 @@ export {
   HeartSolid,
   HomeOutline,
   HomeSolid,
+  HorizontalLinesOutline,
   HourglassOutline,
   HourglassSolid,
   ImageOutline,
