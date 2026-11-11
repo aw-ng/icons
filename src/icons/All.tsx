@@ -83,6 +83,7 @@ import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
 import CaretDownSolid from './CaretDownSolid';
+import CaretRightSolid from './CaretRightSolid';
 import CaretSortSolid from './CaretSortSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
 import ChartMixedDollarSolid from './ChartMixedDollarSolid';
@@ -462,6 +463,7 @@ export {
   CameraPhotoOutline,
   CameraPhotoSolid,
   CaretDownSolid,
+  CaretRightSolid,
   CaretSortSolid,
   ChartLineUpOutline,
   ChartMixedDollarSolid,
