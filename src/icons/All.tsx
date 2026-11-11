@@ -132,6 +132,7 @@ import CogSolid from './CogSolid';
 import CreditCardOutline from './CreditCardOutline';
 import CreditCardSolid from './CreditCardSolid';
 import CubeSolid from './CubeSolid';
+import CubesStackedOutline from './CubesStackedOutline';
 import DatabaseOutline from './DatabaseOutline';
 import DatabaseSolid from './DatabaseSolid';
 import DesktopPcOutline from './DesktopPcOutline';
@@ -512,6 +513,7 @@ export {
   CreditCardOutline,
   CreditCardSolid,
   CubeSolid,
+  CubesStackedOutline,
   DatabaseOutline,
   DatabaseSolid,
   DesktopPcOutline,
