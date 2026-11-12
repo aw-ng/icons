@@ -342,6 +342,7 @@ export default Avatar;
 | <img src="./src/raw/mail-box-outline.svg" width="30" alt="mail-box-outline"> | [mail-box-outline](./src/icons/MailBoxOutline.tsx) |
 | <img src="./src/raw/mail-box-solid.svg" width="30" alt="mail-box-solid"> | [mail-box-solid](./src/icons/MailBoxSolid.tsx) |
 | <img src="./src/raw/map-pin-alt-outline.svg" width="30" alt="map-pin-alt-outline"> | [map-pin-alt-outline](./src/icons/MapPinAltOutline.tsx) |
+| <img src="./src/raw/map-pin-alt-solid.svg" width="30" alt="map-pin-alt-solid"> | [map-pin-alt-solid](./src/icons/MapPinAltSolid.tsx) |
 | <img src="./src/raw/map-pin-outline.svg" width="30" alt="map-pin-outline"> | [map-pin-outline](./src/icons/MapPinOutline.tsx) |
 | <img src="./src/raw/map-pin-solid.svg" width="30" alt="map-pin-solid"> | [map-pin-solid](./src/icons/MapPinSolid.tsx) |
 | <img src="./src/raw/message-caption-outline.svg" width="30" alt="message-caption-outline"> | [message-caption-outline](./src/icons/MessageCaptionOutline.tsx) |
