@@ -215,6 +215,7 @@ import FolderSolid from './FolderSolid';
 import FontColorAltSolid from './FontColorAltSolid';
 import ForwardOutline from './ForwardOutline';
 import ForwardSolid from './ForwardSolid';
+import ForwardStepSolid from './ForwardStepSolid';
 import GiftBoxOutline from './GiftBoxOutline';
 import GiftBoxSolid from './GiftBoxSolid';
 import GlobeOutline from './GlobeOutline';
@@ -600,6 +601,7 @@ export {
   FontColorAltSolid,
   ForwardOutline,
   ForwardSolid,
+  ForwardStepSolid,
   GiftBoxOutline,
   GiftBoxSolid,
   GlobeOutline,
