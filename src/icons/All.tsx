@@ -305,6 +305,7 @@ import ReceiptOutline from './ReceiptOutline';
 import ReceiptSolid from './ReceiptSolid';
 import RectangleListOutline from './RectangleListOutline';
 import RectangleListSolid from './RectangleListSolid';
+import ReplyAllSolid from './ReplyAllSolid';
 import ReplyOutline from './ReplyOutline';
 import ReplySolid from './ReplySolid';
 import RocketOutline from './RocketOutline';
@@ -693,6 +694,7 @@ export {
   ReceiptSolid,
   RectangleListOutline,
   RectangleListSolid,
+  ReplyAllSolid,
   ReplyOutline,
   ReplySolid,
   RocketOutline,
