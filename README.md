@@ -161,6 +161,7 @@ export default Avatar;
 | <img src="./src/raw/camera-photo-solid.svg" width="30" alt="camera-photo-solid"> | [camera-photo-solid](./src/icons/CameraPhotoSoild.tsx) |
 | <img src="./src/raw/caret-down-solid.svg" width="30" alt="caret-down-solid"> | [caret-down-solid](./src/icons/CaretDownSoild.tsx) |
 | <img src="./src/raw/caret-right-solid.svg" width="30" alt="caret-right-solid"> | [caret-right-solid](./src/icons/CaretRightSoild.tsx) |
+| <img src="./src/raw/caret-sort-outline.svg" width="30" alt="caret-sort-outline"> | [caret-sort-outline](./src/icons/CaretSortOutline.tsx) |
 | <img src="./src/raw/caret-sort-solid.svg" width="30" alt="caret-sort-solid"> | [caret-sort-solid](./src/icons/CaretSortSoild.tsx) |
 | <img src="./src/raw/caret-up-solid.svg" width="30" alt="caret-up-solid"> | [caret-up-solid](./src/icons/CaretUpSolid.tsx) |
 | <img src="./src/raw/chart-line-up-outline.svg" width="30" alt="chart-line-up-outline"> | [chart-line-up-outline](./src/icons/ChartLineUpOutline.tsx) |

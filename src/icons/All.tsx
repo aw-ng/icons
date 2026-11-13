@@ -83,7 +83,8 @@ import CameraPhoneSolid from './CameraPhoneSolid';
 import CameraPhotoOutline from './CameraPhotoOutline';
 import CameraPhotoSolid from './CameraPhotoSolid';
 import CaretDownSolid from './CaretDownSolid';
-import CaretRightSolid from './CaretRightSolid';
+import CaretRightSolid from './CaretRightSolid';        
+import CaretSortOutline from './CaretSortOutline';
 import CaretSortSolid from './CaretSortSolid';
 import CaretUpSolid from './CaretUpSolid';
 import ChartLineUpOutline from './ChartLineUpOutline';
@@ -472,6 +473,7 @@ export {
   CameraPhotoSolid,
   CaretDownSolid,
   CaretRightSolid,
+  CaretSortOutline,
   CaretSortSolid,
   CaretUpSolid,
   ChartLineUpOutline,
