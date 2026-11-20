@@ -2,30 +2,38 @@ name: Icons CI
 
 on:
   push:
+    branches: [master, staging]
+  pull_request:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   ci:
     name: CI
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v7
 
       - name: Set up Node.js 24.x
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v7
         with:
           node-version: 24.x
+          cache: yarn
 
-      - name: Install NPM
+      - name: Install dependencies
         run: |
-          yarn install
+          yarn install --frozen-lockfile
 
       - name: Check Linting
         run: |
           yarn lint
 
+      - name: Check TypeScript
+        run: |
+          yarn tsc --noEmit
+
       - name: Run Test Suites
         run: |
-          yarn test -u --passWithNoTests
+          yarn test --ci --passWithNoTests
