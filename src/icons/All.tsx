@@ -33,6 +33,7 @@ import ArrowRightAltSolid from './ArrowRightAltSolid';
 import ArrowRightOutline from './ArrowRightOutline';
 import ArrowRightToBracketOutline from './ArrowRightToBracketOutline';
 import ArrowSortLettersOutline from './ArrowSortLettersOutline';
+import ArrowsRepeatOutline from './ArrowsRepeatOutline';
 import ArrowUpDownOutline from './ArrowUpDownOutline';
 import ArrowUpFromBracketOutline from './ArrowUpFromBracketOutline';
 import ArrowUpOutline from './ArrowUpOutline';
@@ -430,6 +431,7 @@ export {
   ArrowRightOutline,
   ArrowRightToBracketOutline,
   ArrowSortLettersOutline,
+  ArrowsRepeatOutline,
   ArrowUpDownOutline,
   ArrowUpFromBracketOutline,
   ArrowUpOutline,

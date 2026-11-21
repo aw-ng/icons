@@ -110,6 +110,7 @@ export default Avatar;
 | <img src="./src/raw/arrow-right-outline.svg" width="30" alt="arrow-right-outline"> | [arrow-right-outline](./src/icons/ArrowRightOutline.tsx) |
 | <img src="./src/raw/arrow-right-to-bracket-outline.svg" width="30" alt="arrow-right-to-bracket-outline"> | [arrow-right-to-bracket-outline](./src/icons/ArrowRightToBracketOutline.tsx) |
 | <img src="./src/raw/arrow-sort-letters-outline.svg" width="30" alt="arrow-sort-letters-outline"> | [arrow-sort-letters-outline](./src/icons/ArrowSortLettersOutline.tsx) |
+| <img src="./src/raw/arrows-repeat-outline.svg" width="30" alt="arrows-repeat-outline"> | [arrows-repeat-outline](./src/icons/ArrowsRepeatOutline.tsx) |
 | <img src="./src/raw/arrow-up-down-outline.svg" width="30" alt="arrow-up-down-outline"> | [arrow-up-down-outline](./src/icons/ArrowUpDownOutline.tsx) |
 | <img src="./src/raw/arrow-up-from-bracket-outline.svg" width="30" alt="arrow-up-from-bracket-outline"> | [arrow-up-from-bracket-outline](./src/icons/ArrowUpFromBracketOutline.tsx) |
 | <img src="./src/raw/arrow-up-outline.svg" width="30" alt="arrow-up-outline"> | [arrow-up-outline](./src/icons/ArrowUpOutline.tsx) |
