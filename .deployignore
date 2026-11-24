@@ -1,7 +1,0 @@
-.editorconfig
-.github
-.gitignore
-.prettierrc
-eslint.config.js
-jest.config.cjs
-tests
