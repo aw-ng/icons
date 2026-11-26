@@ -46,6 +46,7 @@ import BackwardStepSolid from './BackwardStepSolid';
 import BadgeCheckOutline from './BadgeCheckOutline';
 import BadgeCheckSolid from './BadgeCheckSolid';
 import BanOutline from './BanOutline';
+import BarcodeOutline from './BarcodeOutline';
 import BarsFromLeftOutline from './BarsFromLeftOutline';
 import BarsOutline from './BarsOutline';
 import BatteryFullOutline from './BatteryFullOutline';
@@ -443,6 +444,7 @@ export {
   BadgeCheckOutline,
   BadgeCheckSolid,
   BanOutline,
+  BarcodeOutline,
   BarsFromLeftOutline,
   BarsOutline,
   BatteryFullOutline,
